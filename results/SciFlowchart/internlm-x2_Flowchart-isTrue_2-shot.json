@@ -1,0 +1,2030 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2204.10509v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.05735v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.02429v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1246860-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.10828v2-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1022460-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.03031v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.11189v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.01715v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.07508v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.11824v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.04105v1-Figure3.5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.01326v1-Figure5-1.png": {
+        "prediction": "The given image is a flowchart that describes the process of determining if SF is improving photocurrent in a device. The flowchart has multiple decision points and paths, which are represented by arrows connecting different parts of the flowchart. The decision points ask questions about the evidence for an effect, the presence of triplets, and the presence of singlets. Based on the answers to these questions, the flowchart guides the user through a series of steps to determine the effectiveness of SF in improving phot",
+        "reference": "true"
+    },
+    "2204.08696v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.08366v2-Figure2-1.png": {
+        "prediction": "The image is a flowchart that depicts the process of using a quadratic residual network (QRes) layer in a deep neural network (DNN). The QRes layer is designed to improve the performance of the DNN by incorporating additional information from the input. This is achieved by using a quadratic residual block, which consists of two convolutional layers and a skip connection. The output of the QRes layer is then passed through a non-linear activation function before being used as the input to",
+        "reference": "true"
+    },
+    "2205.09510v2-Figure6.4-1.png": {
+        "prediction": "The image is a diagram of a quantum machine learning model, which uses quantum data and classical processing. The diagram shows the flow of information from the quantum data to the classical optimizer, and then to the average. It also shows the use of case 1 and 2, which are used for indirect call patterns. This diagram represents the \"QC\" setting of quantum machine learning, where data is quantum and processing is classical. Therefore, the given statement is true.",
+        "reference": "true"
+    },
+    "2205.09510v2-Figure6.11-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.05240v1-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2210.02172v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "14844989-Figure2-1.png": {
+        "prediction": "The given image is a flowchart extracted from scientific literature. The diagram shows the process of using a multi-task network and cross-domain architecture for natural language processing tasks.\n\nThe multi-task network consists of two main parts: a convolutional layer and a fully connected layer. The convolutional layer is used to extract features from the input, while the fully connected layer is responsible for classification. The softmax loss is used in the training process to improve the performance of the network.\n\nThe cross-domain architecture",
+        "reference": "true"
+    },
+    "2205.03661v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "162169-Figure3-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2202.03344v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.12764v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.13446v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.06007v1-Figure14-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2107.12859v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.00248v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.06310v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.05336v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.03026v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1381187-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "13567899-Figure3-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2204.10374v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.00041v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.14005v2-Figure9-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.14764v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1422748-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07004v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1061647-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.06081v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.03373v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.07828v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.08827v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.08805v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.13865v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1828713-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "53776814-Figure4-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2107.01209v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.14160v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.12022v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2207.06080v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.09225v1-Figure1-1.png": {
+        "prediction": "True",
+        "reference": "true"
+    },
+    "2102.09837v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.01032v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.01032v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.02070v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1319230-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "210713891-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.00726v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.09353v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.01418v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.05151v2-Figure5-1.png": {
+        "prediction": "The given text is a flowchart, and the answer is not provided.",
+        "reference": "true"
+    },
+    "1482745-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.08812v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07910v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06182v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06182v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.04910v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06208v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.01104v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "51865-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.02113v1-Figure8.1-1.png": {
+        "prediction": "The given image is a Venn diagram showing entropic quantities associated with a pair of random variables taking values in different sets. The diagram shows the Shannon entropies H(X) and H(Y), the joint entropy H(X,Y), the conditional entropies H(X | Y) and H(Y | X), and the mutual information I(X; Y). It does not provide any information about the correctness of a statement, so the answer is \"not applicable.\"",
+        "reference": "true"
+    },
+    "2012.02113v1-Figure7.4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.12696v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "206593096-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.10868v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.04539v2-Figure10-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.04539v2-Figure6-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2102.04539v2-Figure4-1.png": {
+        "prediction": "a",
+        "reference": "true"
+    },
+    "2110.06487v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.00907v1-Figure4-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2206.00162v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.03148v2-Figure4-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2110.09749v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.07592v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05680v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05214v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.12058v2-Figure17-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.05447v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.00041v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.00846v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07424v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.03873v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.10426v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.09537v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.06268v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.14684v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.08316v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.03420v1-Figure2-1.png": {
+        "prediction": "The diagram shows a fully connected convolutional neural network with four hidden layers. The input layer is connected to the first hidden layer, and each subsequent hidden layer is fully connected to the next one. The output layer is fully connected to the last hidden layer. This architecture allows for efficient processing of large amounts of data and can be used for various applications such as image recognition, natural language processing, and speech recognition.",
+        "reference": "true"
+    },
+    "2107.00465v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "210701837-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.09388v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.10114v1-Figure10-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.02216v2-Figure10-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.12327v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.01919v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.12156v1-Figure2-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, the answer to the question is:\n\nTrue",
+        "reference": "true"
+    },
+    "2107.00710v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1369182-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.09510v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.10312v2-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "204955470-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "204955470-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "12938495-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06988v2-Figure22-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.06744v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.05406v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.11685v2-Figure3-4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "214727773-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.13121v1-Figure14-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.07233v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.08180v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.03990v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.03990v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.03990v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.07376v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.02090v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.00713v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1505637-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.03197v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.03307v2-Figure11-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.09125v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.06271v1-Figure5-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "212029-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "174869-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.05900v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.03491v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.09318v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1294630-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.03234v5-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.06150v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.10397v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.08422v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.01713v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.15032v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.09258v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1090603-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.08554v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.06007v2-Figure13-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05307v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.07052v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.03564v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.03090v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.04370v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.01209v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.05956v1-Figure3-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2205.10889v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.10590v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "17589422-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.03875v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.14111v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.05751v2-Figure2-1.png": {
+        "prediction": "The image is a flowchart that shows the process of detecting spans in text. The flowchart has different sections, such as \"use case u1\", \"direct call relations\", \"indirect call relations\", and \"direct call patterns\". It also includes various elements like \"Trace 1\" and \"Trace 2\". The flowchart seems to be related to natural language processing, specifically span detection. However, I cannot provide a detailed explanation or answer the given question about the correctness of a statement",
+        "reference": "true"
+    },
+    "2107.04367v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.04367v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.04367v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.06536v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.02220v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.10630v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.03561v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.01191v1-Figure2-1.png": {
+        "prediction": "The image is a flowchart that shows the process of using a case to determine the correct answer. The flowchart has two main sections: \"use case u1\" and \"indirect call relations.\" The first section outlines the steps for using a case, while the second section shows the relationships between direct and indirect calls. Based on the information in the flowchart, the given statement \"use case u1\" is not related to the process outlined in the flowchart. Therefore, the answer is",
+        "reference": "true"
+    },
+    "2101.08621v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.10635v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.03189v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07327v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07327v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.08043v1-Figure14-1.png": {
+        "prediction": "The answer is true.",
+        "reference": "true"
+    },
+    "1125974-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "812092-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.11032v5-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.13367v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.06192v3-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.07277v1-Figure1-1.png": {
+        "prediction": "The image is a flowchart that depicts the process of using a case. The flowchart shows the use of two cases, case 1 and case 2, and their corresponding call relations and indirect call patterns. The diagram also includes information about the output layer, the stack of encoders, and the final input representation. Based on the information provided in the flowchart, the given statement \"use case 1\" is true. Therefore, the answer is 'true'.",
+        "reference": "true"
+    },
+    "2011.08946v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "999120-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.05825v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "200059-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.10758v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.04333v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1358694-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06670v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.14294v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.06875v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "210911552-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.03371v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1189091-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.04989v1-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2011.05643v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06186v1-Figure3-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "113704-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.07774v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.01335v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.01384v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.06791v3-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.03244v5-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06168v4-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.10485v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.08921v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.11991v2-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.05928v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.02775v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.15764v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure38-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure59-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure31-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure32-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure21-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09450v1-Figure47-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.10313v1-Figure1-1.png": {
+        "prediction": "False",
+        "reference": "true"
+    },
+    "2207.10392v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.07831v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1262057-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.00638v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.15979v1-Figure7-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2206.00991v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1356654-Figure2-1.png": {
+        "prediction": "The answer is true.",
+        "reference": "true"
+    },
+    "980236-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "204823930-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "336802-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.10801v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.04223v2-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2101.11508v8-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.09757v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.03117v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.11078v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.06433v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.12346v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.12745v4-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.06361v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.09340v3-Figure9-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.03178v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.07079v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1580300-Figure2.2-1.png": {
+        "prediction": "True",
+        "reference": "true"
+    },
+    "2207.14299v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.04225v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.04925v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1592947-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.14903v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.15553v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "214611580-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1047598-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.07001v1-Figure13-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2204.03065v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "137199-Figure3-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nThe answer is: true",
+        "reference": "true"
+    },
+    "2012.01644v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.01249v2-Figure16-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.01249v2-Figure12-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.01249v2-Figure14-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "140529-Figure1-1.png": {
+        "prediction": "unanswerable",
+        "reference": "true"
+    },
+    "2204.08626v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2101.08520v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.14758v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.14758v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.05647v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.00341v1-Figure1.1-1.png": {
+        "prediction": "Line 3 is the most stable, with a slight increase in popularity over time. Line 2 and 1 have similar trends, but Line 1 has a more pronounced peak at around xlabel 1.5.",
+        "reference": "true"
+    },
+    "2205.13948v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.01528v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "913274-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "914562-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.02047v2-Figure2-1.png": {
+        "prediction": "The image is a flowchart that shows the process of unified gesture recognition and fingertip detection. The diagram includes several components, such as input image, cropped and re-sized image, input to the CNN architecture, and output. The output layer consists of flattened, convolutional, and fully connected layers. The diagram also shows the use case for the algorithm, which involves using the case 1 and case 2. The diagram is designed to help people understand the process of how the algorithm works",
+        "reference": "true"
+    },
+    "2202.06065v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.15175v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.06446v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "18233504-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.13114v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "988721-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.07568v4-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "201666925-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "201666925-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05180v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.10337v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "30595348-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1233699-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.09688v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.10072v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "688013-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1379674-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2011.05655v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.08003v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.03587v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.13130v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.14969v2-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.00702v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.04319v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.11782v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2107.09786v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.09964v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.06417v2-Figure2.12-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.02729v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.04234v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.10375v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.08386v4-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.07837v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "11277821-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2010.10246v2-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2202.07638v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.05329v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2110.06972v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.14705v2-Figure10-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06275v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2205.13113v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.10128v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.13078v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.00719v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.02670v2-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.10688v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1241810-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.12453v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.04161v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.00466v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.00034v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1508199-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.12683v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2103.07018v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.02704v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06076v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.00150v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.00186v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "211532678-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "14194315-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.06543v1-Figure3-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2012.10294v4-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.12279v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1189033-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.05544v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.12527v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.00352v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.08607v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.14771v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1023605-Figure10-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1011245-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.06872v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.01496v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.14532v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.13826v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.11334v1-Figure3-1.png": {
+        "prediction": "The answer is true.",
+        "reference": "true"
+    },
+    "822804-Figure1-1.png": {
+        "prediction": "The left hand side of the image is an overview of the model.",
+        "reference": "true"
+    },
+    "1576593-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.02573v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.02573v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "213980-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.05963v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.05452v1-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "909872-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "126819-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "211678216-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.00020v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.00020v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.06125v3-Figure2-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2202.10332v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.09110v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.08122v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.06236v3-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.07525v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.03357v1-Figure16-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.07810v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.07810v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.03183v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2202.12108v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.04861v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.12100v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "209217-Figure2-1.png": {
+        "prediction": "The cat is sitting.",
+        "reference": "true"
+    },
+    "1504097-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.15560v2-Figure9-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2202.01897v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1045792-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.05262v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.13038v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1872130-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.06981v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.03418v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.10658v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.11262v5-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.12979v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.08893v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.13313v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "207468-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.12816v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "90264-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.10461v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.06804v3-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1339502-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1639981-Figure3-1.png": {
+        "prediction": "The answer is true.",
+        "reference": "true"
+    },
+    "2204.05103v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.03152v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.11568v4-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.10685v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.07082v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.06179v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.03347v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.06702v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.00048v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.09890v1-Figure16-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.07150v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.11878v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.04335v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.08706v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.13965v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1165810-Figure3-1.png": {
+        "prediction": "The answer is true.",
+        "reference": "true"
+    },
+    "2011.07995v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.09966v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.10535v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1087044-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.00705v2-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2107.12847v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.06808v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.00528v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05802v2-Figure4-1.png": {
+        "prediction": "The given image is a flowchart extracted from a scientific literature. Based on the process outlined in the flowchart, determine the correctness of the given statement. Answer with either \"true\" or \"false\".\n\nAnswer: true",
+        "reference": "true"
+    },
+    "2011.09361v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.04560v3-Figure9-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.03143v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1292676-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1321977-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.14795v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.13183v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.00815v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06743v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.12772v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2109.09113v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.13733v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.10804v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.14647v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.02550v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.09770v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1068967-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.14142v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2109.00038v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.07728v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.11695v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.11906v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.06256v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.00770v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.06782v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1026139-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.06011v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.04962v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.05666v1-Figure3-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2207.00422v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.11913v1-Figure8-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2210.07587v2-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "2204.00172v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.05858v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.09652v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.14568v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.02271v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.05792v4-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.07804v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "215238689-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1016639-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.07860v3-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.08010v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.00486v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.10538v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.05132v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.06453v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.09602v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.10523v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.12854v6-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.04317v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.02646v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "117714-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.02290v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2206.13082v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.08402v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.04593v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.09727v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.05804v3-Figure1-1.png": {
+        "prediction": "True",
+        "reference": "true"
+    },
+    "2107.02955v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2207.04913v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2202.13626v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "19488885-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2011.10683v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.15997v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.03921v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2102.03921v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.05232v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.00679v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2110.00808v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1245438-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "407011-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2204.04591v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.04229v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2107.04229v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2101.10102v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2010.13007v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.05892v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "1446589-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2205.03991v2-Figure4.1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2012.12554v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "216738-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2210.01442v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "2103.04138v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "true"
+    }
+}

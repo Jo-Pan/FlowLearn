@@ -1,0 +1,402 @@
+{
+    "8394.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9101.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8289.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9570.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8811.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9380.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9802.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9213.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9829.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8660.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9698.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9618.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8151.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8730.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9479.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9022.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9102.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8221.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9410.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9517.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9381.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8479.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8654.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9516.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9309.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8593.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9523.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8167.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8515.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9247.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8987.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9937.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9393.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9287.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8681.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9981.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8953.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9178.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8381.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8142.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8639.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8074.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9542.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8034.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8007.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9412.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8711.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8248.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9520.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9901.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9555.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9259.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8854.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8163.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8873.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9494.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8449.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8835.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8630.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9537.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9512.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9876.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9560.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8947.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8973.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8454.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9361.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8714.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9764.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8685.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8484.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9794.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9532.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8216.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9942.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9924.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8333.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8237.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9760.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8276.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9700.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8897.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8794.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9453.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8506.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9602.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9896.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8886.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8596.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9258.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9188.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8448.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9061.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8242.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8918.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8277.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9264.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8069.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9103.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9717.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    }
+}

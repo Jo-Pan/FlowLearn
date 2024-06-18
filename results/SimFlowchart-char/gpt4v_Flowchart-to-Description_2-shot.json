@@ -1,0 +1,42 @@
+{
+    "8394.jpeg": {
+        "prediction": "B points to F. F points to D. F points to E. J points to E. J points to C. C points to H. E points to C. D points to J.",
+        "reference": "F points to D. F points to E. F points to C. F points to J. C points to H. B points to J. J points to C. "
+    },
+    "9101.jpeg": {
+        "prediction": "B points to E. E points to D. D points to H. G points to C. C points to A. A points to H.",
+        "reference": "G points to C. G points to A. E points to H. B points to D. D points to H. C points to H. "
+    },
+    "8289.jpeg": {
+        "prediction": "C points to E. E points to F. E points to J. E points to H. ",
+        "reference": "C points to E. C points to F. E points to F. E points to J. E points to H. "
+    },
+    "9570.jpeg": {
+        "prediction": "A points to C. H points to C. C points to A.",
+        "reference": "A points to C. H points to C. C points to A. "
+    },
+    "8811.jpeg": {
+        "prediction": "A points to C. C points to K. K points to F. F points to A. F points to C.",
+        "reference": "C points to K. C points to F. K points to F. A points to F. A points to C. F points to K. "
+    },
+    "9380.jpeg": {
+        "prediction": "B points to E. B points to D. C points to J. J points to K. J points to E.",
+        "reference": "C points to J. B points to D. B points to E. J points to K. J points to D. "
+    },
+    "9802.jpeg": {
+        "prediction": "F points to G. G points to D. D points to E. E points to B. B points to F. K points to E. A points to C. C points to F. J points to A.",
+        "reference": "B points to E. B points to A. F points to G. F points to D. D points to G. K points to G. K points to C. A points to J. A points to F. G points to E. G points to F. E points to D. "
+    },
+    "9213.jpeg": {
+        "prediction": "B points to F. F points to K. K points to H. H points to J. J points to B.",
+        "reference": "H points to K. H points to J. K points to B. K points to F. F points to B. "
+    },
+    "9829.jpeg": {
+        "prediction": "E points to K. K points to D. B points to E. B points to J. J points to F. F points to A. H points to G. H points to B. D points to H.",
+        "reference": "G points to H. J points to K. J points to D. B points to D. B points to K. A points to F. E points to K. F points to K. F points to J. H points to F. H points to B. "
+    },
+    "8660.jpeg": {
+        "prediction": "K points to F. F points to D. D points to H. H points to C. C points to E. E points to J. J points to D.",
+        "reference": "H points to D. J points to C. J points to E. E points to C. C points to D. F points to K. D points to K. "
+    }
+}

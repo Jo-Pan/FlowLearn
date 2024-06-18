@@ -1,0 +1,42 @@
+{
+    "8394.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9101.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "8289.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9570.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8811.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9380.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9802.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "9213.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    },
+    "9829.jpeg": {
+        "prediction": "false",
+        "reference": "true"
+    },
+    "8660.jpeg": {
+        "prediction": "true",
+        "reference": "true"
+    }
+}

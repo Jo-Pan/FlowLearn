@@ -1,0 +1,22 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": " false",
+        "reference": "true"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": " true",
+        "reference": "true"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": " true",
+        "reference": "true"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": " false",
+        "reference": "true"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": " The given statement is false.\nIn the flowchart, the direct call relations are shown as relations between C1, C2, C3, C4, C5, and C6, while indirect call relations are shown as relations between C1 and C4, C2 and C6, and C1 and C6. However, there is also a direct call relation between C2 and C5, which is not included in the direct call relations.",
+        "reference": "true"
+    }
+}

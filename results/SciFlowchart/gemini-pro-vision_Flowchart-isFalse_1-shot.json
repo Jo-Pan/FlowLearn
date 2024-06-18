@@ -1,0 +1,22 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": " false",
+        "reference": "false"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": " true",
+        "reference": "false"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": " true",
+        "reference": "false"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": " false",
+        "reference": "false"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": " In the image, the relations between C1 and C2 are both direct and indirect. So C1 and C2 have indirect relation. The statement is true.",
+        "reference": "false"
+    }
+}

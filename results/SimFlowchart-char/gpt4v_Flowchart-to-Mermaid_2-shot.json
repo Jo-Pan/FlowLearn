@@ -1,0 +1,42 @@
+{
+    "8394.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(B)\nentity1(F)\nentity2(D)\nentity3(E)\nentity4(C)\nentity5(J)\nentity6(H)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity3\nentity2 --> entity4\nentity3 --> entity4\nentity4 --> entity6\nentity5 --> entity2\nentity5 --> entity3\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(F)\nentity1(D)\nentity2(E)\nentity3(C)\nentity4(B)\nentity5(J)\nentity6(H)\nentity0 ==> entity1\nentity0 ==> entity2\nentity0 ==> entity3\nentity0 ==> entity5\nentity3 ==> entity6\nentity4 ==> entity5\nentity5 ==> entity3\n```"
+    },
+    "9101.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(B)\nentity1(D)\nentity2(E)\nentity3(A)\nentity4(G)\nentity5(C)\nentity6(H)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity6\nentity3 --> entity6\nentity4 --> entity5\nentity5 --> entity3\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(G)\nentity1(E)\nentity2(B)\nentity3(D)\nentity4(A)\nentity5(C)\nentity6(H)\nentity0 ==> entity5\nentity0 ==> entity4\nentity1 ==> entity6\nentity2 ==> entity3\nentity3 ==> entity6\nentity5 ==> entity6\n```"
+    },
+    "8289.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(C)\nentity1(E)\nentity2(F)\nentity3(J)\nentity4(H)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity3\nentity1 --> entity4\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(C)\nentity1(E)\nentity2(J)\nentity3(F)\nentity4(H)\nentity0 ==> entity1\nentity0 ==> entity3\nentity1 ==> entity3\nentity1 ==> entity2\nentity1 ==> entity4\n```"
+    },
+    "9570.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(A)\nentity1(H)\nentity2(C)\nentity0 ==> entity2\nentity1 ==> entity2\nentity2 ==> entity0\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(A)\nentity1(H)\nentity2(C)\nentity0 ==> entity2\nentity1 ==> entity2\nentity2 ==> entity0\n```"
+    },
+    "8811.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(A)\nentity1(C)\nentity2(K)\nentity3(F)\nentity0 ==> entity1\nentity1 ==> entity2\nentity2 ==> entity3\nentity3 ==> entity0\nentity3 ==> entity2\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(C)\nentity1(K)\nentity2(A)\nentity3(F)\nentity0 ==> entity1\nentity0 ==> entity3\nentity1 ==> entity3\nentity2 ==> entity3\nentity2 ==> entity0\nentity3 ==> entity1\n```"
+    },
+    "9380.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(B)\nentity1(E)\nentity2(D)\nentity3(C)\nentity4(J)\nentity5(K)\nentity0 --> entity1\nentity0 --> entity2\nentity3 --> entity4\nentity4 --> entity5\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(C)\nentity1(B)\nentity2(J)\nentity3(E)\nentity4(K)\nentity5(D)\nentity0 ==> entity2\nentity1 ==> entity5\nentity1 ==> entity3\nentity2 ==> entity4\nentity2 ==> entity5\n```"
+    },
+    "9802.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(F)\nentity1(G)\nentity2(D)\nentity3(E)\nentity4(B)\nentity5(C)\nentity6(K)\nentity7(A)\nentity8(J)\nentity0 --> entity2\nentity2 --> entity3\nentity3 --> entity4\nentity1 --> entity3\nentity4 --> entity1\nentity5 --> entity0\nentity5 --> entity1\nentity0 -.-> entity6\nentity6 -.-> entity2\nentity7 --> entity5\nentity8 --> entity7\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(B)\nentity1(F)\nentity2(D)\nentity3(K)\nentity4(A)\nentity5(G)\nentity6(C)\nentity7(E)\nentity8(J)\nentity0 ==> entity7\nentity0 ==> entity4\nentity1 ==> entity5\nentity1 ==> entity2\nentity2 ==> entity5\nentity3 ==> entity5\nentity3 ==> entity6\nentity4 ==> entity8\nentity4 ==> entity1\nentity5 ==> entity7\nentity5 ==> entity1\nentity7 ==> entity2\n```"
+    },
+    "9213.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(F)\nentity1(B)\nentity2(K)\nentity3(H)\nentity4(J)\nentity1 --> entity0\nentity2 --> entity3\nentity3 --> entity4\nentity4 --> entity2\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(H)\nentity1(K)\nentity2(F)\nentity3(B)\nentity4(J)\nentity0 ==> entity1\nentity0 ==> entity4\nentity1 ==> entity3\nentity1 ==> entity2\nentity2 ==> entity3\n```"
+    },
+    "9829.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(E)\nentity1(K)\nentity2(B)\nentity3(J)\nentity4(D)\nentity5(F)\nentity6(H)\nentity7(G)\nentity8(A)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\nentity3 --> entity4\nentity4 --> entity3\nentity5 --> entity6\nentity6 --> entity7\nentity7 --> entity8\nentity1 --> entity5\nentity2 --> entity5\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(G)\nentity1(J)\nentity2(B)\nentity3(A)\nentity4(E)\nentity5(F)\nentity6(D)\nentity7(H)\nentity8(K)\nentity0 ==> entity7\nentity1 ==> entity8\nentity1 ==> entity6\nentity2 ==> entity6\nentity2 ==> entity8\nentity3 ==> entity5\nentity4 ==> entity8\nentity5 ==> entity8\nentity5 ==> entity1\nentity7 ==> entity5\nentity7 ==> entity2\n```"
+    },
+    "8660.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(K)\nentity1(F)\nentity2(D)\nentity3(H)\nentity4(C)\nentity5(E)\nentity6(J)\nentity1 ==> entity0\nentity0 ==> entity2\nentity2 ==> entity3\nentity3 ==> entity4\nentity4 ==> entity5\nentity5 ==> entity6\nentity6 ==> entity4\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(H)\nentity1(J)\nentity2(E)\nentity3(C)\nentity4(F)\nentity5(D)\nentity6(K)\nentity0 ==> entity5\nentity1 ==> entity3\nentity1 ==> entity2\nentity2 ==> entity3\nentity3 ==> entity5\nentity4 ==> entity6\nentity5 ==> entity6\n```"
+    }
+}

@@ -1,0 +1,2022 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": " Loss/Metrics",
+        "reference": "Loss/Metrics"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Perception Model"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Better solutions"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "t+1"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "A1"
+    },
+    "2204.10509v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "context"
+    },
+    "2202.05735v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Photoplethysmography"
+    },
+    "2101.02429v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "P1"
+    },
+    "1246860-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "sentence"
+    },
+    "2102.10828v2-Figure7-1.png": {
+        "prediction": " C5",
+        "reference": "m+1"
+    },
+    "1022460-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "wheeled vehicle"
+    },
+    "2110.03031v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Z"
+    },
+    "2101.11189v1-Figure2-1.png": {
+        "prediction": " Head Point Estimation",
+        "reference": "Head Point estimation"
+    },
+    "2204.01715v1-Figure7-1.png": {
+        "prediction": " Ray",
+        "reference": "Ray"
+    },
+    "2202.07508v3-Figure3-1.png": {
+        "prediction": " Global Pooling",
+        "reference": "Global"
+    },
+    "2202.11824v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "5"
+    },
+    "2011.04105v1-Figure3.5-1.png": {
+        "prediction": " Dissemination Plane",
+        "reference": "Plane"
+    },
+    "2202.01326v1-Figure5-1.png": {
+        "prediction": " Yes",
+        "reference": "Yes"
+    },
+    "2204.08696v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "M"
+    },
+    "2101.08366v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "W1"
+    },
+    "2205.09510v2-Figure6.4-1.png": {
+        "prediction": " classical optimizer",
+        "reference": "classical"
+    },
+    "2205.09510v2-Figure6.11-1.png": {
+        "prediction": " classical optimizer",
+        "reference": "optimizer"
+    },
+    "2206.05240v1-Figure2-1.png": {
+        "prediction": " Posterior Sampling",
+        "reference": "Posterior Sampling"
+    },
+    "2210.02172v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Environment"
+    },
+    "14844989-Figure2-1.png": {
+        "prediction": " softmax loss",
+        "reference": "512"
+    },
+    "2205.03661v1-Figure1-1.png": {
+        "prediction": " Determine the number of basic blocks",
+        "reference": "Determine the"
+    },
+    "162169-Figure3-1.png": {
+        "prediction": " CAUSE_TO_MAKE_NOISE",
+        "reference": "CAUSE_TO_MAKE_NOISE"
+    },
+    "2202.03344v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Candidate degrees: P"
+    },
+    "2207.12764v1-Figure1-1.png": {
+        "prediction": " Select the desired object type for clustering",
+        "reference": "Select the"
+    },
+    "2103.13446v3-Figure2-1.png": {
+        "prediction": " f(l)com",
+        "reference": "com"
+    },
+    "2107.06007v1-Figure14-1.png": {
+        "prediction": " C5",
+        "reference": "A"
+    },
+    "2107.12859v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "PointNet"
+    },
+    "2012.00248v1-Figure1-1.png": {
+        "prediction": " Objects",
+        "reference": "iects"
+    },
+    "2010.06310v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "The Cross-Supervised Mechanism"
+    },
+    "2202.05336v1-Figure1-1.png": {
+        "prediction": " Motion Estimation",
+        "reference": "Motion"
+    },
+    "2107.03026v1-Figure7-1.png": {
+        "prediction": " C5",
+        "reference": "Influence on"
+    },
+    "1381187-Figure1-1.png": {
+        "prediction": " upsampling + conv + BN + ReLU",
+        "reference": "upsampling + conv + BN + ReLU"
+    },
+    "13567899-Figure3-1.png": {
+        "prediction": " Conv4b",
+        "reference": "Conv4b"
+    },
+    "2204.10374v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "pixel obs, reward"
+    },
+    "2010.00041v1-Figure3-1.png": {
+        "prediction": " Stopping criteria",
+        "reference": "Stopping"
+    },
+    "2103.14005v2-Figure9-1.png": {
+        "prediction": " C5",
+        "reference": "n x 64 x h/2 x w/2"
+    },
+    "2110.14764v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "TFIDF"
+    },
+    "1422748-Figure1-1.png": {
+        "prediction": " Entity Disambiguation and Linking",
+        "reference": "and Linking"
+    },
+    "2101.07004v1-Figure2-1.png": {
+        "prediction": " Downlink data transmission",
+        "reference": "Downlink data transmission"
+    },
+    "1061647-Figure5-1.png": {
+        "prediction": " 1x1 Convolution",
+        "reference": "1x1"
+    },
+    "2103.06081v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Sample plane"
+    },
+    "2202.03373v1-Figure5-1.png": {
+        "prediction": " c5",
+        "reference": "1"
+    },
+    "2207.07828v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "SPGM"
+    },
+    "2102.08827v1-Figure3-1.png": {
+        "prediction": " skill",
+        "reference": "skill"
+    },
+    "2204.08805v1-Figure5-1.png": {
+        "prediction": " comparison",
+        "reference": "comparison"
+    },
+    "2207.13865v1-Figure3-1.png": {
+        "prediction": " Batches inside sampled domains",
+        "reference": "Batches inside sampled"
+    },
+    "1828713-Figure2-1.png": {
+        "prediction": " Lookup",
+        "reference": "Lookup"
+    },
+    "53776814-Figure4-1.png": {
+        "prediction": " Deconvolution",
+        "reference": "Deconvolution"
+    },
+    "2107.01209v1-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Earth"
+    },
+    "2110.14160v2-Figure2-1.png": {
+        "prediction": " Composition of DA selection",
+        "reference": "Composition of DA selection"
+    },
+    "2205.12022v1-Figure1-1.png": {
+        "prediction": " L_cor",
+        "reference": "Lcor"
+    },
+    "2207.06080v2-Figure2-1.png": {
+        "prediction": " Non-linear mapping of Real Space to Feature Embeddings",
+        "reference": "Real Space to Feature"
+    },
+    "2204.09225v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Temporal Fea_1Temporal Fea_2Temporal Fea_T"
+    },
+    "2102.09837v1-Figure2-1.png": {
+        "prediction": " Init",
+        "reference": "Init"
+    },
+    "2202.01032v2-Figure5-1.png": {
+        "prediction": " Subscription Management",
+        "reference": "Subscription"
+    },
+    "2202.01032v2-Figure6-1.png": {
+        "prediction": " A1 termination",
+        "reference": "A1 termination"
+    },
+    "2202.02070v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Intra-Norm"
+    },
+    "1319230-Figure1-1.png": {
+        "prediction": " Document Summary (\\( \\tilde{d} \\))",
+        "reference": "Document Summary (d"
+    },
+    "210713891-Figure1-1.png": {
+        "prediction": " Qlast",
+        "reference": "Qlast"
+    },
+    "2206.00726v1-Figure1-1.png": {
+        "prediction": " Collision 1&N Classifier",
+        "reference": "Vehicles 1&N"
+    },
+    "2101.09353v2-Figure1-1.png": {
+        "prediction": " Radio link",
+        "reference": "Radio link"
+    },
+    "2101.01418v1-Figure2-1.png": {
+        "prediction": " Threshold Based",
+        "reference": "Threshold Based"
+    },
+    "2101.05151v2-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "k steps of prediction"
+    },
+    "1482745-Figure1-1.png": {
+        "prediction": " Input Layer",
+        "reference": "Input Layer"
+    },
+    "2210.08812v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Content"
+    },
+    "2101.07910v1-Figure2-1.png": {
+        "prediction": " Add to Next Generation",
+        "reference": "Yes"
+    },
+    "2012.06182v1-Figure1-1.png": {
+        "prediction": " Stratospheric Layer",
+        "reference": "Layer"
+    },
+    "2012.06182v1-Figure8-1.png": {
+        "prediction": " Stand-alone HAP",
+        "reference": "Stand-alone"
+    },
+    "2103.04910v1-Figure6-1.png": {
+        "prediction": " System",
+        "reference": "System"
+    },
+    "2202.06208v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "negative"
+    },
+    "2107.01104v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "X3"
+    },
+    "51865-Figure3-1.png": {
+        "prediction": " Pooling",
+        "reference": "Pooling"
+    },
+    "2012.02113v1-Figure8.1-1.png": {
+        "prediction": " H(X)",
+        "reference": "H(X)"
+    },
+    "2012.02113v1-Figure7.4-1.png": {
+        "prediction": " C5",
+        "reference": "p"
+    },
+    "2204.12696v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Latent V"
+    },
+    "206593096-Figure3-1.png": {
+        "prediction": " Design B",
+        "reference": "image-wise"
+    },
+    "2101.10868v1-Figure1-1.png": {
+        "prediction": " Changing Users' Behaviors",
+        "reference": "Changing Users' Behaviors"
+    },
+    "2102.04539v2-Figure10-1.png": {
+        "prediction": " C5",
+        "reference": "F"
+    },
+    "2102.04539v2-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "E V1"
+    },
+    "2102.04539v2-Figure4-1.png": {
+        "prediction": " b out",
+        "reference": "out"
+    },
+    "2110.06487v1-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Claim Site"
+    },
+    "2103.00907v1-Figure4-1.png": {
+        "prediction": " Output",
+        "reference": "Output"
+    },
+    "2206.00162v2-Figure2-1.png": {
+        "prediction": " Locally Linear Embedding",
+        "reference": "Embedding"
+    },
+    "2011.03148v2-Figure4-1.png": {
+        "prediction": " Focal Similarity Loss",
+        "reference": "Similarity"
+    },
+    "2110.09749v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "W"
+    },
+    "2103.07592v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "DM"
+    },
+    "2107.05680v1-Figure2-1.png": {
+        "prediction": " W2",
+        "reference": "W2"
+    },
+    "2107.05214v2-Figure6-1.png": {
+        "prediction": " E",
+        "reference": "E"
+    },
+    "2102.12058v2-Figure17-1.png": {
+        "prediction": " uncommitted",
+        "reference": "uncommitted"
+    },
+    "2103.05447v1-Figure2-1.png": {
+        "prediction": " Test Section",
+        "reference": "Test Section"
+    },
+    "2010.00041v3-Figure2-1.png": {
+        "prediction": " New population",
+        "reference": "New"
+    },
+    "2202.00846v1-Figure2-1.png": {
+        "prediction": " Group n",
+        "reference": "Group n"
+    },
+    "2101.07424v2-Figure1-1.png": {
+        "prediction": " Scene",
+        "reference": "Scene"
+    },
+    "2204.03873v1-Figure2-1.png": {
+        "prediction": " embedding",
+        "reference": "embedding"
+    },
+    "2204.10426v1-Figure1-1.png": {
+        "prediction": " Cognitive impairment (State 1)",
+        "reference": "impairment"
+    },
+    "2204.09537v1-Figure1-1.png": {
+        "prediction": " control & servoing",
+        "reference": "servoing"
+    },
+    "2107.06268v1-Figure1-1.png": {
+        "prediction": " Train individual forecasting models",
+        "reference": "Train individual forecasting models -> Sec"
+    },
+    "2011.14684v2-Figure4-1.png": {
+        "prediction": " sigmoid",
+        "reference": "Sigmoid"
+    },
+    "2206.08316v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Pretrained"
+    },
+    "2010.03420v1-Figure2-1.png": {
+        "prediction": " output layer",
+        "reference": "output laye"
+    },
+    "2107.00465v1-Figure1-1.png": {
+        "prediction": " Hidden Layer 3",
+        "reference": "Layer 3"
+    },
+    "210701837-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Sagittal Modified"
+    },
+    "2107.09388v2-Figure1-1.png": {
+        "prediction": " MHA",
+        "reference": "MHSA"
+    },
+    "2103.10114v1-Figure10-1.png": {
+        "prediction": " Advection: L(F) for 3 times",
+        "reference": "Advection:L(F) for 3 times"
+    },
+    "2011.02216v2-Figure10-1.png": {
+        "prediction": " s2",
+        "reference": "s2"
+    },
+    "2102.12327v1-Figure4-1.png": {
+        "prediction": " usage? = Scientific,cpu? = CPUD,mb? = MBSilver",
+        "reference": "I usage? = Scientific,cpu? = CPUD,mb? = MBSilver"
+    },
+    "2010.01919v2-Figure6-1.png": {
+        "prediction": " evaluation",
+        "reference": "Evaluation"
+    },
+    "2107.12156v1-Figure2-1.png": {
+        "prediction": " Thin film samples",
+        "reference": "Thin film samples"
+    },
+    "2107.00710v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Network"
+    },
+    "1369182-Figure1-1.png": {
+        "prediction": " action",
+        "reference": "action"
+    },
+    "2107.09510v1-Figure2-1.png": {
+        "prediction": " Output",
+        "reference": "Output"
+    },
+    "2103.10312v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Phase"
+    },
+    "204955470-Figure1-1.png": {
+        "prediction": " Candidate Generator",
+        "reference": "Generator"
+    },
+    "204955470-Figure6-1.png": {
+        "prediction": " NextVLAD Model",
+        "reference": "NeXtVLAD Model"
+    },
+    "12938495-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "J. Travolta"
+    },
+    "2202.06988v2-Figure22-1.png": {
+        "prediction": " C5",
+        "reference": "CNN"
+    },
+    "2102.06744v1-Figure1-1.png": {
+        "prediction": " Correcci\u00f3n fon\u00e9tica",
+        "reference": "Correccion"
+    },
+    "2206.05406v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Training"
+    },
+    "2101.11685v2-Figure3-4-1.png": {
+        "prediction": " C5",
+        "reference": "H"
+    },
+    "214727773-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "0"
+    },
+    "2202.13121v1-Figure14-1.png": {
+        "prediction": " Feature Extraction",
+        "reference": "Extraction"
+    },
+    "2011.07233v2-Figure3-1.png": {
+        "prediction": " g",
+        "reference": "g"
+    },
+    "2205.08180v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "SAMU-XLSR"
+    },
+    "2010.03990v1-Figure5-1.png": {
+        "prediction": " Bounding Box Coordinates",
+        "reference": "Coordinates"
+    },
+    "2010.03990v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "Convolutional"
+    },
+    "2010.03990v1-Figure7-1.png": {
+        "prediction": " him",
+        "reference": "Dim"
+    },
+    "2202.07376v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Sigmoid"
+    },
+    "2205.02090v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "S2"
+    },
+    "2102.00713v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Depth Map"
+    },
+    "1505637-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "Yes"
+    },
+    "2011.03197v1-Figure2-1.png": {
+        "prediction": " n2",
+        "reference": "n2"
+    },
+    "2011.03307v2-Figure11-1.png": {
+        "prediction": " C5",
+        "reference": "Accretion Disk"
+    },
+    "2010.09125v2-Figure1-1.png": {
+        "prediction": " camera",
+        "reference": "camer"
+    },
+    "2102.06271v1-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "G"
+    },
+    "212029-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "image"
+    },
+    "174869-Figure2-1.png": {
+        "prediction": " Prune lower layer weights",
+        "reference": "Prune"
+    },
+    "2103.05900v1-Figure5-1.png": {
+        "prediction": " (a) Directed graph and its topology",
+        "reference": "(a) Directed graph and its topology"
+    },
+    "2107.03491v1-Figure5-1.png": {
+        "prediction": " RM-synthesis; [-\u03b4RM, +\u03b4RM]",
+        "reference": "RM= -NoRM"
+    },
+    "2011.09318v2-Figure1-1.png": {
+        "prediction": " Activity Detection",
+        "reference": "Activity"
+    },
+    "1294630-Figure2-1.png": {
+        "prediction": " LIEL Features",
+        "reference": "LIELfeatures"
+    },
+    "2107.03234v5-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Platform 2"
+    },
+    "2011.06150v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "J13"
+    },
+    "2207.10397v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "+Instruction"
+    },
+    "2110.08422v1-Figure1-1.png": {
+        "prediction": " Attacks",
+        "reference": "Attacks"
+    },
+    "2011.01713v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Registers"
+    },
+    "2010.15032v3-Figure1-1.png": {
+        "prediction": " Distribute invocations",
+        "reference": "Distribute"
+    },
+    "2010.09258v1-Figure3-1.png": {
+        "prediction": " Data Partition",
+        "reference": "Data Partition"
+    },
+    "1090603-Figure3-1.png": {
+        "prediction": " Substitute DNN F Training",
+        "reference": "Training"
+    },
+    "2210.08554v1-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "0.0"
+    },
+    "2107.06007v2-Figure13-1.png": {
+        "prediction": " Inner Cryostat",
+        "reference": "Inner"
+    },
+    "2107.05307v2-Figure1-1.png": {
+        "prediction": " Resize",
+        "reference": "Resize"
+    },
+    "2103.07052v1-Figure4-1.png": {
+        "prediction": " Avg",
+        "reference": "Avg"
+    },
+    "2107.03564v1-Figure2-1.png": {
+        "prediction": " Target item embedding",
+        "reference": "embedding"
+    },
+    "2110.03090v1-Figure3-1.png": {
+        "prediction": " softmax",
+        "reference": "Pin"
+    },
+    "2204.04370v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Input Audio"
+    },
+    "2103.01209v3-Figure3-1.png": {
+        "prediction": " 2 x Conv 3x3",
+        "reference": "2 x Conv 3x3"
+    },
+    "2102.05956v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "13"
+    },
+    "2205.10889v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "30"
+    },
+    "2202.10590v1-Figure1-1.png": {
+        "prediction": " Network",
+        "reference": "Network"
+    },
+    "17589422-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "CVM"
+    },
+    "2103.03875v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Output"
+    },
+    "2012.14111v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "Web Server"
+    },
+    "2204.05751v2-Figure2-1.png": {
+        "prediction": " New Century Theatre",
+        "reference": "True prediction"
+    },
+    "2107.04367v2-Figure4-1.png": {
+        "prediction": " Spectral",
+        "reference": "Spectral"
+    },
+    "2107.04367v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Data 2"
+    },
+    "2107.04367v2-Figure5-1.png": {
+        "prediction": " Convolution + ReLU",
+        "reference": "Convolution + ReLU II"
+    },
+    "2010.06536v1-Figure5-1.png": {
+        "prediction": " 3D Mesh Generation",
+        "reference": "3D Mesh Generation"
+    },
+    "2107.02220v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "2048"
+    },
+    "2103.10630v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "0.1"
+    },
+    "2101.03561v3-Figure1-1.png": {
+        "prediction": " Proposition 3",
+        "reference": "Proposition 3"
+    },
+    "2210.01191v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "0:00:00.000 --> 0:00:01.340"
+    },
+    "2101.08621v1-Figure3-1.png": {
+        "prediction": " Face alignment",
+        "reference": "alignment"
+    },
+    "2205.10635v1-Figure1-1.png": {
+        "prediction": " Layer-wise Splitting",
+        "reference": "Output"
+    },
+    "2103.03189v1-Figure1-1.png": {
+        "prediction": " 2. order",
+        "reference": "order"
+    },
+    "2101.07327v1-Figure5-1.png": {
+        "prediction": " Decoder",
+        "reference": " Decoder"
+    },
+    "2101.07327v1-Figure7-1.png": {
+        "prediction": " User Space",
+        "reference": "User Space"
+    },
+    "2110.08043v1-Figure14-1.png": {
+        "prediction": " C5",
+        "reference": "UD1"
+    },
+    "1125974-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Output layer"
+    },
+    "812092-Figure7-1.png": {
+        "prediction": " C5",
+        "reference": "a"
+    },
+    "2101.11032v5-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Wigner's Friend"
+    },
+    "2110.13367v1-Figure4-1.png": {
+        "prediction": " TRAINING AND TUNING",
+        "reference": "TRAINING AND TUNING"
+    },
+    "2011.06192v3-Figure5-1.png": {
+        "prediction": " Different Response Due to Delay",
+        "reference": "Estimated"
+    },
+    "2107.07277v1-Figure1-1.png": {
+        "prediction": " Microgrid",
+        "reference": "Microgrid"
+    },
+    "2011.08946v1-Figure8-1.png": {
+        "prediction": " Selected K Seeds",
+        "reference": "Output"
+    },
+    "999120-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "H"
+    },
+    "2012.05825v3-Figure1-1.png": {
+        "prediction": " Expert-labeled",
+        "reference": "Expert-labeled"
+    },
+    "200059-Figure4-1.png": {
+        "prediction": " e11 - e1",
+        "reference": "512"
+    },
+    "2207.10758v1-Figure7-1.png": {
+        "prediction": " 2D pixel",
+        "reference": "2D pixel"
+    },
+    "2202.04333v1-Figure7-1.png": {
+        "prediction": " Anchor 1",
+        "reference": "Tree"
+    },
+    "1358694-Figure1-1.png": {
+        "prediction": " warp",
+        "reference": "warp"
+    },
+    "2202.06670v2-Figure1-1.png": {
+        "prediction": " Self-supervision",
+        "reference": "Self-supervision"
+    },
+    "2012.14294v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "data"
+    },
+    "2110.06875v2-Figure3-1.png": {
+        "prediction": " Step 3",
+        "reference": "Step 3"
+    },
+    "210911552-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "gi"
+    },
+    "2205.03371v1-Figure5-1.png": {
+        "prediction": " channel-wise sum",
+        "reference": "softmax function"
+    },
+    "1189091-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Region Proposal Network"
+    },
+    "2101.04989v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "A"
+    },
+    "2011.05643v1-Figure2-1.png": {
+        "prediction": " Hit logic",
+        "reference": "Hit"
+    },
+    "2012.06186v1-Figure3-1.png": {
+        "prediction": " N-way Fully Connected",
+        "reference": "Image patch"
+    },
+    "113704-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "+ Projection"
+    },
+    "2102.07774v2-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "past"
+    },
+    "2206.01335v2-Figure1-1.png": {
+        "prediction": " Large-scale training",
+        "reference": "training"
+    },
+    "2210.01384v1-Figure3-1.png": {
+        "prediction": " Edge-Efficient Candidate",
+        "reference": "Candidate"
+    },
+    "2010.06791v3-Figure4-1.png": {
+        "prediction": " Decoded Message",
+        "reference": "Message"
+    },
+    "2101.03244v5-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Score For Each"
+    },
+    "2012.06168v4-Figure4-1.png": {
+        "prediction": " Trinal-Clip",
+        "reference": "Trinal-Clip"
+    },
+    "2204.10485v1-Figure2-1.png": {
+        "prediction": " Spatial Attention",
+        "reference": "Attention"
+    },
+    "2102.08921v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "or"
+    },
+    "2010.11991v2-Figure8-1.png": {
+        "prediction": " Point Cloud Extrapolator",
+        "reference": "Extrapolator"
+    },
+    "2204.05928v2-Figure3-1.png": {
+        "prediction": " intent",
+        "reference": "Intent"
+    },
+    "2110.02775v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "1.1"
+    },
+    "2010.15764v1-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "pa"
+    },
+    "2202.09450v1-Figure38-1.png": {
+        "prediction": " b",
+        "reference": "b"
+    },
+    "2202.09450v1-Figure59-1.png": {
+        "prediction": " Consistency Check",
+        "reference": "Check"
+    },
+    "2202.09450v1-Figure31-1.png": {
+        "prediction": " map",
+        "reference": "map"
+    },
+    "2202.09450v1-Figure32-1.png": {
+        "prediction": " C5",
+        "reference": "D x"
+    },
+    "2202.09450v1-Figure21-1.png": {
+        "prediction": " C5",
+        "reference": "Depth"
+    },
+    "2202.09450v1-Figure47-1.png": {
+        "prediction": " C5",
+        "reference": "Eye Feature"
+    },
+    "2207.10392v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Gated Feature"
+    },
+    "2011.07831v1-Figure1-1.png": {
+        "prediction": " F",
+        "reference": "F"
+    },
+    "1262057-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Lobby"
+    },
+    "2107.00638v1-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "vacuum"
+    },
+    "2205.15979v1-Figure7-1.png": {
+        "prediction": " C5",
+        "reference": "S"
+    },
+    "2206.00991v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Sparse Whole-Scene"
+    },
+    "1356654-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "FCN"
+    },
+    "980236-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": ",re1u3_3"
+    },
+    "204823930-Figure2-1.png": {
+        "prediction": " Evidence Selection",
+        "reference": "Evidence Selection"
+    },
+    "336802-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Deep CNN"
+    },
+    "2206.10801v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": " Reconstruction"
+    },
+    "2101.04223v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Input"
+    },
+    "2101.11508v8-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "1281281/2562561"
+    },
+    "2210.09757v1-Figure4-1.png": {
+        "prediction": " VLS observation \\(\\tilde{T}_i\\)",
+        "reference": "VLS observation T"
+    },
+    "2102.03117v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "not monadically NIP"
+    },
+    "2010.11078v2-Figure2-1.png": {
+        "prediction": " goal,move",
+        "reference": "qgoai,move"
+    },
+    "2204.06433v1-Figure3-1.png": {
+        "prediction": " Objects Position",
+        "reference": "Objects Position"
+    },
+    "2204.12346v1-Figure2-1.png": {
+        "prediction": " Recovered",
+        "reference": "Recovered"
+    },
+    "2011.12745v4-Figure3-1.png": {
+        "prediction": " Interpolation Matrix",
+        "reference": "Interpolation Matrix"
+    },
+    "2210.06361v3-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Diagonal"
+    },
+    "2011.09340v3-Figure9-1.png": {
+        "prediction": " C5",
+        "reference": "A"
+    },
+    "2011.03178v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Train"
+    },
+    "2101.07079v1-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Ui"
+    },
+    "1580300-Figure2.2-1.png": {
+        "prediction": " C5",
+        "reference": "What is"
+    },
+    "2207.14299v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Bounding Boxes"
+    },
+    "2107.04225v2-Figure1-1.png": {
+        "prediction": " EMA",
+        "reference": "I EMA"
+    },
+    "2012.04925v1-Figure2-1.png": {
+        "prediction": " Machine translation",
+        "reference": "Machine translation"
+    },
+    "1592947-Figure2-1.png": {
+        "prediction": " kho\u1ebb",
+        "reference": "khoe"
+    },
+    "2011.14903v1-Figure3-1.png": {
+        "prediction": " Incorporate Battery Degradation in Asset Management Model",
+        "reference": "in Asset Management Model"
+    },
+    "2110.15553v2-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "Grassmann manifold projections"
+    },
+    "214611580-Figure1-1.png": {
+        "prediction": " Robust Anchor Generation",
+        "reference": "Generation"
+    },
+    "1047598-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "20"
+    },
+    "2107.07001v1-Figure13-1.png": {
+        "prediction": " CSM rendezvous with berthed LM",
+        "reference": "with berthed LM"
+    },
+    "2204.03065v1-Figure2-1.png": {
+        "prediction": " task processing G",
+        "reference": "task"
+    },
+    "137199-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Trees"
+    },
+    "2012.01644v2-Figure5-1.png": {
+        "prediction": " Sampled anchor patch",
+        "reference": "triplet loss"
+    },
+    "2012.01249v2-Figure16-1.png": {
+        "prediction": " C5",
+        "reference": "Graph features"
+    },
+    "2012.01249v2-Figure12-1.png": {
+        "prediction": " Graph Module",
+        "reference": "Module"
+    },
+    "2012.01249v2-Figure14-1.png": {
+        "prediction": " Partition",
+        "reference": " Partition"
+    },
+    "140529-Figure1-1.png": {
+        "prediction": " 2x2 pool",
+        "reference": "pool"
+    },
+    "2204.08626v1-Figure1-1.png": {
+        "prediction": " BP 3",
+        "reference": "BP 3"
+    },
+    "2101.08520v3-Figure1-1.png": {
+        "prediction": " LOSSGE",
+        "reference": "LOSSGE"
+    },
+    "2012.14758v1-Figure1-1.png": {
+        "prediction": " Cryptographic Hashing",
+        "reference": "Hashing"
+    },
+    "2012.14758v1-Figure2-1.png": {
+        "prediction": " Hashing Layer",
+        "reference": "Hashing"
+    },
+    "2012.05647v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Scattering"
+    },
+    "2101.00341v1-Figure1.1-1.png": {
+        "prediction": " C5",
+        "reference": "content C"
+    },
+    "2205.13948v1-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "1"
+    },
+    "2210.01528v1-Figure3-1.png": {
+        "prediction": " Terrain-Correction",
+        "reference": "Terrain-Correction"
+    },
+    "913274-Figure1-1.png": {
+        "prediction": " former",
+        "reference": "from"
+    },
+    "914562-Figure2-1.png": {
+        "prediction": " push",
+        "reference": "push"
+    },
+    "2101.02047v2-Figure2-1.png": {
+        "prediction": " Positional Output",
+        "reference": "Positional Output"
+    },
+    "2202.06065v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "VB"
+    },
+    "2012.15175v3-Figure2-1.png": {
+        "prediction": " Scale maps",
+        "reference": "Scale maps"
+    },
+    "2103.06446v1-Figure1-1.png": {
+        "prediction": " Causal Inference",
+        "reference": "Causal Inference"
+    },
+    "18233504-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Ci"
+    },
+    "2010.13114v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Student"
+    },
+    "988721-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "8x"
+    },
+    "2202.07568v4-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Set of models"
+    },
+    "201666925-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Train/Test"
+    },
+    "201666925-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Classifier"
+    },
+    "2107.05180v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Residential"
+    },
+    "2202.10337v1-Figure1-1.png": {
+        "prediction": " direct call patterns (C1, C2)",
+        "reference": "Governing equation"
+    },
+    "30595348-Figure1-1.png": {
+        "prediction": " Reverse Attention",
+        "reference": "Attention"
+    },
+    "1233699-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "conv1"
+    },
+    "2012.09688v3-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "N x N"
+    },
+    "2110.10072v1-Figure1-1.png": {
+        "prediction": " Wheatstone Bridge",
+        "reference": "Bridge"
+    },
+    "688013-Figure7-1.png": {
+        "prediction": " Box Refinement",
+        "reference": "Refinement"
+    },
+    "1379674-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "V2"
+    },
+    "2011.05655v1-Figure1-1.png": {
+        "prediction": " him",
+        "reference": "liquid"
+    },
+    "2101.08003v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "50 nm"
+    },
+    "2202.03587v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Representation"
+    },
+    "2010.13130v1-Figure1-1.png": {
+        "prediction": " true labels",
+        "reference": "true labels"
+    },
+    "2103.14969v2-Figure7-1.png": {
+        "prediction": " C5",
+        "reference": "Conv3x3x3"
+    },
+    "2010.00702v1-Figure4-1.png": {
+        "prediction": " learned",
+        "reference": "learned"
+    },
+    "2205.04319v1-Figure1-1.png": {
+        "prediction": " Offer",
+        "reference": "Offer"
+    },
+    "2205.11782v1-Figure1-1.png": {
+        "prediction": " Remote server",
+        "reference": "Remote server"
+    },
+    "2107.09786v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Cloud Server"
+    },
+    "2210.09964v2-Figure1-1.png": {
+        "prediction": " RANF",
+        "reference": "RANF"
+    },
+    "2010.06417v2-Figure2.12-1.png": {
+        "prediction": " Unfold",
+        "reference": "Unfold"
+    },
+    "2110.02729v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "DAC"
+    },
+    "2103.04234v2-Figure6-1.png": {
+        "prediction": " Client",
+        "reference": "Client"
+    },
+    "2206.10375v1-Figure1-1.png": {
+        "prediction": " Laplacian Pyramid",
+        "reference": "Laplacian Pyramid"
+    },
+    "2101.08386v4-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "0.1"
+    },
+    "2204.07837v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "i=1,3,4,5"
+    },
+    "11277821-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Xq ~ Pdata(X)"
+    },
+    "2010.10246v2-Figure1-1.png": {
+        "prediction": " Pipeline Repository",
+        "reference": "Pipeline Repository"
+    },
+    "2202.07638v2-Figure1-1.png": {
+        "prediction": " disturbance",
+        "reference": "disturbance"
+    },
+    "2101.05329v1-Figure1-1.png": {
+        "prediction": " Burrows-Wheeler Transformation",
+        "reference": "Scott Transformation"
+    },
+    "2110.06972v1-Figure2-1.png": {
+        "prediction": " Reward Model",
+        "reference": "Model"
+    },
+    "2110.14705v2-Figure10-1.png": {
+        "prediction": " p < R flipped spins",
+        "reference": "p < R flipped spins"
+    },
+    "2012.06275v1-Figure1-1.png": {
+        "prediction": " ISTFT",
+        "reference": "ISTFT"
+    },
+    "2205.13113v1-Figure3-1.png": {
+        "prediction": " Training and pilot transmission for CE",
+        "reference": "Training and pilot transmission for CE"
+    },
+    "2206.10128v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "d: Jeffrey Kaplan is an American"
+    },
+    "2202.13078v2-Figure1-1.png": {
+        "prediction": " Non-Linear Projector",
+        "reference": "Non-Linear"
+    },
+    "2102.00719v1-Figure1-1.png": {
+        "prediction": " Frame 5",
+        "reference": "Frame"
+    },
+    "2012.02670v2-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "Catt"
+    },
+    "2205.10688v1-Figure2-1.png": {
+        "prediction": " Agent definition and constraints",
+        "reference": "PPO Training"
+    },
+    "1241810-Figure5-1.png": {
+        "prediction": " in NCS",
+        "reference": "in NCS"
+    },
+    "2011.12453v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "ReLU+Norm"
+    },
+    "2202.04161v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Which one is the"
+    },
+    "2107.00466v1-Figure1-1.png": {
+        "prediction": " L_j = b^{(j-i)} L_0",
+        "reference": "Lj=b(j-i)Li"
+    },
+    "1508199-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Form Unsupervised"
+    },
+    "2012.12683v1-Figure1-1.png": {
+        "prediction": " ACQ TDCS",
+        "reference": "ACQ TDCS"
+    },
+    "2103.07018v1-Figure1-1.png": {
+        "prediction": " Task 3",
+        "reference": "Task 3"
+    },
+    "2107.02704v1-Figure3-1.png": {
+        "prediction": " Tissue Parameter estimation",
+        "reference": "estimation"
+    },
+    "2202.06076v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "FC"
+    },
+    "2010.00150v1-Figure3-1.png": {
+        "prediction": " Attention Layer",
+        "reference": "Attention Layer"
+    },
+    "2205.00186v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "GMM"
+    },
+    "211532678-Figure1-1.png": {
+        "prediction": " G(., \u03c6)",
+        "reference": "V"
+    },
+    "14194315-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "INPUT VIDEO"
+    },
+    "2207.06543v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "or"
+    },
+    "2012.10294v4-Figure1-1.png": {
+        "prediction": " 5x3x3, ReLU",
+        "reference": "3D Convolution"
+    },
+    "2103.12279v1-Figure2-1.png": {
+        "prediction": " ReLU",
+        "reference": "j,j#S"
+    },
+    "1189033-Figure2-1.png": {
+        "prediction": " Flow SSD",
+        "reference": "SSD"
+    },
+    "2207.05544v1-Figure5-1.png": {
+        "prediction": " User",
+        "reference": "User"
+    },
+    "2204.12527v1-Figure1-1.png": {
+        "prediction": " Real or Fake",
+        "reference": "or"
+    },
+    "2204.00352v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Down"
+    },
+    "2110.08607v1-Figure4-1.png": {
+        "prediction": " backward RNN",
+        "reference": "Backward RNN"
+    },
+    "2011.14771v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "h"
+    },
+    "1023605-Figure10-1.png": {
+        "prediction": " C5",
+        "reference": "Relu activation"
+    },
+    "1011245-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "Convolution"
+    },
+    "2102.06872v1-Figure1-1.png": {
+        "prediction": " post processing",
+        "reference": "processing"
+    },
+    "2107.01496v2-Figure2-1.png": {
+        "prediction": " Negotiation Traces Dataset",
+        "reference": "Negotiation Traces Dataset"
+    },
+    "2110.14532v2-Figure2-1.png": {
+        "prediction": " Hoaxes from fact checkers",
+        "reference": "checkers"
+    },
+    "2107.13826v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "HE"
+    },
+    "2110.11334v1-Figure3-1.png": {
+        "prediction": " Distance-based",
+        "reference": "Distance-based"
+    },
+    "822804-Figure1-1.png": {
+        "prediction": " Element-wise multiplication",
+        "reference": "aj"
+    },
+    "1576593-Figure4-1.png": {
+        "prediction": " 3163",
+        "reference": "{(xi, yi)}163"
+    },
+    "2011.02573v1-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "e"
+    },
+    "2011.02573v1-Figure7-1.png": {
+        "prediction": " Emotions",
+        "reference": "Emotions"
+    },
+    "213980-Figure3-1.png": {
+        "prediction": " pool5",
+        "reference": "pool5"
+    },
+    "2102.05963v1-Figure4-1.png": {
+        "prediction": " BRDF Model Parameters",
+        "reference": "BRDF"
+    },
+    "2011.05452v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "1"
+    },
+    "909872-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Conv"
+    },
+    "126819-Figure2-1.png": {
+        "prediction": " 2nd ideas",
+        "reference": "2nd ideas"
+    },
+    "211678216-Figure8-1.png": {
+        "prediction": " 5x5 conv 32 Relu",
+        "reference": "MaxPooling"
+    },
+    "2012.00020v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "1"
+    },
+    "2012.00020v3-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "-i8H"
+    },
+    "2011.06125v3-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Feature"
+    },
+    "2202.10332v1-Figure2-1.png": {
+        "prediction": " Apiggee API Gateway",
+        "reference": "Gateway"
+    },
+    "2202.09110v1-Figure1-1.png": {
+        "prediction": " Model",
+        "reference": "Model"
+    },
+    "2101.08122v1-Figure1-1.png": {
+        "prediction": " Change map",
+        "reference": "Change map"
+    },
+    "2011.06236v3-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "QP Force"
+    },
+    "2110.07525v2-Figure1-1.png": {
+        "prediction": " RU/Cell",
+        "reference": "RU/Cell"
+    },
+    "2102.03357v1-Figure16-1.png": {
+        "prediction": " Synthesis Configurations",
+        "reference": "Synthesis"
+    },
+    "2204.07810v1-Figure6-1.png": {
+        "prediction": " C5",
+        "reference": "q"
+    },
+    "2204.07810v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "ML"
+    },
+    "2110.03183v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Spectral"
+    },
+    "2202.12108v1-Figure2-1.png": {
+        "prediction": " Lightness",
+        "reference": "Lightness"
+    },
+    "2101.04861v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "dielectric"
+    },
+    "2107.12100v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Truth"
+    },
+    "209217-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "IS"
+    },
+    "1504097-Figure2-1.png": {
+        "prediction": " Summarized Document",
+        "reference": "Document"
+    },
+    "2010.15560v2-Figure9-1.png": {
+        "prediction": " C5",
+        "reference": "Output"
+    },
+    "2202.01897v1-Figure2-1.png": {
+        "prediction": " shared weights",
+        "reference": "weights"
+    },
+    "1045792-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "Ct-1"
+    },
+    "2202.05262v2-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Rome"
+    },
+    "2205.13038v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "0000"
+    },
+    "1872130-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Forward Flow"
+    },
+    "2204.06981v1-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "n"
+    },
+    "2012.03418v1-Figure1-1.png": {
+        "prediction": " hypernymy",
+        "reference": "hypernymy"
+    },
+    "2107.10658v1-Figure2-1.png": {
+        "prediction": " Store & Get audio files",
+        "reference": "Store & Get"
+    },
+    "2102.11262v5-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": " Fusion"
+    },
+    "2107.12979v3-Figure2-1.png": {
+        "prediction": " L4",
+        "reference": "L4"
+    },
+    "2102.08893v1-Figure4-1.png": {
+        "prediction": " Decoder CNN",
+        "reference": "Decoder CNN"
+    },
+    "2202.13313v3-Figure2-1.png": {
+        "prediction": " Controller RNN (LSTM)",
+        "reference": "Controller RNN"
+    },
+    "207468-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "didn't"
+    },
+    "2102.12816v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "m"
+    },
+    "90264-Figure5-1.png": {
+        "prediction": " Motion Information",
+        "reference": "Motion"
+    },
+    "2102.10461v1-Figure4-1.png": {
+        "prediction": " 8x8x12",
+        "reference": "8x8x12"
+    },
+    "2110.06804v3-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "Input"
+    },
+    "1339502-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "Hard Sample Mining"
+    },
+    "1639981-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "vU"
+    },
+    "2204.05103v1-Figure1-1.png": {
+        "prediction": " FULLY-CONNECTED\nMasked values predictor",
+        "reference": "FULLY-CONNECTED"
+    },
+    "2012.03152v1-Figure2-1.png": {
+        "prediction": " Automated selection of training set",
+        "reference": "training set"
+    },
+    "2103.11568v4-Figure2-1.png": {
+        "prediction": " Initialization process",
+        "reference": "> Initialization process"
+    },
+    "2103.10685v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "touch"
+    },
+    "2012.07082v1-Figure3-1.png": {
+        "prediction": " Sampled game 0",
+        "reference": "Sampled game 0"
+    },
+    "2107.06179v2-Figure1-1.png": {
+        "prediction": " Coronary arteries",
+        "reference": "Coronary arteries"
+    },
+    "2102.03347v1-Figure2-1.png": {
+        "prediction": " Off-Chain",
+        "reference": "Off-Chain"
+    },
+    "2102.06702v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "LT-GaAs"
+    },
+    "2101.00048v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "f = 150 mm"
+    },
+    "2010.09890v1-Figure16-1.png": {
+        "prediction": " C5",
+        "reference": "Predicate1"
+    },
+    "2110.07150v3-Figure1-1.png": {
+        "prediction": " Aggregate Candidates",
+        "reference": "Aggregate"
+    },
+    "2101.11878v3-Figure1-1.png": {
+        "prediction": " Component Dictionary",
+        "reference": "Component Dictionary"
+    },
+    "2102.04335v1-Figure1-1.png": {
+        "prediction": " SOCIAL DETERMINANTS FACTORS",
+        "reference": "FACTORS"
+    },
+    "2011.08706v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Conv"
+    },
+    "2012.13965v1-Figure1-1.png": {
+        "prediction": " C_i",
+        "reference": "Ci"
+    },
+    "1165810-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "scale"
+    },
+    "2011.07995v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "- BI-RADS scores: 0, 4, 4A, 4B, 4C, 5"
+    },
+    "2103.09966v1-Figure3-1.png": {
+        "prediction": " GFC",
+        "reference": "GFC"
+    },
+    "2102.10535v1-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "Query Embedding"
+    },
+    "1087044-Figure1-1.png": {
+        "prediction": " Geometric Labeling",
+        "reference": "Geometric Labeling"
+    },
+    "2210.00705v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Audio Feature Extractor"
+    },
+    "2107.12847v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "t1"
+    },
+    "2101.06808v1-Figure1-1.png": {
+        "prediction": " solution",
+        "reference": "solution"
+    },
+    "2202.00528v2-Figure1-1.png": {
+        "prediction": " Feed-Forward Sublayer",
+        "reference": "Feed-Forward SubLayer"
+    },
+    "2107.05802v2-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "gy-x"
+    },
+    "2011.09361v1-Figure3-1.png": {
+        "prediction": " Test Group",
+        "reference": "Test Group"
+    },
+    "2010.04560v3-Figure9-1.png": {
+        "prediction": " Select a persuasion fact type",
+        "reference": "persuation"
+    },
+    "2110.03143v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Meta-loss"
+    },
+    "1292676-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "last"
+    },
+    "1321977-Figure3-1.png": {
+        "prediction": " extract piano rolls",
+        "reference": "input"
+    },
+    "2010.14795v2-Figure3-1.png": {
+        "prediction": " Randomness-utilizing process",
+        "reference": "Randomness-utilizing process"
+    },
+    "2011.13183v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "head"
+    },
+    "2103.00815v1-Figure1-1.png": {
+        "prediction": " output",
+        "reference": "Output"
+    },
+    "2202.06743v1-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "X1"
+    },
+    "2206.12772v1-Figure2-1.png": {
+        "prediction": " Visual Sound Localiser",
+        "reference": "Visual"
+    },
+    "2109.09113v1-Figure2-1.png": {
+        "prediction": " Outlier Removal",
+        "reference": "Removal"
+    },
+    "2011.13733v1-Figure3-1.png": {
+        "prediction": " Conv 1x1 (f=10, s=1)",
+        "reference": "Conv 1x1"
+    },
+    "2101.10804v2-Figure1-1.png": {
+        "prediction": " Add & Layer Norm",
+        "reference": "Add & Layer Norm"
+    },
+    "2205.14647v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "User Input"
+    },
+    "2101.02550v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "ZL+1"
+    },
+    "2206.09770v1-Figure2-1.png": {
+        "prediction": " heading",
+        "reference": "Heading"
+    },
+    "1068967-Figure7-1.png": {
+        "prediction": " 24x24x3",
+        "reference": "2424N3"
+    },
+    "2012.14142v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Noise"
+    },
+    "2109.00038v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "H"
+    },
+    "2202.07728v2-Figure3-1.png": {
+        "prediction": " Sampling N random perturbations",
+        "reference": "perturbations"
+    },
+    "2204.11695v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Ti+i X C"
+    },
+    "2207.11906v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Gradient"
+    },
+    "2010.06256v1-Figure3-1.png": {
+        "prediction": " main",
+        "reference": "main"
+    },
+    "2206.00770v2-Figure2-1.png": {
+        "prediction": " Parking",
+        "reference": "Parking"
+    },
+    "2012.06782v1-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "stride=1,activation=ReLu"
+    },
+    "1026139-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "A lady joins the man"
+    },
+    "2207.06011v1-Figure1-1.png": {
+        "prediction": " Stochastic Duration Predictor",
+        "reference": "Stochastic"
+    },
+    "2206.04962v1-Figure1-1.png": {
+        "prediction": " Mixture Latent Representation",
+        "reference": "Representation"
+    },
+    "2110.05666v1-Figure3-1.png": {
+        "prediction": " 0.3 mm in diameter",
+        "reference": "0.3 mm in diameter"
+    },
+    "2207.00422v2-Figure5-1.png": {
+        "prediction": " C5",
+        "reference": "Everything was fresh"
+    },
+    "2103.11913v1-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "O"
+    },
+    "2210.07587v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Query"
+    },
+    "2204.00172v3-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Stylized Augmented"
+    },
+    "2012.05858v3-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "X"
+    },
+    "2102.09652v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Kocc"
+    },
+    "2207.14568v1-Figure1-1.png": {
+        "prediction": " evaluation mode",
+        "reference": "evaluation"
+    },
+    "2107.02271v1-Figure7-1.png": {
+        "prediction": " PDR monitoring",
+        "reference": "PDR"
+    },
+    "2107.05792v4-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "(b) Labels and codes"
+    },
+    "2010.07804v1-Figure2-1.png": {
+        "prediction": " (a) Generation of Semantic Information",
+        "reference": "(a) Generation of Semantic Information"
+    },
+    "215238689-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "segment embedding"
+    },
+    "1016639-Figure2-1.png": {
+        "prediction": " ApplyLipstick",
+        "reference": "ApplyLipstick"
+    },
+    "2010.07860v3-Figure1-1.png": {
+        "prediction": " Interaction Predictor Head",
+        "reference": "Interaction"
+    },
+    "2011.08010v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Sentinel 2 Image"
+    },
+    "2210.00486v1-Figure2-1.png": {
+        "prediction": " P1",
+        "reference": "P1"
+    },
+    "2107.10538v1-Figure4-1.png": {
+        "prediction": " MAGS",
+        "reference": "MAGS"
+    },
+    "2202.05132v2-Figure1-1.png": {
+        "prediction": " B",
+        "reference": "B"
+    },
+    "2202.06453v1-Figure1-1.png": {
+        "prediction": " \\tilde{y}",
+        "reference": "y"
+    },
+    "2010.09602v1-Figure5-1.png": {
+        "prediction": " Beam search",
+        "reference": "search"
+    },
+    "2204.10523v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "B"
+    },
+    "2011.12854v6-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "MLP"
+    },
+    "2207.04317v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Apt Pupil"
+    },
+    "2202.02646v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "t1... tx"
+    },
+    "117714-Figure2-1.png": {
+        "prediction": " RNN",
+        "reference": "RNN"
+    },
+    "2107.02290v1-Figure8-1.png": {
+        "prediction": " C5",
+        "reference": "92"
+    },
+    "2206.13082v1-Figure2-1.png": {
+        "prediction": " Voxel-to-point map",
+        "reference": "Voxel-to-point map"
+    },
+    "2107.08402v1-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "score"
+    },
+    "2102.04593v1-Figure3-1.png": {
+        "prediction": " sigmoid",
+        "reference": "leaky"
+    },
+    "2012.09727v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Adaptation"
+    },
+    "2101.05804v3-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "T"
+    },
+    "2107.02955v1-Figure2-1.png": {
+        "prediction": " Prismatic Joint",
+        "reference": "Prismatic Joint"
+    },
+    "2207.04913v1-Figure1-1.png": {
+        "prediction": " Coupling matrix \\(\\mathbf{\\gamma}\\)",
+        "reference": "Coupling matrix y"
+    },
+    "2202.13626v1-Figure3-1.png": {
+        "prediction": " CL client",
+        "reference": "CL client"
+    },
+    "19488885-Figure4-1.png": {
+        "prediction": " Classifier",
+        "reference": "Classifier"
+    },
+    "2011.10683v1-Figure5-1.png": {
+        "prediction": " next health-conscious",
+        "reference": "thing. Do you want to hear?\", \"Let me tell you then, so you can perhaps surprise the next health-conscious person you meet with"
+    },
+    "2103.15997v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Local context"
+    },
+    "2102.03921v1-Figure3-1.png": {
+        "prediction": " a - classifier \"key\" at time t\nS - hidden state at time t",
+        "reference": "S, - hidden state at time t"
+    },
+    "2102.03921v1-Figure2-1.png": {
+        "prediction": " classifier response",
+        "reference": "y* - classifier response"
+    },
+    "2210.05232v1-Figure4-1.png": {
+        "prediction": " confidence-based pose refinement",
+        "reference": "MLP"
+    },
+    "2107.00679v1-Figure1-1.png": {
+        "prediction": " Normal network communication",
+        "reference": "communication"
+    },
+    "2110.00808v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Reconstruction Loss"
+    },
+    "1245438-Figure1-1.png": {
+        "prediction": " Conv + ELU",
+        "reference": "Conv+ELU"
+    },
+    "407011-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "F"
+    },
+    "2204.04591v2-Figure3-1.png": {
+        "prediction": " 1. Generate ABE master key and public key\n2. Send CP-ABE public key to publisher (used to encrypt)",
+        "reference": "public key"
+    },
+    "2107.04229v1-Figure3-1.png": {
+        "prediction": " Second Labels",
+        "reference": "Labels"
+    },
+    "2107.04229v1-Figure4-1.png": {
+        "prediction": " C5",
+        "reference": "kernel size: 6 x 6"
+    },
+    "2101.10102v2-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "PAC Model"
+    },
+    "2010.13007v1-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Audio signals"
+    },
+    "2012.05892v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "temperature stage"
+    },
+    "1446589-Figure1-1.png": {
+        "prediction": " Virtual Signatures",
+        "reference": "Virtual signatures"
+    },
+    "2205.03991v2-Figure4.1-1.png": {
+        "prediction": " nonlocal G-PDE",
+        "reference": "nonlocal G-PDE"
+    },
+    "2012.12554v1-Figure1-1.png": {
+        "prediction": " frame selection module",
+        "reference": "selection"
+    },
+    "216738-Figure2-1.png": {
+        "prediction": " C22",
+        "reference": "7x7x16x32"
+    },
+    "2210.01442v1-Figure3-1.png": {
+        "prediction": " Humidity",
+        "reference": "Humidity"
+    },
+    "2103.04138v2-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "Bq"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": " Loss/Metrics",
+        "reference": "Loss/Metrics"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Perception Model"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": " C5",
+        "reference": "Better solutions"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": " C5",
+        "reference": "t+1"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": " C5",
+        "reference": "A1"
+    }
+}

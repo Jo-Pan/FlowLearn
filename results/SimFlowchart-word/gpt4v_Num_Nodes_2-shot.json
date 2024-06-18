@@ -1,0 +1,402 @@
+{
+    "8394.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9101.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "8289.jpeg": {
+        "prediction": "The answer is 7.",
+        "reference": "7"
+    },
+    "9570.jpeg": {
+        "prediction": "8",
+        "reference": "9"
+    },
+    "8811.jpeg": {
+        "prediction": "8",
+        "reference": "10"
+    },
+    "9380.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "9802.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9213.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "9829.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "8660.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9698.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "9618.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8151.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8730.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "9479.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9022.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "9102.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8221.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9410.jpeg": {
+        "prediction": "8",
+        "reference": "9"
+    },
+    "9517.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9381.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8479.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8654.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "9516.jpeg": {
+        "prediction": "8",
+        "reference": "8"
+    },
+    "9309.jpeg": {
+        "prediction": "7",
+        "reference": "5"
+    },
+    "8593.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9523.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "8167.jpeg": {
+        "prediction": "7",
+        "reference": "5"
+    },
+    "8515.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9247.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "8987.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "9937.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9393.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9287.jpeg": {
+        "prediction": "11",
+        "reference": "10"
+    },
+    "8681.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "9981.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8953.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "9178.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8381.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "8142.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "8639.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8074.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9542.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8034.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8007.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9412.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "8711.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8248.jpeg": {
+        "prediction": "8",
+        "reference": "9"
+    },
+    "9520.jpeg": {
+        "prediction": "9",
+        "reference": "10"
+    },
+    "9901.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "9555.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9259.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8854.jpeg": {
+        "prediction": "8",
+        "reference": "9"
+    },
+    "8163.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "8873.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "9494.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8449.jpeg": {
+        "prediction": "The answer is 8.",
+        "reference": "8"
+    },
+    "8835.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8630.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9537.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9512.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "9876.jpeg": {
+        "prediction": "8",
+        "reference": "7"
+    },
+    "9560.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "8947.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8973.jpeg": {
+        "prediction": "7",
+        "reference": "9"
+    },
+    "8454.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9361.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8714.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9764.jpeg": {
+        "prediction": "9",
+        "reference": "10"
+    },
+    "8685.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8484.jpeg": {
+        "prediction": "11",
+        "reference": "10"
+    },
+    "9794.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9532.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8216.jpeg": {
+        "prediction": "8",
+        "reference": "6"
+    },
+    "9942.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9924.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8333.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "8237.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9760.jpeg": {
+        "prediction": "8",
+        "reference": "7"
+    },
+    "8276.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9700.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8897.jpeg": {
+        "prediction": "9",
+        "reference": "10"
+    },
+    "8794.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9453.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8506.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "9602.jpeg": {
+        "prediction": "9",
+        "reference": "9"
+    },
+    "9896.jpeg": {
+        "prediction": "7",
+        "reference": "8"
+    },
+    "8886.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "8596.jpeg": {
+        "prediction": "8",
+        "reference": "8"
+    },
+    "9258.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9188.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8448.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9061.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8242.jpeg": {
+        "prediction": "8",
+        "reference": "8"
+    },
+    "8918.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8277.jpeg": {
+        "prediction": "9",
+        "reference": "10"
+    },
+    "9264.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "8069.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9103.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9717.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    }
+}

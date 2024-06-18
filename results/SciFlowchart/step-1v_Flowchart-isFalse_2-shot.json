@@ -1,0 +1,402 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": "true.",
+        "reference": "false"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2204.10509v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2202.05735v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2101.02429v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1246860-Figure1-1.png": {
+        "prediction": "true.",
+        "reference": "false"
+    },
+    "2102.10828v2-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1022460-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2110.03031v3-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2101.11189v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2204.01715v1-Figure7-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.07508v3-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.11824v1-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2011.04105v1-Figure3.5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.01326v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2204.08696v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2101.08366v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2205.09510v2-Figure6.4-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2205.09510v2-Figure6.11-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2206.05240v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2210.02172v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "14844989-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2205.03661v1-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "162169-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.03344v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2207.12764v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2103.13446v3-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2107.06007v1-Figure14-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2107.12859v2-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2012.00248v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2010.06310v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.05336v1-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2107.03026v1-Figure7-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "1381187-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "13567899-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2204.10374v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2010.00041v1-Figure3-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2103.14005v2-Figure9-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2110.14764v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1422748-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2101.07004v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "1061647-Figure5-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2103.06081v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.03373v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2207.07828v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2102.08827v1-Figure3-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2204.08805v1-Figure5-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2207.13865v1-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1828713-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "53776814-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2107.01209v1-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2110.14160v2-Figure2-1.png": {
+        "prediction": "",
+        "reference": "false"
+    },
+    "2205.12022v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2207.06080v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2204.09225v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2102.09837v1-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2202.01032v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.01032v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.02070v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1319230-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "210713891-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2206.00726v1-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2101.09353v2-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2101.01418v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2101.05151v2-Figure5-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "1482745-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2210.08812v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2101.07910v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2012.06182v1-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2012.06182v1-Figure8-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2103.04910v1-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2202.06208v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2107.01104v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "51865-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2012.02113v1-Figure8.1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2012.02113v1-Figure7.4-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2204.12696v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "206593096-Figure3-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2101.10868v1-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure10-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2110.06487v1-Figure5-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2103.00907v1-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2206.00162v2-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2011.03148v2-Figure4-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2110.09749v2-Figure1-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2103.07592v2-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2107.05680v1-Figure2-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2107.05214v2-Figure6-1.png": {
+        "prediction": "true",
+        "reference": "false"
+    },
+    "2102.12058v2-Figure17-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2103.05447v1-Figure2-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    },
+    "2010.00041v3-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2202.00846v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2101.07424v2-Figure1-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2204.03873v1-Figure2-1.png": {
+        "prediction": "false.",
+        "reference": "false"
+    },
+    "2204.10426v1-Figure1-1.png": {
+        "prediction": "false",
+        "reference": "false"
+    }
+}

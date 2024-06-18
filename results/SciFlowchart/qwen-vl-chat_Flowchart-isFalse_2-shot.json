@@ -1,0 +1,2030 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": "4 encoder layers of the first model are concatenated. The output of this concatenated",
+        "reference": "false"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": "2\nPicture 3: 2\nThe image shows a series of",
+        "reference": "false"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": "1. The learner model creates tests with increasing levels of difficulty from a test",
+        "reference": "false"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": "1\nThe model is a CNN that takes as input a sequence of consecutive",
+        "reference": "false"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": "1. Input: Sequence of frames (A1, A2, ...,",
+        "reference": "false"
+    },
+    "2204.10509v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model has 2 losses",
+        "reference": "false"
+    },
+    "2202.05735v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The model uses the",
+        "reference": "false"
+    },
+    "2101.02429v1-Figure6-1.png": {
+        "prediction": "0.5 0.5 0.5 0.5",
+        "reference": "false"
+    },
+    "1246860-Figure1-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe process of converting Word Sent",
+        "reference": "false"
+    },
+    "2102.10828v2-Figure7-1.png": {
+        "prediction": "1 is a recursive point in the graph. The red arrow from 1",
+        "reference": "false"
+    },
+    "1022460-Figure1-1.png": {
+        "prediction": "1. The basic idea is to make predictions in a non-iterative",
+        "reference": "false"
+    },
+    "2110.03031v3-Figure1-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2101.11189v1-Figure2-1.png": {
+        "prediction": "1. Feature maps are first generated without using a backbone network. 2",
+        "reference": "false"
+    },
+    "2204.01715v1-Figure7-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe user app is responsible for",
+        "reference": "false"
+    },
+    "2202.07508v3-Figure3-1.png": {
+        "prediction": "4\nPicture 4: 2:\nThe proposed method consists of a",
+        "reference": "false"
+    },
+    "2202.11824v1-Figure1-1.png": {
+        "prediction": "1. DNA sample is collected from a patient. 2. The DNA",
+        "reference": "false"
+    },
+    "2011.04105v1-Figure3.5-1.png": {
+        "prediction": " true\nPicture 3: 2\nThe flowchart shows the process",
+        "reference": "false"
+    },
+    "2202.01326v1-Figure5-1.png": {
+        "prediction": "1. Are triplets seen from SF enhancing the PV device? (Yes",
+        "reference": "false"
+    },
+    "2204.08696v2-Figure1-1.png": {
+        "prediction": "1. Encoding stage: This stage takes the input and encodes it into",
+        "reference": "false"
+    },
+    "2101.08366v2-Figure2-1.png": {
+        "prediction": "1. QConv layer uses quadratic residual blocks, which introduce a quadratic term",
+        "reference": "false"
+    },
+    "2205.09510v2-Figure6.4-1.png": {
+        "prediction": "1. Quantum data: The data is quantum in nature and is stored in",
+        "reference": "false"
+    },
+    "2205.09510v2-Figure6.11-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe classical optimizer aims at minimizing",
+        "reference": "false"
+    },
+    "2206.05240v1-Figure2-1.png": {
+        "prediction": "1\nThe agent learns to adaptively trade-off constraints and the objective in",
+        "reference": "false"
+    },
+    "2210.02172v1-Figure2-1.png": {
+        "prediction": "1\nThe model uses a deep neural network to find the approximate Q-values",
+        "reference": "false"
+    },
+    "14844989-Figure2-1.png": {
+        "prediction": "1. The framework of the proposed single-task deep network consists of a convolution",
+        "reference": "false"
+    },
+    "2205.03661v1-Figure1-1.png": {
+        "prediction": "1-D ECG-Signal goes through preprocessing. Picture 4: ",
+        "reference": "false"
+    },
+    "162169-Figure3-1.png": {
+        "prediction": "1. Event: Punishment 2. Place: To make noise ",
+        "reference": "false"
+    },
+    "2202.03344v2-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe flowchart shows the process",
+        "reference": "false"
+    },
+    "2207.12764v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of assigning events to",
+        "reference": "false"
+    },
+    "2103.13446v3-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: Second, the concatenated",
+        "reference": "false"
+    },
+    "2107.06007v1-Figure14-1.png": {
+        "prediction": "1. PC (Personal Computer) 2. Embedded System 3.",
+        "reference": "false"
+    },
+    "2107.12859v2-Figure3-1.png": {
+        "prediction": " true\nPicture 3: 2\nUser: Part (a)",
+        "reference": "false"
+    },
+    "2012.00248v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe letter objects are placed at",
+        "reference": "false"
+    },
+    "2010.06310v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe Cross- Supervised Model",
+        "reference": "false"
+    },
+    "2202.05336v1-Figure1-1.png": {
+        "prediction": "100% true\nPicture 4: 2\nUser:",
+        "reference": "false"
+    },
+    "2107.03026v1-Figure7-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe above image is a flow",
+        "reference": "false"
+    },
+    "1381187-Figure1-1.png": {
+        "prediction": " The architecture only has an Encoder and a Decoder. The Decoder is not present",
+        "reference": "false"
+    },
+    "13567899-Figure3-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe block diagram of the proposed",
+        "reference": "false"
+    },
+    "2204.10374v1-Figure1-1.png": {
+        "prediction": "1. The lowest level operates over all supported gestures, which are selected based",
+        "reference": "false"
+    },
+    "2010.00041v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True\nAssistant:",
+        "reference": "false"
+    },
+    "2103.14005v2-Figure9-1.png": {
+        "prediction": "100000000000000",
+        "reference": "false"
+    },
+    "2110.14764v2-Figure1-1.png": {
+        "prediction": "1. Preprocess raw documents (e.g., tokenization, stemming,",
+        "reference": "false"
+    },
+    "1422748-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of tokenization is",
+        "reference": "false"
+    },
+    "2101.07004v1-Figure2-1.png": {
+        "prediction": "7\nThe image shows a diagram of downlink data transmission. The processing",
+        "reference": "false"
+    },
+    "1061647-Figure5-1.png": {
+        "prediction": "2x2 convolution layer is used to predict each output heat map. This",
+        "reference": "false"
+    },
+    "2103.06081v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false AR",
+        "reference": "false"
+    },
+    "2202.03373v1-Figure5-1.png": {
+        "prediction": "1.01\nPicture 4: 2\nThe input is",
+        "reference": "false"
+    },
+    "2207.07828v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe SPGAT contains two",
+        "reference": "false"
+    },
+    "2102.08827v1-Figure3-1.png": {
+        "prediction": "1.1. road-level infrastructure, 1.2. traffic-in",
+        "reference": "false"
+    },
+    "2204.08805v1-Figure5-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe process of pose normalization is",
+        "reference": "false"
+    },
+    "2207.13865v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe ground set of domains is",
+        "reference": "false"
+    },
+    "1828713-Figure2-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe model architecture for the proposed",
+        "reference": "false"
+    },
+    "53776814-Figure4-1.png": {
+        "prediction": "1. The first stack of hourglass STGCNs has two levels.",
+        "reference": "false"
+    },
+    "2107.01209v1-Figure5-1.png": {
+        "prediction": "1. The DM particle enters the bulk of the sun with an angle \ufffd",
+        "reference": "false"
+    },
+    "2110.14160v2-Figure2-1.png": {
+        "prediction": "1. Training: In the training process, the framework first receives the training",
+        "reference": "false"
+    },
+    "2205.12022v1-Figure1-1.png": {
+        "prediction": "1. Preprocess the input images IS and IT to obtain the human keypoints",
+        "reference": "false"
+    },
+    "2207.06080v2-Figure2-1.png": {
+        "prediction": "3 X 32 X 32 1 X 10",
+        "reference": "false"
+    },
+    "2204.09225v1-Figure1-1.png": {
+        "prediction": "2. The image shows the details of the Twin-Transformers, and",
+        "reference": "false"
+    },
+    "2102.09837v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2202.01032v2-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe near-RT RIC",
+        "reference": "false"
+    },
+    "2202.01032v2-Figure6-1.png": {
+        "prediction": "1. The SMO functionalities (in orange) enable connectivity to the O",
+        "reference": "false"
+    },
+    "2202.02070v2-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe output is colored point cloud",
+        "reference": "false"
+    },
+    "1319230-Figure1-1.png": {
+        "prediction": "1. Sentence Selection (Latent): Select relevant sentences from the document that",
+        "reference": "false"
+    },
+    "210713891-Figure1-1.png": {
+        "prediction": "1\nThe diagram shows that the dialogue history is used to generate the summary",
+        "reference": "false"
+    },
+    "2206.00726v1-Figure1-1.png": {
+        "prediction": "14\nThe algorithm ends with Random Sampling. Picture 4: ",
+        "reference": "false"
+    },
+    "2101.09353v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: Base stations sent radio",
+        "reference": "false"
+    },
+    "2101.01418v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output is Problem Domain.",
+        "reference": "false"
+    },
+    "2101.05151v2-Figure5-1.png": {
+        "prediction": "1 step of prediction: H(t) = H(t\u2212tk) +",
+        "reference": "false"
+    },
+    "1482745-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2210.08812v1-Figure2-1.png": {
+        "prediction": "2\nPicture 3: 2\nThe content is the output of",
+        "reference": "false"
+    },
+    "2101.07910v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false,",
+        "reference": "false"
+    },
+    "2012.06182v1-Figure1-1.png": {
+        "prediction": "12000 km to 2000 km. Picture",
+        "reference": "false"
+    },
+    "2012.06182v1-Figure8-1.png": {
+        "prediction": " Optical Link happens between Stand-alone HAP and Remote Area.  Picture ",
+        "reference": "false"
+    },
+    "2103.04910v1-Figure6-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe flowchart shows the process",
+        "reference": "false"
+    },
+    "2202.06208v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Metric Learning for Prediction",
+        "reference": "false"
+    },
+    "2107.01104v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "51865-Figure3-1.png": {
+        "prediction": "1. The network is built by cascading the ResNet module and the",
+        "reference": "false"
+    },
+    "2012.02113v1-Figure8.1-1.png": {
+        "prediction": "8. Venn diagram showing the intersection and union of two sets H(X",
+        "reference": "false"
+    },
+    "2012.02113v1-Figure7.4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe equation for the probability of",
+        "reference": "false"
+    },
+    "2204.12696v1-Figure2-1.png": {
+        "prediction": " true\nPicture 3: 2\nThe strength of micromotion",
+        "reference": "false"
+    },
+    "206593096-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2101.10868v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false,",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure10-1.png": {
+        "prediction": "2 layers. The first layer has 6 nodes and the second layer has",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure6-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true or false.",
+        "reference": "false"
+    },
+    "2102.04539v2-Figure4-1.png": {
+        "prediction": "4\nPicture 4: 2\nUser: true. Assistant:",
+        "reference": "false"
+    },
+    "2110.06487v1-Figure5-1.png": {
+        "prediction": "1\nPicture 3: 2\nThe victim is a Covid Un",
+        "reference": "false"
+    },
+    "2103.00907v1-Figure4-1.png": {
+        "prediction": "5 layers, 5 neurons per layer. Picture 4: ",
+        "reference": "false"
+    },
+    "2206.00162v2-Figure2-1.png": {
+        "prediction": " true\nPicture 3: 2\nThe model is trained on the",
+        "reference": "false"
+    },
+    "2011.03148v2-Figure4-1.png": {
+        "prediction": "2\nThe EfficientDet architecture is a state-of-the-art object detector that",
+        "reference": "false"
+    },
+    "2110.09749v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe extracted keyphrases are",
+        "reference": "false"
+    },
+    "2103.07592v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2107.05680v1-Figure2-1.png": {
+        "prediction": "4x4 8x8 8x8 64x",
+        "reference": "false"
+    },
+    "2107.05214v2-Figure6-1.png": {
+        "prediction": " true\n Picture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2102.12058v2-Figure17-1.png": {
+        "prediction": "2\nThe federated voting process is as follows:\n1. A node",
+        "reference": "false"
+    },
+    "2103.05447v1-Figure2-1.png": {
+        "prediction": "10 m\nPicture 4: 2\nUser: true.",
+        "reference": "false"
+    },
+    "2010.00041v3-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe process starts with random creation",
+        "reference": "false"
+    },
+    "2202.00846v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe algorithm for stopping rules is",
+        "reference": "false"
+    },
+    "2101.07424v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2204.03873v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of the FNN",
+        "reference": "false"
+    },
+    "2204.10426v1-Figure1-1.png": {
+        "prediction": "4 states: healthy, cognitive impairment (state 1), cancer, death",
+        "reference": "false"
+    },
+    "2204.09537v1-Figure1-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2107.06268v1-Figure1-1.png": {
+        "prediction": "1. Picture 3: 2. Picture 3: 3",
+        "reference": "false"
+    },
+    "2011.14684v2-Figure4-1.png": {
+        "prediction": "1",
+        "reference": "false"
+    },
+    "2206.08316v1-Figure1-1.png": {
+        "prediction": "1. Training Stage: DNN Optimizer is used for extracting dark knowledge",
+        "reference": "false"
+    },
+    "2010.03420v1-Figure2-1.png": {
+        "prediction": "1. Input Layer: This layer receives the input data and passes it to",
+        "reference": "false"
+    },
+    "2107.00465v1-Figure1-1.png": {
+        "prediction": "3\nPicture 4: 2\nThe model has 3 hidden",
+        "reference": "false"
+    },
+    "210701837-Figure2-1.png": {
+        "prediction": "3D Labeling post-activation processing. The final segmentation volume is generated",
+        "reference": "false"
+    },
+    "2107.09388v2-Figure1-1.png": {
+        "prediction": "3\nPicture 4: 2\nThe final model consists of ",
+        "reference": "false"
+    },
+    "2103.10114v1-Figure10-1.png": {
+        "prediction": "3 times. Picture 3: 2\nThe flowchart shows the",
+        "reference": "false"
+    },
+    "2011.02216v2-Figure10-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe system is in the state",
+        "reference": "false"
+    },
+    "2102.12327v1-Figure4-1.png": {
+        "prediction": "1. Test case 1 failed: |usage=| Scientific,cpu",
+        "reference": "false"
+    },
+    "2010.01919v2-Figure6-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of pre-training and",
+        "reference": "false"
+    },
+    "2107.12156v1-Figure2-1.png": {
+        "prediction": "1. Machine learning (Bayesian optimization) is used to determine the optimal",
+        "reference": "false"
+    },
+    "2107.00710v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Long interval audio features",
+        "reference": "false"
+    },
+    "1369182-Figure1-1.png": {
+        "prediction": "1. The input observation is first passed through the master action network, which",
+        "reference": "false"
+    },
+    "2107.09510v1-Figure2-1.png": {
+        "prediction": "4\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2103.10312v2-Figure2-1.png": {
+        "prediction": " true\nPicture 3: 2\nUser: True or false the",
+        "reference": "false"
+    },
+    "204955470-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of video level classifier",
+        "reference": "false"
+    },
+    "204955470-Figure6-1.png": {
+        "prediction": "100% correct. The orange arrows in the diagram show the flow",
+        "reference": "false"
+    },
+    "12938495-Figure1-1.png": {
+        "prediction": "1987 is not a Freebase entity.",
+        "reference": "false"
+    },
+    "2202.06988v2-Figure22-1.png": {
+        "prediction": "2 CNNs in the top layer and 3 CNNs in the bottom",
+        "reference": "false"
+    },
+    "2102.06744v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of the LSTM layer",
+        "reference": "false"
+    },
+    "2206.05406v1-Figure2-1.png": {
+        "prediction": "1. Normal Clients: Data is collected from normal clients and transmitted to the",
+        "reference": "false"
+    },
+    "2101.11685v2-Figure3-4-1.png": {
+        "prediction": "2-dimensional. The global pooling operation reduces the feature map from 2-dimensional",
+        "reference": "false"
+    },
+    "214727773-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe loss function L_GKD",
+        "reference": "false"
+    },
+    "2202.13121v1-Figure14-1.png": {
+        "prediction": " true\nPicture 3: 2\nThe process of using a pre",
+        "reference": "false"
+    },
+    "2011.07233v2-Figure3-1.png": {
+        "prediction": "1. The feature vector fk along the ray vk (red) is contributed",
+        "reference": "false"
+    },
+    "2205.08180v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2010.03990v1-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe model architecture of the proposed",
+        "reference": "false"
+    },
+    "2010.03990v1-Figure6-1.png": {
+        "prediction": "2nd sentence is not mentioned in the image. The image only describes the",
+        "reference": "false"
+    },
+    "2010.03990v1-Figure7-1.png": {
+        "prediction": " Element wise sum is done after Conv 4*4. The fourth block",
+        "reference": "false"
+    },
+    "2202.07376v1-Figure3-1.png": {
+        "prediction": "2019-01-25 10:1",
+        "reference": "false"
+    },
+    "2205.02090v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe final relations are obtained by",
+        "reference": "false"
+    },
+    "2102.00713v1-Figure3-1.png": {
+        "prediction": "1. Classification Net is a part of the multi-task CNN.\n  ",
+        "reference": "false"
+    },
+    "1505637-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of perspective projection (",
+        "reference": "false"
+    },
+    "2011.03197v1-Figure2-1.png": {
+        "prediction": "1 2 3 4 5 6 7 8",
+        "reference": "false"
+    },
+    "2011.03307v2-Figure11-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe statement \"Above a static",
+        "reference": "false"
+    },
+    "2010.09125v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The model is trained",
+        "reference": "false"
+    },
+    "2102.06271v1-Figure5-1.png": {
+        "prediction": " The function f(X,t) is performed on G. This is indicated by",
+        "reference": "false"
+    },
+    "212029-Figure2-1.png": {
+        "prediction": "3D body pose estimation using a 3D convolutional network. The",
+        "reference": "false"
+    },
+    "174869-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2103.05900v1-Figure5-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe directed graph is represented as",
+        "reference": "false"
+    },
+    "2107.03491v1-Figure5-1.png": {
+        "prediction": "1. Coherent rotation: RM = N\u00b7x\u00b7RM\n ",
+        "reference": "false"
+    },
+    "2011.09318v2-Figure1-1.png": {
+        "prediction": "1. Network Modeling 2. Network Profiling 3. Network-based",
+        "reference": "false"
+    },
+    "1294630-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is trained using the",
+        "reference": "false"
+    },
+    "2107.03234v5-Figure5-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true or false.\n",
+        "reference": "false"
+    },
+    "2011.06150v1-Figure1-1.png": {
+        "prediction": "11234\nPicture 4: 2\nUser:",
+        "reference": "false"
+    },
+    "2207.10397v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe dual execution agreement is a",
+        "reference": "false"
+    },
+    "2110.08422v1-Figure1-1.png": {
+        "prediction": " The content publisher does not store content in UWeb and Satoshi Blockchain. Instead",
+        "reference": "false"
+    },
+    "2011.01713v2-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false the",
+        "reference": "false"
+    },
+    "2010.15032v3-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false,",
+        "reference": "false"
+    },
+    "2010.09258v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false.\n",
+        "reference": "false"
+    },
+    "1090603-Figure3-1.png": {
+        "prediction": "1. Substitute Training Dataset Collection: The attacker collects a substitute training dataset by",
+        "reference": "false"
+    },
+    "2210.08554v1-Figure8-1.png": {
+        "prediction": "0.0001\nPicture 4: 2\nUser",
+        "reference": "false"
+    },
+    "2107.06007v2-Figure13-1.png": {
+        "prediction": "1. The mirror is a reflecting surface that focuses the input beam onto the",
+        "reference": "false"
+    },
+    "2107.05307v2-Figure1-1.png": {
+        "prediction": "4K is the output resolution of FNet, so no resize operation is",
+        "reference": "false"
+    },
+    "2103.07052v1-Figure4-1.png": {
+        "prediction": "1. Compute the average of the input representation and the representation of the known",
+        "reference": "false"
+    },
+    "2107.03564v1-Figure2-1.png": {
+        "prediction": "0.27. The output is the stack of encoders. The",
+        "reference": "false"
+    },
+    "2110.03090v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: The network accepts features",
+        "reference": "false"
+    },
+    "2204.04370v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe flowchart shows the process",
+        "reference": "false"
+    },
+    "2103.01209v3-Figure3-1.png": {
+        "prediction": "1\nLeft: The GANformer layer is composed of an addition operation",
+        "reference": "false"
+    },
+    "2102.05956v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe original network and the network",
+        "reference": "false"
+    },
+    "2205.10889v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2202.10590v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe network of I caches is",
+        "reference": "false"
+    },
+    "17589422-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of DocCVM",
+        "reference": "false"
+    },
+    "2103.03875v1-Figure1-1.png": {
+        "prediction": "2\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2012.14111v1-Figure6-1.png": {
+        "prediction": "7. The web server receives input from the router. This input can be",
+        "reference": "false"
+    },
+    "2204.05751v2-Figure2-1.png": {
+        "prediction": "2. Object Detection Case Study\nThe figure shows an object detection case study",
+        "reference": "false"
+    },
+    "2107.04367v2-Figure4-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe process of converting spectral domain",
+        "reference": "false"
+    },
+    "2107.04367v2-Figure3-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe architecture consists of a server",
+        "reference": "false"
+    },
+    "2107.04367v2-Figure5-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe model is a fully connected",
+        "reference": "false"
+    },
+    "2010.06536v1-Figure5-1.png": {
+        "prediction": "3D Render is the input of the model. The model then goes through",
+        "reference": "false"
+    },
+    "2107.02220v2-Figure2-1.png": {
+        "prediction": "2048x1x1 feature maps from the Re-ID backbone",
+        "reference": "false"
+    },
+    "2103.10630v1-Figure2-1.png": {
+        "prediction": "3D CTF-based tomographic reconstruction involves several steps. First, the",
+        "reference": "false"
+    },
+    "2101.03561v3-Figure1-1.png": {
+        "prediction": "12\nPicture 4: 2\nThe flowchart shows the",
+        "reference": "false"
+    },
+    "2210.01191v1-Figure2-1.png": {
+        "prediction": "2: Overview of the proposed end-to-end architecture, centered around the MAC",
+        "reference": "false"
+    },
+    "2101.08621v1-Figure3-1.png": {
+        "prediction": "1st step: Face alignment, 2nd step: Face detection.",
+        "reference": "false"
+    },
+    "2205.10635v1-Figure1-1.png": {
+        "prediction": "3\nPicture 4: 2\nThe original neural network has a",
+        "reference": "false"
+    },
+    "2103.03189v1-Figure1-1.png": {
+        "prediction": "0. order diaphragm AOM Photo diode Fiber coupling 2",
+        "reference": "false"
+    },
+    "2101.07327v1-Figure5-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe system architecture of the proposed",
+        "reference": "false"
+    },
+    "2101.07327v1-Figure7-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe user space in the host",
+        "reference": "false"
+    },
+    "2110.08043v1-Figure14-1.png": {
+        "prediction": "14: Mode I (esquerda) e Mode I+II",
+        "reference": "false"
+    },
+    "1125974-Figure2-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe model architecture for the proposed",
+        "reference": "false"
+    },
+    "812092-Figure7-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe output is computed with mean",
+        "reference": "false"
+    },
+    "2101.11032v5-Figure1-1.png": {
+        "prediction": "2\nThe process of measuring the quantum state of the system is shown in",
+        "reference": "false"
+    },
+    "2110.13367v1-Figure4-1.png": {
+        "prediction": "1. The input is the image data and the corresponding label map.\n ",
+        "reference": "false"
+    },
+    "2011.06192v3-Figure5-1.png": {
+        "prediction": "0.2s and 0.3s respectively. The delays are",
+        "reference": "false"
+    },
+    "2107.07277v1-Figure1-1.png": {
+        "prediction": "1. The circuit has a voltage source representing the input voltage of the DC",
+        "reference": "false"
+    },
+    "2011.08946v1-Figure8-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true or false?",
+        "reference": "false"
+    },
+    "999120-Figure2-1.png": {
+        "prediction": "1. Feature Extraction: We use a pre-trained baseline network to extract feature",
+        "reference": "false"
+    },
+    "2012.05825v3-Figure1-1.png": {
+        "prediction": "2.png\nThe image shows a flowchart that starts with \"Real-time",
+        "reference": "false"
+    },
+    "200059-Figure4-1.png": {
+        "prediction": "1. \u03b8r is a recognition network that takes a genuine pair {",
+        "reference": "false"
+    },
+    "2207.10758v1-Figure7-1.png": {
+        "prediction": "2D pixel in discrete world is sampled from another discrete world. This process",
+        "reference": "false"
+    },
+    "2202.04333v1-Figure7-1.png": {
+        "prediction": "1. The new system uses the real-time prediction server to predict user behavior",
+        "reference": "false"
+    },
+    "1358694-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2202.06670v2-Figure1-1.png": {
+        "prediction": "1. Self-supervision vs. auxiliary information: Self-supervision",
+        "reference": "false"
+    },
+    "2012.14294v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe local network submits the transaction",
+        "reference": "false"
+    },
+    "2110.06875v2-Figure3-1.png": {
+        "prediction": "3\nPicture 3: 2\nThe output sequence is the same",
+        "reference": "false"
+    },
+    "210911552-Figure3-1.png": {
+        "prediction": "1. Pre-Training: We first use a transformer to obtain the embeddings",
+        "reference": "false"
+    },
+    "2205.03371v1-Figure5-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is a convolutional",
+        "reference": "false"
+    },
+    "1189091-Figure3-1.png": {
+        "prediction": "1. Region Proposal Network (RPN) generates proposals for object detection,",
+        "reference": "false"
+    },
+    "2101.04989v1-Figure2-1.png": {
+        "prediction": "1, 2, 3, 4, 5, ",
+        "reference": "false"
+    },
+    "2011.05643v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2012.06186v1-Figure3-1.png": {
+        "prediction": "32 x 32 x 1 + 1 x 6",
+        "reference": "false"
+    },
+    "113704-Figure2-1.png": {
+        "prediction": " The Predictor P takes in the input sentence y and predicts the output sentence s",
+        "reference": "false"
+    },
+    "2102.07774v2-Figure4-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2206.01335v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of code generation.",
+        "reference": "false"
+    },
+    "2210.01384v1-Figure3-1.png": {
+        "prediction": "1. NAS Model: This is the base model that is used for training",
+        "reference": "false"
+    },
+    "2010.06791v3-Figure4-1.png": {
+        "prediction": "100%",
+        "reference": "false"
+    },
+    "2101.03244v5-Figure2-1.png": {
+        "prediction": "1. The model center-crops two ROIs from the single-channel concaten",
+        "reference": "false"
+    },
+    "2012.06168v4-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe architecture of the model is",
+        "reference": "false"
+    },
+    "2204.10485v1-Figure2-1.png": {
+        "prediction": "1. The proposed model takes a pair of the reference image and distortion image",
+        "reference": "false"
+    },
+    "2102.08921v2-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The evaluation pipeline uses",
+        "reference": "false"
+    },
+    "2010.11991v2-Figure8-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe motion model is updated with",
+        "reference": "false"
+    },
+    "2204.05928v2-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe model is updated to Ro",
+        "reference": "false"
+    },
+    "2110.02775v1-Figure1-1.png": {
+        "prediction": "1.1 4 0 0 0 0 0",
+        "reference": "false"
+    },
+    "2010.15764v1-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is trained on a",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure38-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe process of attribute classification constraint",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure59-1.png": {
+        "prediction": " The input and output of PoseNet are added to the figure. The input",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure31-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe system first takes the source",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure32-1.png": {
+        "prediction": " The cycle-consistency loss is computed in both X and Y. The cycle",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure21-1.png": {
+        "prediction": " true\nPicture 3: 2\nUser: The module TPS",
+        "reference": "false"
+    },
+    "2202.09450v1-Figure47-1.png": {
+        "prediction": " Heatmap is not one of the outputs of the model. The outputs of",
+        "reference": "false"
+    },
+    "2102.10313v1-Figure1-1.png": {
+        "prediction": "\u3068 Right: A quadcopter equipped with an OMAV.",
+        "reference": "false"
+    },
+    "2207.10392v2-Figure3-1.png": {
+        "prediction": "1. Dynamic Feature Down-sampling: The dynamic feature down-sampling module",
+        "reference": "false"
+    },
+    "2011.07831v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe figure shows the block diagram",
+        "reference": "false"
+    },
+    "1262057-Figure5-1.png": {
+        "prediction": "0.36\nPicture 4: 2\nThe process of",
+        "reference": "false"
+    },
+    "2107.00638v1-Figure5-1.png": {
+        "prediction": "0.12 eV\nPicture 4: 2\nUser",
+        "reference": "false"
+    },
+    "2205.15979v1-Figure7-1.png": {
+        "prediction": "1. Short-term planning step (STPS): This step predicts the next",
+        "reference": "false"
+    },
+    "2206.00991v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The decoder takes the",
+        "reference": "false"
+    },
+    "1356654-Figure2-1.png": {
+        "prediction": "2.1 Direct call relations contains all direct relation in the traces. ",
+        "reference": "false"
+    },
+    "980236-Figure2-1.png": {
+        "prediction": " true\nPicture 3: 2\nUser: The input image is",
+        "reference": "false"
+    },
+    "204823930-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "336802-Figure1-1.png": {
+        "prediction": "1100-11 0110-1 ",
+        "reference": "false"
+    },
+    "2206.10801v3-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of decoder is G",
+        "reference": "false"
+    },
+    "2101.04223v2-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe figure shows the architecture of",
+        "reference": "false"
+    },
+    "2101.11508v8-Figure2-1.png": {
+        "prediction": "2.2.2.2.2.2.2.2",
+        "reference": "false"
+    },
+    "2210.09757v1-Figure4-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2102.03117v2-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe statement is true. The",
+        "reference": "false"
+    },
+    "2010.11078v2-Figure2-1.png": {
+        "prediction": "1 and 2\nPicture 4: 2\nUser: In",
+        "reference": "false"
+    },
+    "2204.06433v1-Figure3-1.png": {
+        "prediction": "1. Simulator  2. Pathfinder  3. Controller ",
+        "reference": "false"
+    },
+    "2204.12346v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2011.12745v4-Figure3-1.png": {
+        "prediction": "3\nPicture 4: 2\nThe process of learning a U",
+        "reference": "false"
+    },
+    "2210.06361v3-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The shared pyramid feature",
+        "reference": "false"
+    },
+    "2011.09340v3-Figure9-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2011.03178v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2101.07079v1-Figure5-1.png": {
+        "prediction": "0.5714285714285",
+        "reference": "false"
+    },
+    "1580300-Figure2.2-1.png": {
+        "prediction": " true\nPicture 3: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2207.14299v1-Figure2-1.png": {
+        "prediction": "1\nPicture 1: 2\nUser: We use the object",
+        "reference": "false"
+    },
+    "2107.04225v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe teacher network takes both labeled",
+        "reference": "false"
+    },
+    "2012.04925v1-Figure2-1.png": {
+        "prediction": "0.355\nPicture 4: 2\nThe model",
+        "reference": "false"
+    },
+    "1592947-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe model is trained using the",
+        "reference": "false"
+    },
+    "2011.14903v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe parallel asset management model is",
+        "reference": "false"
+    },
+    "2110.15553v2-Figure4-1.png": {
+        "prediction": "0.03\nPicture 4: 2\nThe available data",
+        "reference": "false"
+    },
+    "214611580-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "1047598-Figure4-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false cc",
+        "reference": "false"
+    },
+    "2107.07001v1-Figure13-1.png": {
+        "prediction": "180\u00b0 rotation\nPicture 4: 2\nUser:",
+        "reference": "false"
+    },
+    "2204.03065v1-Figure2-1.png": {
+        "prediction": "1. Input items are concatenated and then go through a common feature extractor F",
+        "reference": "false"
+    },
+    "137199-Figure3-1.png": {
+        "prediction": "1. Random Forest Neural Nets: This is a type of ensemble learning algorithm",
+        "reference": "false"
+    },
+    "2012.01644v2-Figure5-1.png": {
+        "prediction": "3D Conv encoder takes neutral child, positive child, and negative child as",
+        "reference": "false"
+    },
+    "2012.01249v2-Figure16-1.png": {
+        "prediction": "128\nPicture 4: 2\nUser: The fully",
+        "reference": "false"
+    },
+    "2012.01249v2-Figure12-1.png": {
+        "prediction": "1. The initial latent features of the nodes after the encoder network are named",
+        "reference": "false"
+    },
+    "2012.01249v2-Figure14-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The number of track",
+        "reference": "false"
+    },
+    "140529-Figure1-1.png": {
+        "prediction": "1x1 conv, 56G65, Output Layer,",
+        "reference": "false"
+    },
+    "2204.08626v1-Figure1-1.png": {
+        "prediction": "10\nPicture 4: 2\nThe process of bandpass",
+        "reference": "false"
+    },
+    "2101.08520v3-Figure1-1.png": {
+        "prediction": "4\nPicture 4: 2\nUser: True or false.",
+        "reference": "false"
+    },
+    "2012.14758v1-Figure1-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe proposed system predicts enrollment as",
+        "reference": "false"
+    },
+    "2012.14758v1-Figure2-1.png": {
+        "prediction": "2",
+        "reference": "false"
+    },
+    "2012.05647v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of the reward function",
+        "reference": "false"
+    },
+    "2101.00341v1-Figure1.1-1.png": {
+        "prediction": "2\nThe figure shows two parts. In the first part, it shows",
+        "reference": "false"
+    },
+    "2205.13948v1-Figure4-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe process of selecting the crossover",
+        "reference": "false"
+    },
+    "2210.01528v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "913274-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is a sequence model",
+        "reference": "false"
+    },
+    "914562-Figure2-1.png": {
+        "prediction": "1\nPicture 1: 1\nThe output is a stack of",
+        "reference": "false"
+    },
+    "2101.02047v2-Figure2-1.png": {
+        "prediction": "2: A block diagram of the unified emotion recognition and eye detection algorithm depicting",
+        "reference": "false"
+    },
+    "2202.06065v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True\nAssistant:",
+        "reference": "false"
+    },
+    "2012.15175v3-Figure2-1.png": {
+        "prediction": "1. HPE Model inputs: Image patches of different scales.\n  ",
+        "reference": "false"
+    },
+    "2103.06446v1-Figure1-1.png": {
+        "prediction": "2\nThe flowchart shows that time series clustering is done after data screening",
+        "reference": "false"
+    },
+    "18233504-Figure1-1.png": {
+        "prediction": "1\nThe top-left is the graphical illustration of the MLP with bidirectional",
+        "reference": "false"
+    },
+    "2010.13114v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The teacher model is",
+        "reference": "false"
+    },
+    "988721-Figure1-1.png": {
+        "prediction": "2x 2x 2x 2x 2x ",
+        "reference": "false"
+    },
+    "2202.07568v4-Figure2-1.png": {
+        "prediction": "1. What to move: OFFLINE I. What to move: Phase",
+        "reference": "false"
+    },
+    "201666925-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: In the testing phase",
+        "reference": "false"
+    },
+    "201666925-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of generating and predicting",
+        "reference": "false"
+    },
+    "2107.05180v1-Figure2-1.png": {
+        "prediction": "1. Multi-Task Learning: Real Estate Appraisal Input\n  ",
+        "reference": "false"
+    },
+    "2202.10337v1-Figure1-1.png": {
+        "prediction": "1.5\nPicture 4: 2\nThe process of knowledge",
+        "reference": "false"
+    },
+    "30595348-Figure1-1.png": {
+        "prediction": "1\nThe proposed RAN consists of two branches, one for learning features",
+        "reference": "false"
+    },
+    "1233699-Figure4-1.png": {
+        "prediction": "3 stages, each with 16 SSO layers connected to the corresponding",
+        "reference": "false"
+    },
+    "2012.09688v3-Figure3-1.png": {
+        "prediction": "1. Input is sent to a Linear layer (L1) to get",
+        "reference": "false"
+    },
+    "2110.10072v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "688013-Figure7-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of detecting segmentation proposals",
+        "reference": "false"
+    },
+    "1379674-Figure1-1.png": {
+        "prediction": "1, 2, 3, 4, 5, ",
+        "reference": "false"
+    },
+    "2011.05655v1-Figure1-1.png": {
+        "prediction": "10:10:10:10:10:",
+        "reference": "false"
+    },
+    "2101.08003v1-Figure1-1.png": {
+        "prediction": "11nm gold layer is below the Birefringent thin film",
+        "reference": "false"
+    },
+    "2202.03587v1-Figure2-1.png": {
+        "prediction": "2: The acoustic tokens, as output by the SpecTran network pretrained",
+        "reference": "false"
+    },
+    "2010.13130v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2103.14969v2-Figure7-1.png": {
+        "prediction": "4x4x192x128 Brain MRI crop.",
+        "reference": "false"
+    },
+    "2010.00702v1-Figure4-1.png": {
+        "prediction": "1. The images I1 only contain our reflection-invariant optical flow network",
+        "reference": "false"
+    },
+    "2205.04319v1-Figure1-1.png": {
+        "prediction": "1\nThe given image is a flowchart that describes the process of sharing",
+        "reference": "false"
+    },
+    "2205.11782v1-Figure1-1.png": {
+        "prediction": "1. Launch IPA or OPA? 2. Target values: $",
+        "reference": "false"
+    },
+    "2107.09786v1-Figure1-1.png": {
+        "prediction": "1 2 3 1 2 3 (a) Client",
+        "reference": "false"
+    },
+    "2210.09964v2-Figure1-1.png": {
+        "prediction": "3.4\nPicture 4: 2\nUser: true\n",
+        "reference": "false"
+    },
+    "2010.06417v2-Figure2.12-1.png": {
+        "prediction": "1\nThe figure shows a recurrent neural network (RNN) with two",
+        "reference": "false"
+    },
+    "2110.02729v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe block diagram of the proposed",
+        "reference": "false"
+    },
+    "2103.04234v2-Figure6-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe diagram shows the Ballot",
+        "reference": "false"
+    },
+    "2206.10375v1-Figure1-1.png": {
+        "prediction": "1. Grayscale conversion and Under-Exposed/Normal-Exposed Architecture Conversion",
+        "reference": "false"
+    },
+    "2101.08386v4-Figure5-1.png": {
+        "prediction": "0.1\nPicture 4: 2\nThe model is obtained",
+        "reference": "false"
+    },
+    "2204.07837v2-Figure3-1.png": {
+        "prediction": "1. Token classifier: Predicts the class of each token in the input",
+        "reference": "false"
+    },
+    "11277821-Figure1-1.png": {
+        "prediction": "1. The embedded representation of the data is first passed through a network (",
+        "reference": "false"
+    },
+    "2010.10246v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Feature extraction is a",
+        "reference": "false"
+    },
+    "2202.07638v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of the first convolution",
+        "reference": "false"
+    },
+    "2101.05329v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2110.06972v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The Reward Model takes",
+        "reference": "false"
+    },
+    "2110.14705v2-Figure10-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2012.06275v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe model architecture consists of an",
+        "reference": "false"
+    },
+    "2205.13113v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe system is composed of two",
+        "reference": "false"
+    },
+    "2206.10128v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe query generation model generates a",
+        "reference": "false"
+    },
+    "2202.13078v2-Figure1-1.png": {
+        "prediction": "169, 32, 32, 3\n",
+        "reference": "false"
+    },
+    "2102.00719v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe final class prediction is made",
+        "reference": "false"
+    },
+    "2012.02670v2-Figure8-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of f is directed",
+        "reference": "false"
+    },
+    "2205.10688v1-Figure2-1.png": {
+        "prediction": "1, 2, 3, 4, 5, ",
+        "reference": "false"
+    },
+    "1241810-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2011.12453v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is trained in an",
+        "reference": "false"
+    },
+    "2202.04161v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe output consists of an encoder",
+        "reference": "false"
+    },
+    "2107.00466v1-Figure1-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe process of reducing the image",
+        "reference": "false"
+    },
+    "2204.00034v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "1508199-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2012.12683v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe system architecture of the proposed",
+        "reference": "false"
+    },
+    "2103.07018v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: In block learning,",
+        "reference": "false"
+    },
+    "2107.02704v1-Figure3-1.png": {
+        "prediction": "12-contrast, multi-flip-echo FLASH MRI acquisition from ex",
+        "reference": "false"
+    },
+    "2202.06076v1-Figure2-1.png": {
+        "prediction": "4\nThe image features are extracted by a pre-trained ResNet-5",
+        "reference": "false"
+    },
+    "2010.00150v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe architecture contains no Encoder or",
+        "reference": "false"
+    },
+    "2205.00186v2-Figure2-1.png": {
+        "prediction": "1. Warm Up: The model is initialized and trained for a few iterations",
+        "reference": "false"
+    },
+    "211532678-Figure1-1.png": {
+        "prediction": "1. The input image x is fed into the image reconstruction network f,",
+        "reference": "false"
+    },
+    "14194315-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2207.06543v1-Figure3-1.png": {
+        "prediction": "3\nPicture 4: 2\nUser: True or false,",
+        "reference": "false"
+    },
+    "2012.10294v4-Figure1-1.png": {
+        "prediction": "3D relevance maps are the inputs to the model. The model takes ",
+        "reference": "false"
+    },
+    "2103.12279v1-Figure2-1.png": {
+        "prediction": "1. Base encoder: This encoder is responsible for encoding the input sequence.",
+        "reference": "false"
+    },
+    "1189033-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The framework first uses",
+        "reference": "false"
+    },
+    "2207.05544v1-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: We do not need",
+        "reference": "false"
+    },
+    "2204.12527v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: Discriminator is fed",
+        "reference": "false"
+    },
+    "2204.00352v1-Figure1-1.png": {
+        "prediction": "1. Self-supervised learning is used to learn a representation of the input",
+        "reference": "false"
+    },
+    "2110.08607v1-Figure4-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The BRNN has",
+        "reference": "false"
+    },
+    "2011.14771v1-Figure6-1.png": {
+        "prediction": "0.5d < h < 1.5d\nPicture ",
+        "reference": "false"
+    },
+    "1023605-Figure10-1.png": {
+        "prediction": "1x1 Conv (32) + Relu activation + 3",
+        "reference": "false"
+    },
+    "1011245-Figure6-1.png": {
+        "prediction": "100 < x < 200\nThe model has ",
+        "reference": "false"
+    },
+    "2102.06872v1-Figure1-1.png": {
+        "prediction": "1-way covering array. true\nPicture 4: 2\nUser",
+        "reference": "false"
+    },
+    "2107.01496v2-Figure2-1.png": {
+        "prediction": "1. Repeated Negotiation\n2. Feature Engineering\n3. Recognition",
+        "reference": "false"
+    },
+    "2110.14532v2-Figure2-1.png": {
+        "prediction": "0.0001\nPicture 4: 2\nUser",
+        "reference": "false"
+    },
+    "2107.13826v1-Figure6-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true. Assistant:",
+        "reference": "false"
+    },
+    "2110.11334v1-Figure3-1.png": {
+        "prediction": "2018: Before 2018, there were no",
+        "reference": "false"
+    },
+    "822804-Figure1-1.png": {
+        "prediction": "1. The model consists of two main components: a direct call pattern recognition",
+        "reference": "false"
+    },
+    "1576593-Figure4-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The model is trained",
+        "reference": "false"
+    },
+    "2011.02573v1-Figure8-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe model can handle k emotion",
+        "reference": "false"
+    },
+    "2011.02573v1-Figure7-1.png": {
+        "prediction": "1. Desirability (desW) 2. Praisew",
+        "reference": "false"
+    },
+    "213980-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of the model is",
+        "reference": "false"
+    },
+    "2102.05963v1-Figure4-1.png": {
+        "prediction": "3x1 2x1 2x1 2x1",
+        "reference": "false"
+    },
+    "2011.05452v1-Figure2-1.png": {
+        "prediction": "2 nodes\nPicture 4: 2\nUser: True or false",
+        "reference": "false"
+    },
+    "909872-Figure2-1.png": {
+        "prediction": "ReLU is in (b). In (b), the ReLU activation function",
+        "reference": "false"
+    },
+    "126819-Figure2-1.png": {
+        "prediction": "1st discussion (129) 2nd ideas (33",
+        "reference": "false"
+    },
+    "211678216-Figure8-1.png": {
+        "prediction": "35x128x128x128x",
+        "reference": "false"
+    },
+    "2012.00020v3-Figure1-1.png": {
+        "prediction": "1.0\nPicture 4: 2\nUser: true or",
+        "reference": "false"
+    },
+    "2012.00020v3-Figure3-1.png": {
+        "prediction": "2 times\nPicture 4: 2\nUser: The result of",
+        "reference": "false"
+    },
+    "2011.06125v3-Figure2-1.png": {
+        "prediction": "1. Feature Extraction: Raw data is first processed to extract features using statistical",
+        "reference": "false"
+    },
+    "2202.10332v1-Figure2-1.png": {
+        "prediction": "1. Data from SQL Server or other data sources is consumed by .NET",
+        "reference": "false"
+    },
+    "2202.09110v1-Figure1-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true or false.",
+        "reference": "false"
+    },
+    "2101.08122v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Change detection takes pre",
+        "reference": "false"
+    },
+    "2011.06236v3-Figure4-1.png": {
+        "prediction": "0.5 * u1 + 0.5 * u2\n",
+        "reference": "false"
+    },
+    "2110.07525v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2102.03357v1-Figure16-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2204.07810v1-Figure6-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true or false.",
+        "reference": "false"
+    },
+    "2204.07810v1-Figure3-1.png": {
+        "prediction": "0.4 < p < 0.5, 0 < w",
+        "reference": "false"
+    },
+    "2110.03183v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2202.12108v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2101.04861v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output layer of the neural",
+        "reference": "false"
+    },
+    "2107.12100v2-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2:\nThe network model is trained on",
+        "reference": "false"
+    },
+    "209217-Figure2-1.png": {
+        "prediction": "1. The image is a cat sitting on an umbrella. 2.",
+        "reference": "false"
+    },
+    "1504097-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\n\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2010.15560v2-Figure9-1.png": {
+        "prediction": "3x3 Conv, 1x1 Conv, Max pooling, Trans",
+        "reference": "false"
+    },
+    "2202.01897v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The comparison network is",
+        "reference": "false"
+    },
+    "1045792-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe recurrent module takes the current",
+        "reference": "false"
+    },
+    "2202.05262v2-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2205.13038v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe augmented subgraph is then",
+        "reference": "false"
+    },
+    "1872130-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe class labels are the inputs",
+        "reference": "false"
+    },
+    "2204.06981v1-Figure8-1.png": {
+        "prediction": "0.1\u03b7coal and \u03b7f are the coordinates of the w",
+        "reference": "false"
+    },
+    "2012.03418v1-Figure1-1.png": {
+        "prediction": " The example you provided is a hypernym-hyponym pair in a",
+        "reference": "false"
+    },
+    "2107.10658v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe output of the authentication service",
+        "reference": "false"
+    },
+    "2102.11262v5-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Early Features are fed",
+        "reference": "false"
+    },
+    "2107.12979v3-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: L5/6",
+        "reference": "false"
+    },
+    "2102.08893v1-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe flowchart shows that the",
+        "reference": "false"
+    },
+    "2202.13313v3-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: Controller RNN is",
+        "reference": "false"
+    },
+    "207468-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2102.12816v3-Figure1-1.png": {
+        "prediction": "0.5\nPicture 4: 2\nUser: true\n",
+        "reference": "false"
+    },
+    "90264-Figure5-1.png": {
+        "prediction": "1. Input Video -> Appearance Information and Textual Information\n2. Appearance",
+        "reference": "false"
+    },
+    "2102.10461v1-Figure4-1.png": {
+        "prediction": "4x64x32\nThe final output is 64",
+        "reference": "false"
+    },
+    "2110.06804v3-Figure4-1.png": {
+        "prediction": "22\nPicture 4: 22\nThe image shows a",
+        "reference": "false"
+    },
+    "1339502-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe input first goes through Conv",
+        "reference": "false"
+    },
+    "1639981-Figure3-1.png": {
+        "prediction": "3: Left: Columnar architecture in a fully connected network, with the",
+        "reference": "false"
+    },
+    "2204.05103v1-Figure1-1.png": {
+        "prediction": "1. First, the raw signal is passed through an input encoder, which",
+        "reference": "false"
+    },
+    "2012.03152v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false for",
+        "reference": "false"
+    },
+    "2103.11568v4-Figure2-1.png": {
+        "prediction": "1\nThe training data features are assigned pseudo labels by clustering. 2",
+        "reference": "false"
+    },
+    "2103.10685v2-Figure3-1.png": {
+        "prediction": " The model is trained on the prompt \"Clouds touch the rain in Manhattan",
+        "reference": "false"
+    },
+    "2012.07082v1-Figure3-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe above is the statement.",
+        "reference": "false"
+    },
+    "2107.06179v2-Figure1-1.png": {
+        "prediction": "1. A blood clot can form around a cholesterol plaque in the coronary arteries",
+        "reference": "false"
+    },
+    "2102.03347v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2102.06702v1-Figure3-1.png": {
+        "prediction": "3D diagram: The left and right parts of the structure are made of",
+        "reference": "false"
+    },
+    "2101.00048v1-Figure1-1.png": {
+        "prediction": " The laser light is vertically polarized at the source (blue) and passes",
+        "reference": "false"
+    },
+    "2010.09890v1-Figure16-1.png": {
+        "prediction": "0\nPicture 3: 2\nThe input first goes through an",
+        "reference": "false"
+    },
+    "2110.07150v3-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe process of selecting the best",
+        "reference": "false"
+    },
+    "2101.11878v3-Figure1-1.png": {
+        "prediction": "4. The system learns a component dictionary that contains common spatial activation patterns of",
+        "reference": "false"
+    },
+    "2102.04335v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2011.08706v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model architecture for the proposed",
+        "reference": "false"
+    },
+    "2012.13965v1-Figure1-1.png": {
+        "prediction": " The actuation ci+1 for reaching a target position (or shape)",
+        "reference": "false"
+    },
+    "1165810-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2011.07995v3-Figure1-1.png": {
+        "prediction": "16,802 studies from 13,954",
+        "reference": "false"
+    },
+    "2103.09966v1-Figure3-1.png": {
+        "prediction": "0.05V\nPicture 4: 2\nUser:",
+        "reference": "false"
+    },
+    "2102.10535v1-Figure4-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe image shows the architecture of",
+        "reference": "false"
+    },
+    "1087044-Figure1-1.png": {
+        "prediction": "3D Reconstruction. Picture 3: 2. The proposed method is",
+        "reference": "false"
+    },
+    "2210.00705v2-Figure2-1.png": {
+        "prediction": "100% true\nPicture 4: 2\nUser:",
+        "reference": "false"
+    },
+    "2107.12847v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe network is trained to predict",
+        "reference": "false"
+    },
+    "2101.06808v1-Figure1-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe process stops when a stopping",
+        "reference": "false"
+    },
+    "2202.00528v2-Figure1-1.png": {
+        "prediction": "1, 2, 3, 4, 5, ",
+        "reference": "false"
+    },
+    "2107.05802v2-Figure4-1.png": {
+        "prediction": "4: Left panel: An illustration of measuring the width of a set S",
+        "reference": "false"
+    },
+    "2011.09361v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe process of dynamic-OP",
+        "reference": "false"
+    },
+    "2010.04560v3-Figure9-1.png": {
+        "prediction": "1. Select a targeted device 2. Explainable recommendations fact type ",
+        "reference": "false"
+    },
+    "2110.03143v1-Figure2-1.png": {
+        "prediction": "4. true\nPicture 4: 2. 4. ",
+        "reference": "false"
+    },
+    "1292676-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe updated weights are passed to",
+        "reference": "false"
+    },
+    "1321977-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe generated MIDI file is then",
+        "reference": "false"
+    },
+    "2010.14795v2-Figure3-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe process of randomness utilization",
+        "reference": "false"
+    },
+    "2011.13183v1-Figure1-1.png": {
+        "prediction": "1. ResNet-50: A residual network with 50",
+        "reference": "false"
+    },
+    "2103.00815v1-Figure1-1.png": {
+        "prediction": "3 layers. The input layer is connected to the first layer, which is",
+        "reference": "false"
+    },
+    "2202.06743v1-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false.",
+        "reference": "false"
+    },
+    "2206.12772v1-Figure2-1.png": {
+        "prediction": "1. Visual-Sound Localiser: Given an image and an audio clip",
+        "reference": "false"
+    },
+    "2109.09113v1-Figure2-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2011.13733v1-Figure3-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe final output of the model",
+        "reference": "false"
+    },
+    "2101.10804v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is using position embedding",
+        "reference": "false"
+    },
+    "2205.14647v1-Figure2-1.png": {
+        "prediction": "3 steps: Steps 1 and 2 are the same as the SIM",
+        "reference": "false"
+    },
+    "2101.02550v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The SE module is",
+        "reference": "false"
+    },
+    "2206.09770v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The Camera calibr",
+        "reference": "false"
+    },
+    "1068967-Figure7-1.png": {
+        "prediction": "4x4 Matrix Processing Unit (MP) is a block in the network",
+        "reference": "false"
+    },
+    "2012.14142v1-Figure2-1.png": {
+        "prediction": "64x64 is the input size of the convolutional layer,",
+        "reference": "false"
+    },
+    "2109.00038v1-Figure1-1.png": {
+        "prediction": " Picture 3: 2\nThe transition rates are denoted by the",
+        "reference": "false"
+    },
+    "2202.07728v2-Figure3-1.png": {
+        "prediction": "1 Sampling N random perturbations. Picture 1: 2 Computing",
+        "reference": "false"
+    },
+    "2204.11695v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe frame-level feature is then",
+        "reference": "false"
+    },
+    "2207.11906v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2.",
+        "reference": "false"
+    },
+    "2010.06256v1-Figure3-1.png": {
+        "prediction": "1\nThe diagram shows that CompositeNode inherits from Sequence, Selector, and",
+        "reference": "false"
+    },
+    "2206.00770v2-Figure2-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true or false.",
+        "reference": "false"
+    },
+    "2012.06782v1-Figure3-1.png": {
+        "prediction": "1. Input vector (I) -> Conv1D layer (I)",
+        "reference": "false"
+    },
+    "1026139-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe captioning module uses the",
+        "reference": "false"
+    },
+    "2207.06011v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe input to the Posterior",
+        "reference": "false"
+    },
+    "2206.04962v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe architecture of the proposed model",
+        "reference": "false"
+    },
+    "2110.05666v1-Figure3-1.png": {
+        "prediction": "3 mm. Picture 3: 2\nThe incident X-ray beam",
+        "reference": "false"
+    },
+    "2207.00422v2-Figure5-1.png": {
+        "prediction": " true\nPicture 4: 2\nThe user historical images and textual",
+        "reference": "false"
+    },
+    "2103.11913v1-Figure8-1.png": {
+        "prediction": "2.5645\nPicture 4: 2\nThe",
+        "reference": "false"
+    },
+    "2210.07587v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false Assistant",
+        "reference": "false"
+    },
+    "2204.00172v3-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2012.05858v3-Figure3-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe output of WarpingNet",
+        "reference": "false"
+    },
+    "2102.09652v2-Figure1-1.png": {
+        "prediction": "0\nKvirr is a red grid of dotted lines. | K",
+        "reference": "false"
+    },
+    "2207.14568v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2.",
+        "reference": "false"
+    },
+    "2107.02271v1-Figure7-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false based",
+        "reference": "false"
+    },
+    "2107.05792v4-Figure3-1.png": {
+        "prediction": "66 99\nExample 1 (MLR6): \"",
+        "reference": "false"
+    },
+    "2010.07804v1-Figure2-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: The parallel and cross",
+        "reference": "false"
+    },
+    "215238689-Figure3-1.png": {
+        "prediction": "1. The model takes the current dialogue state as input and predicts the current",
+        "reference": "false"
+    },
+    "1016639-Figure2-1.png": {
+        "prediction": "0\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2010.07860v3-Figure1-1.png": {
+        "prediction": "1 and 2\nPicture 4: 2\nThe flowchart",
+        "reference": "false"
+    },
+    "2011.08010v1-Figure1-1.png": {
+        "prediction": "2\nPicture 4: 2\nThe image shows a flowchart",
+        "reference": "false"
+    },
+    "2210.00486v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is trained on a",
+        "reference": "false"
+    },
+    "2107.10538v1-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: The translation agent communicates",
+        "reference": "false"
+    },
+    "2202.05132v2-Figure1-1.png": {
+        "prediction": "0.5 B is directly passed to the decode algorithm. The other part",
+        "reference": "false"
+    },
+    "2202.06453v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true\nPicture ",
+        "reference": "false"
+    },
+    "2010.09602v1-Figure5-1.png": {
+        "prediction": "6 components are present in the architecture. They are: 1) the",
+        "reference": "false"
+    },
+    "2204.10523v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2011.12854v6-Figure3-1.png": {
+        "prediction": "10 10 10 10 10 ",
+        "reference": "false"
+    },
+    "2207.04317v1-Figure1-1.png": {
+        "prediction": " Yes, the figure shows one possible outcome of a recommender system. The",
+        "reference": "false"
+    },
+    "2202.02646v1-Figure1-1.png": {
+        "prediction": "1. Abstract Retrieval: This stage retrieves the most relevant sentences for the",
+        "reference": "false"
+    },
+    "117714-Figure2-1.png": {
+        "prediction": " true\n Picture 3: 2\nUser: The hidden state h",
+        "reference": "false"
+    },
+    "2107.02290v1-Figure8-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2206.13082v1-Figure2-1.png": {
+        "prediction": "4",
+        "reference": "false"
+    },
+    "2107.08402v1-Figure2-1.png": {
+        "prediction": "1, 2, 3, 4, 5, ",
+        "reference": "false"
+    },
+    "2102.04593v1-Figure3-1.png": {
+        "prediction": "1141/1139\nThe discriminator outputs generated image",
+        "reference": "false"
+    },
+    "2012.09727v2-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "2101.05804v3-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe image is a flowchart",
+        "reference": "false"
+    },
+    "2107.02955v1-Figure2-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true\nAssistant:",
+        "reference": "false"
+    },
+    "2207.04913v1-Figure1-1.png": {
+        "prediction": " true\nPicture 4: 2\nUser: true or false for",
+        "reference": "false"
+    },
+    "2202.13626v1-Figure3-1.png": {
+        "prediction": "1. The CL client sends the image segmentation to the remote cloud. ",
+        "reference": "false"
+    },
+    "19488885-Figure4-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe shared BiLSTM is",
+        "reference": "false"
+    },
+    "2011.10683v1-Figure5-1.png": {
+        "prediction": "1. strawberries 2. spinach [[slot0] = 'straw",
+        "reference": "false"
+    },
+    "2103.15997v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: true or false.",
+        "reference": "false"
+    },
+    "2102.03921v1-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is a combination of",
+        "reference": "false"
+    },
+    "2102.03921v1-Figure2-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe process of generating a classifier",
+        "reference": "false"
+    },
+    "2210.05232v1-Figure4-1.png": {
+        "prediction": "0.001521094\nPicture 4",
+        "reference": "false"
+    },
+    "2107.00679v1-Figure1-1.png": {
+        "prediction": " true\nPicture 3: 2.",
+        "reference": "false"
+    },
+    "2110.00808v2-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false:",
+        "reference": "false"
+    },
+    "1245438-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: An image is the",
+        "reference": "false"
+    },
+    "407011-Figure3-1.png": {
+        "prediction": "406, 1024, 406,",
+        "reference": "false"
+    },
+    "2204.04591v2-Figure3-1.png": {
+        "prediction": "9\nPicture 4: 2\nThe process of attribute-based encryption",
+        "reference": "false"
+    },
+    "2107.04229v1-Figure3-1.png": {
+        "prediction": "2 labelers\nPicture 4: 2\nUser: true\n",
+        "reference": "false"
+    },
+    "2107.04229v1-Figure4-1.png": {
+        "prediction": " The sigmoid function takes as input the segment predictions and post-processing and event predictions",
+        "reference": "false"
+    },
+    "2101.10102v2-Figure3-1.png": {
+        "prediction": "1\nPicture 4: 2\nUser: True or false?",
+        "reference": "false"
+    },
+    "2010.13007v1-Figure1-1.png": {
+        "prediction": "1\nPicture 4: 2\nThe model is trained on a",
+        "reference": "false"
+    },
+    "2012.05892v2-Figure2-1.png": {
+        "prediction": "1. 2. 3. 4. 5. ",
+        "reference": "false"
+    },
+    "1446589-Figure1-1.png": {
+        "prediction": " Picture 3: 2. Image Feature Space vs Label Embedding Space",
+        "reference": "false"
+    },
+    "2205.03991v2-Figure4.1-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe flowchart shows the process",
+        "reference": "false"
+    },
+    "2012.12554v1-Figure1-1.png": {
+        "prediction": "1. The guiding frame selection mechanism selects a frame as the first frame of",
+        "reference": "false"
+    },
+    "216738-Figure2-1.png": {
+        "prediction": "4\nPicture 4: 2\nThe convolution layer is represented by",
+        "reference": "false"
+    },
+    "2210.01442v1-Figure3-1.png": {
+        "prediction": "0\nPicture 4: 2\nThe experiment control system uses the",
+        "reference": "false"
+    },
+    "2103.04138v2-Figure2-1.png": {
+        "prediction": " The correct answer is: \nThe arrow \u016b points to the length L",
+        "reference": "false"
+    }
+}

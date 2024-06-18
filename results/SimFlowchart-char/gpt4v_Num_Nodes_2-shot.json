@@ -1,0 +1,42 @@
+{
+    "8394.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9101.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "8289.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9570.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8811.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9380.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9802.jpeg": {
+        "prediction": "11",
+        "reference": "9"
+    },
+    "9213.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9829.jpeg": {
+        "prediction": "8",
+        "reference": "9"
+    },
+    "8660.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    }
+}

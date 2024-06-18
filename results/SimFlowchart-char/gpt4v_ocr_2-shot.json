@@ -1,0 +1,62 @@
+{
+    "8394.jpeg": {
+        "prediction": "E",
+        "reference": "E"
+    },
+    "9101.jpeg": {
+        "prediction": "B",
+        "reference": "B"
+    },
+    "8289.jpeg": {
+        "prediction": "E",
+        "reference": "E"
+    },
+    "9570.jpeg": {
+        "prediction": "A",
+        "reference": "A"
+    },
+    "8811.jpeg": {
+        "prediction": "K",
+        "reference": "K"
+    },
+    "9380.jpeg": {
+        "prediction": "C",
+        "reference": "C"
+    },
+    "9802.jpeg": {
+        "prediction": "K",
+        "reference": "K"
+    },
+    "9213.jpeg": {
+        "prediction": "F",
+        "reference": "F"
+    },
+    "9829.jpeg": {
+        "prediction": "J",
+        "reference": "J"
+    },
+    "8660.jpeg": {
+        "prediction": "F",
+        "reference": "F"
+    },
+    "9698.jpeg": {
+        "prediction": "C",
+        "reference": "C"
+    },
+    "9618.jpeg": {
+        "prediction": "K",
+        "reference": "K"
+    },
+    "8151.jpeg": {
+        "prediction": "D",
+        "reference": "D"
+    },
+    "8730.jpeg": {
+        "prediction": "A",
+        "reference": "A"
+    },
+    "9479.jpeg": {
+        "prediction": "B",
+        "reference": "B"
+    }
+}

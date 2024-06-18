@@ -1,0 +1,402 @@
+{
+    "8394.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(outsteered karite)\nentity1(kidlike)\nentity2(woolweed)\nentity3(antiaggressively)\nentity4(dihedron cusite)\nentity5(unlovable topsmelts)\nentity0 --> entity2\nentity0 --> entity3\nentity0 --> entity4\nentity0 --> entity5\nentity1 --> entity2\nentity1 --> entity3\nentity1 --> entity4\nentity1 --> entity5\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(outsteered karite)\nentity1(dihedron cushite)\nentity2(woolweed)\nentity3(kidlike)\nentity4(antiaggressively)\nentity5(unlovable topsmelts)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity0 ==> entity4\nentity1 --> entity3\nentity1 ==> entity5\n```"
+    },
+    "9101.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(beaverism splutters)\nentity1(lickety drillmaster)\nentity2(sauropodous croppers)\nentity3(exurge cannabic)\nentity4(unsanction)\nentity5(oflete titmouse)\nentity6(necrophilia)\nentity7(hovedance backslid)\nentity0 -..-> entity4\nentity0 -..-> entity5\nentity0 -..-> entity6\nentity0 -..-> entity7\nentity2 -..-> entity0\nentity3 -..-> entity0\nentity4 -..-> entity1\nentity5 -..-> entity1\nentity6 -..-> entity1\nentity7 -..-> entity1\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(necrophiliac)\nentity1(lickety drillmaster)\nentity2(beaverism splutters)\nentity3(exurge cannabic)\nentity4(hovedance backslid)\nentity5(saururous croppers)\nentity6(unsanction)\nentity7(oflete titmouse)\nentity0 ==> entity4\nentity1 ==> entity2\nentity1 ==> entity4\nentity1 -..-> entity7\nentity2 -..-> entity5\nentity2 --> entity3\nentity2 ==> entity6\nentity2 --> entity0\nentity3 ==> entity1\nentity6 --> entity4\n```"
+    },
+    "8289.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(perpendicular)\nentity1(diphtheritically)\nentity2(rheumatism)\nentity3(ungentlemanly grout)\nentity4(repurges essentia)\nentity5(furodiazole biotical)\nentity6(rachitis almach)\nentity7(viragin worlds)\nentity1 -..-> entity6\nentity1 -..-> entity3\nentity1 -..-> entity4\nentity1 -..-> entity5\nentity2 -..-> entity3\nentity3 -..-> entity6\nentity3 -..-> entity4\nentity4 --> entity7\nentity5 -..-> entity6\nentity6 -..-> entity0\nentity6 -..-> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(furodiazole biotical)\nentity1(diphtheritically)\nentity2(rachitis almach)\nentity3(ungentlemanly grout)\nentity4(viragin worlds)\nentity5(perpendicular)\nentity6(repursues essentia)\nentity0 -..-> entity6\nentity1 --> entity3\nentity1 ==> entity2\nentity1 --> entity6\nentity2 -..-> entity3\nentity2 ==> entity5\nentity3 ==> entity2\nentity4 ==> entity5\nentity5 -..-> entity4\nentity6 -..-> entity3\n```"
+    },
+    "9570.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(wrecker cultured)\nentity1(solving)\nentity2(acrotarsial whoopers)\nentity3(longstanding)\nentity4(alex capryl)\nentity5(gargler)\nentity6(sulphotolic)\nentity7(block evacuators)\nentity8(dooryards aster)\nentity0 -.-> entity4\nentity0 -.-> entity2\nentity0 -.-> entity1\nentity1 -.-> entity2\nentity2 -.-> entity3\nentity3 -.-> entity5\nentity4 -.-> entity5\nentity4 -.-> entity6\nentity5 -.-> entity7\nentity5 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(longstanding)\nentity1(dooryards astrer)\nentity2(solving)\nentity3(acrotarsial whoopers)\nentity4(wreaker cultured)\nentity5(bleck evacuators)\nentity6(gargler)\nentity7(alex caprylyl)\nentity8(sulphotoluic)\nentity0 -..-> entity1\nentity0 -..-> entity5\nentity0 -..-> entity6\nentity0 -..-> entity7\nentity2 ==> entity7\nentity2 ==> entity4\nentity3 --> entity6\nentity7 -..-> entity8\n```"
+    },
+    "8811.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(hydroextractor)\nentity1(nepheligenous)\nentity2(disconformity alexi)\nentity3(gale treks counter)\nentity4(roundhead)\nentity5(strychin polycarp)\nentity6(antilysis parsic)\nentity7(unpublishable)\nentity8(submolecule castlet)\nentity9(unelarging)\nentity10(nepheligenous)\nentity11(disconformity alexi)\nentity12(gale treks counter)\nentity13(roundhead)\nentity14(strychin polycarp)\nentity15(antilysis parsic)\nentity16(unpublishable)\nentity17(submolecule castlet)\nentity18(unelarging)\nentity19(nepheligenous)\nentity20(disconformity alexi)\nentity21(gale treks counter)\nentity22(roundhead)\nentity23(strychin polycarp)\nentity24(antilysis parsic)\nentity25(unpublishable)\nentity26(submolecule castlet)\nentity27(unelarging)\nentity0 -.-> entity1\nentity0 -.-> entity2\nentity0 -.-> entity3\nentity0 -.-> entity4\nentity0 -.-> entity5\nentity0 -.-> entity6\nentity0 -.-> entity7\nentity0 -.-> entity8\nentity0 -.-> entity9\nentity1 -.-> entity10\nentity1 -.-> entity11\nentity1 -.-> entity12\nentity1 -.-> entity13\nentity1 -.-> entity14\nentity1 -.-> entity15\nentity1 -.-> entity16\nentity1 -.-> entity17\nentity1 -.-> entity18\nentity2 -.-> entity19\nentity2 -.-> entity20\nentity2 -.-> entity21\nentity2 -.-> entity22\nentity2 -.-> entity23\nentity2 -.-> entity24\nentity2 -.-> entity25\nentity",
+        "reference": "```mermaid\nflowchart BT\nentity0(nepheligenous)\nentity1(hydroextractor)\nentity2(roundhead)\nentity3(unpublishable)\nentity4(galei treks courter)\nentity5(antholysis parsic)\nentity6(unenlarging)\nentity7(submolecule castlet)\nentity8(disconformity alexis)\nentity9(strychnin polycarpy)\nentity0 ==> entity9\nentity1 -..-> entity8\nentity1 ==> entity4\nentity1 -..-> entity9\nentity2 ==> entity6\nentity2 --> entity8\nentity3 ==> entity9\nentity3 -..-> entity6\nentity5 ==> entity8\nentity5 --> entity7\n```"
+    },
+    "9380.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(reweaken vinca)\nentity1(quinovic coch)\nentity2(actinocarpus)\nentity3(eggroll)\nentity4(anee calappa)\nentity0 -..-> entity1\nentity1 -..-> entity2\nentity2 -..-> entity3\nentity3 -..-> entity4\nentity4 -..-> entity2\nentity4 -..-> entity0\nentity4 -..-> entity1\nentity0 -..-> entity4\nentity1 -..-> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(arnee calappa)\nentity1(reweaken vinca)\nentity2(quinovic coch)\nentity3(eggroll)\nentity4(criticalness)\nentity5(actinocarpous)\nentity0 -..-> entity3\nentity1 -..-> entity2\nentity2 -..-> entity4\nentity2 ==> entity1\nentity3 --> entity5\nentity5 -..-> entity2\nentity5 -..-> entity3\n```"
+    },
+    "9802.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\ncoracomandibular --> pitchery\ncoracomandibular --> turfen hexapodiums\ncoracomandibular --> demolished\ncoracomandibular --> skimos ext\ndemolished --> skimos ext\ndemolished --> turfen hexapodiums\ndemolished --> pitchery\nskimos ext --> turfen hexapodiums\nskimos ext --> pitchery\nturfen hexapodiums --> pitchery\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(skimos ext)\nentity1(demolished)\nentity2(coracomandibular)\nentity3(turfen hexapodies)\nentity4(pitchery)\nentity0 ==> entity1\nentity0 --> entity3\nentity1 --> entity3\nentity2 -..-> entity4\nentity3 ==> entity4\n```"
+    },
+    "9213.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(nonmanufacturing)\nentity1(equities wantingly)\nentity2(reposals bedfellows)\nentity3(stowaway)\nentity4(jonvalize)\nentity0 -..-> entity2\nentity0 -..-> entity3\nentity0 -..-> entity4\nentity1 -..-> entity2\nentity2 -..-> entity1\nentity2 -..-> entity3\nentity2 -..-> entity4\nentity3 -..-> entity1\nentity3 -..-> entity4\nentity4 -..-> entity1\nentity4 -..-> entity3\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(reposals bedfellows)\nentity1(jonvalize)\nentity2(nonmanufacturing)\nentity3(equities wantingly)\nentity4(stowaway)\nentity0 ==> entity3\nentity1 --> entity3\nentity1 ==> entity2\nentity1 ==> entity4\nentity2 -..-> entity0\nentity4 --> entity1\nentity4 ==> entity0\n```"
+    },
+    "9829.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(bearherd sillibouk)\nentity1(conferee unpot)\nentity2(frequent)\nentity3(cyanometer)\nentity4(blowhards)\nentity5(cratenean slubbers)\nentity6(sadhu)\nentity0 --> entity2\nentity0 --> entity1\nentity1 --> entity5\nentity2 --> entity3\nentity3 --> entity4\nentity4 --> entity5\nentity5 --> entity6\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(frequent)\nentity1(bearherd sillibouk)\nentity2(cyanometer)\nentity3(sadhu)\nentity4(blowhards)\nentity5(cratinean slubbers)\nentity6(conferree unpot)\nentity0 -..-> entity2\nentity0 --> entity4\nentity1 -..-> entity6\nentity2 --> entity4\nentity3 ==> entity4\nentity4 ==> entity5\nentity5 --> entity6\nentity6 ==> entity5\n```"
+    },
+    "8660.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(rede jasperized)\nentity1(verver)\nentity2(homophyllic fluit)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity0\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(rede jasperized)\nentity1(homophylic flit)\nentity2(verver)\nentity0 --> entity1\nentity0 ==> entity2\nentity2 -..-> entity1\nentity2 ==> entity0\n```"
+    },
+    "9698.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(nondeclarified)\nentity1(slewed allemontite)\nentity2(supervisually)\nentity3(patriarchism)\nentity4(microsphere)\nentity5(dreadable)\nentity6(ooo chermission)\nentity7(spawns tonk tozee)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity4\nentity2 --> entity4\nentity3 --> entity4\nentity4 --> entity5\nentity4 --> entity6\nentity4 --> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(nondecalcified)\nentity1(patriarchism)\nentity2(spawns tonk tozee)\nentity3(slewed allemontite)\nentity4(dreadable)\nentity5(supervisually)\nentity6(oooo cheremissian)\nentity7(microsphere)\nentity0 ==> entity7\nentity0 --> entity3\nentity1 --> entity7\nentity2 -..-> entity7\nentity3 -..-> entity5\nentity4 ==> entity7\nentity4 --> entity6\n```"
+    },
+    "9618.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(graticulate)\nentity1(exercise cantefable)\nentity2(dotish formularising)\nentity3(involvers utopianist)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity2\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(involvers utopianist)\nentity1(dotish formularising)\nentity2(exercite cantefable)\nentity3(graticulate)\nentity0 ==> entity1\nentity1 -..-> entity3\nentity2 --> entity3\n```"
+    },
+    "8151.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(delimiting cascavel)\nentity1(mythological)\nentity2(wedeling)\nentity3(unwandered ground)\nentity4(birthstones)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity1 --> entity4\nentity2 --> entity4\nentity3 --> entity4\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(birthstones)\nentity1(delimiting cascavel)\nentity2(mythological)\nentity3(wedeling)\nentity4(unwandered ground)\nentity0 --> entity1\nentity0 --> entity2\nentity1 -..-> entity4\nentity1 -..-> entity0\nentity2 -..-> entity4\nentity3 --> entity4\nentity4 --> entity0\n```"
+    },
+    "8730.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(anadidymus)\nentity1(footloose)\nentity2(phthalyl untractably)\nentity3(picker bosink)\nentity4(apparently shrimpers)\nentity5(cosmetologists)\nentity6(ecclesial)\nentity7(mallunion)\nentity8(revenued avengers)\nentity0 --> entity7\nentity1 --> entity6\nentity2 --> entity4\nentity3 --> entity4\nentity4 --> entity5\nentity7 --> entity8\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(ecclesial)\nentity1(cosmetologists)\nentity2(revenued avengers)\nentity3(apparently shrimpers)\nentity4(picker bosniak)\nentity5(malunion)\nentity6(phthalyl untractably)\nentity7(footloose)\nentity8(anadidymus)\nentity0 -..-> entity7\nentity1 ==> entity3\nentity1 -..-> entity6\nentity2 ==> entity5\nentity3 ==> entity6\nentity3 ==> entity4\nentity5 ==> entity7\nentity5 ==> entity8\n```"
+    },
+    "9479.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(doigte)\nentity1(subiteousness)\nentity2(panesthesia inkosi)\nentity3(vinta kufic)\nentity4(osteotomies)\nentity5(syncoelom rathed)\nentity0 -..-> entity3\nentity0 -..-> entity1\nentity1 -..-> entity2\nentity1 -..-> entity3\nentity2 -..-> entity4\nentity2 -..-> entity5\nentity3 -..-> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(syncoelom rathed)\nentity1(vinta kufic)\nentity2(ostectomies)\nentity3(doigte)\nentity4(panaesthesia inkosi)\nentity5(subvitreousness)\nentity0 ==> entity4\nentity1 ==> entity5\nentity1 -..-> entity3\nentity2 --> entity4\nentity4 ==> entity5\nentity4 -..-> entity0\n```"
+    },
+    "9022.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(metastable styli)\nentity1(nondenial jawless)\nentity2(antiunion duryodhana)\nentity3(peruvular sycoma)\nentity4(moralize upsides)\nentity0 -.-> entity1\nentity0 -.-> entity3\nentity1 -.-> entity0\nentity2 -.-> entity0\nentity2 -.-> entity3\nentity3 -.-> entity0\nentity4 -.-> entity2\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(moralizes upsides)\nentity1(antiunion duryodhana)\nentity2(metastable stylli)\nentity3(nondenial jawless)\nentity4(periuvular sycoma)\nentity0 -..-> entity1\nentity1 ==> entity4\nentity1 --> entity3\nentity2 --> entity3\nentity4 ==> entity3\n```"
+    },
+    "9102.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(leprala)\nentity1(togue kamas headpins)\nentity2(sceptredom koku)\nentity0 --> entity1\nentity1 --> entity2\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(lepralia)\nentity1(togue kamas headpins)\nentity2(sceptredom koku)\nentity0 -..-> entity2\nentity0 -..-> entity1\nentity1 -..-> entity2\n```"
+    },
+    "8221.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(splenalg humanely)\nentity1(bilging crumples)\nentity2(anabaena)\nentity3(airdrops)\nentity4(inquisitor)\nentity5(saa subtasking)\nentity6(unallotted piperidge)\nentity7(unclamorousness)\nentity0 -..-> entity3\nentity0 -..-> entity4\nentity1 -..-> entity2\nentity2 -..-> entity6\nentity3 -..-> entity5\nentity4 -..-> entity5\nentity5 -..-> entity7\nentity6 -..-> entity7\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(airdrops)\nentity1(unclamorousness)\nentity2(unallotted piperidge)\nentity3(bilging crumples)\nentity4(anabaena)\nentity5(saa subtasking)\nentity6(inspissator)\nentity7(splenalgy humanely)\nentity0 ==> entity6\nentity1 ==> entity4\nentity1 ==> entity2\nentity3 ==> entity7\nentity3 --> entity5\nentity4 -..-> entity3\nentity5 --> entity6\nentity5 -..-> entity1\nentity5 -..-> entity3\n```"
+    },
+    "9410.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(recombined)\nentity1(sorcer alligate)\nentity2(archaical)\nentity3(cingula morons)\nentity4(municism)\nentity5(nudie deprint)\nentity6(sporabola denounce)\nentity7(antimetropia)\nentity8(niggly enolization)\nentity0 --> entity8\nentity0 --> entity2\nentity1 --> entity8\nentity1 --> entity2\nentity2 --> entity3\nentity3 --> entity4\nentity3 --> entity5\nentity3 --> entity6\nentity3 --> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(sorcer alligate)\nentity1(niggly enolization)\nentity2(recombined)\nentity3(munichism)\nentity4(nudie deprint)\nentity5(archradical)\nentity6(sporabola denominate)\nentity7(cingula morons)\nentity8(antimetropia)\nentity0 -..-> entity1\nentity0 -..-> entity2\nentity1 --> entity6\nentity1 -..-> entity5\nentity2 --> entity7\nentity3 -..-> entity5\nentity4 --> entity6\nentity6 -..-> entity7\nentity6 --> entity8\n```"
+    },
+    "9517.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(ar aporose majesties)\nentity1(arthro gloryingly)\nentity2(solarize)\nentity3(tectorial)\nentity4(elapurus)\nentity5(nondeliveries)\nentity0 --> entity2\nentity0 --> entity3\nentity1 --> entity5\nentity2 --> entity4\nentity3 --> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(elaphurus)\nentity1(nondeliveries)\nentity2(ar aporose majesties)\nentity3(tectorial)\nentity4(arthra gloryingly)\nentity5(solarize)\nentity0 -..-> entity2\nentity0 --> entity3\nentity0 ==> entity5\nentity1 -..-> entity4\nentity1 -..-> entity2\nentity2 ==> entity0\n```"
+    },
+    "9381.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(persona balan)\nentity1(shock's choerography)\nentity2(chairman aftertop)\nentity3(obstructive)\nentity4(dhydrated lathouse)\nentity5(electrocolloidal)\nentity6(supraconductor)\nentity7(dodging grskin)\nentity8(phasella spense)\nentity0 -.-> entity3\nentity0 -.-> entity4\nentity1 -.-> entity6\nentity1 -.-> entity7\nentity2 -.-> entity1\nentity3 -.-> entity5\nentity4 -.-> entity3\nentity6 -.-> entity8\nentity7 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(electrocolloidal)\nentity1(phacella spense)\nentity2(supraconductor)\nentity3(shocks chorography)\nentity4(hagbuts)\nentity5(choirman afterhope)\nentity6(obstructive)\nentity7(dodging griskin)\nentity8(dihydrated lathhouse)\nentity9(persona balan)\nentity0 -..-> entity8\nentity0 ==> entity6\nentity1 --> entity9\nentity1 ==> entity5\nentity1 -..-> entity7\nentity2 -..-> entity3\nentity3 --> entity5\nentity3 ==> entity4\nentity4 -..-> entity8\nentity7 --> entity2\nentity8 ==> entity9\nentity8 --> entity3\n```"
+    },
+    "8479.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(sphygmoscope)\nentity1(secium unrepulsed)\nentity2(wealthiness)\nentity3(maitresse rectangles)\nentity4(visement pipier)\nentity0 --> entity2\nentity1 --> entity2\nentity2 --> entity3\nentity2 --> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(maitresse rectangles)\nentity1(visement pipier)\nentity2(wealthiness)\nentity3(sechium unrepulsed)\nentity4(sphygmoscope)\nentity0 ==> entity2\nentity1 --> entity2\nentity1 -..-> entity3\nentity2 -..-> entity4\n```"
+    },
+    "8654.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(cornberry internodia)\nentity1(unbenumbed helloed)\nentity2(ronde katacromism)\nentity3(improfitable niggled)\nentity4(clodded doormaid)\nentity5(novels fishhouse)\nentity0 --> entity3\nentity1 --> entity3\nentity2 --> entity3\nentity3 --> entity4\nentity3 --> entity5\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(cornberry internodia)\nentity1(ronde katacrotism)\nentity2(unbenumbed helloed)\nentity3(improfitable niggled)\nentity4(novels fishhouse)\nentity5(clodded doormaid)\nentity0 -..-> entity4\nentity0 --> entity3\nentity1 ==> entity3\nentity2 ==> entity3\nentity2 --> entity4\nentity3 ==> entity5\n```"
+    },
+    "9516.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(autoskeleton riding)\nentity1(doucepere)\nentity2(fans)\nentity3(mangled antipascha)\nentity4(nivosty syltis)\nentity5(tinkershue idiocy)\nentity6(untwirl chulpa)\nentity7(anaphthalmus)\nentity0 -..-> entity2\nentity0 -..-> entity3\nentity1 -..-> entity0\nentity4 -..-> entity1\nentity5 -..-> entity4\nentity6 -..-> entity0\nentity7 -..-> entity3\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(mangled antipascha)\nentity1(autoskeleton riding)\nentity2(doucepere)\nentity3(nivosity syllis)\nentity4(anophthalmus)\nentity5(tinkershue idiocy)\nentity6(fans)\nentity7(untwirl chulpa)\nentity0 ==> entity4\nentity0 ==> entity2\nentity1 --> entity2\nentity2 ==> entity4\nentity2 -..-> entity5\nentity3 --> entity5\nentity4 -..-> entity7\nentity4 -..-> entity1\nentity5 ==> entity2\nentity6 -..-> entity7\n```"
+    },
+    "9309.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(overvaluing)\nentity1(baling unrapturous)\nentity2(beggarhood churchman)\nentity3(angiostomy meach)\nentity4(yare vividlysis)\nentity1 --> entity0\nentity2 --> entity0\nentity0 --> entity3\nentity0 --> entity4\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(beggarhood churchman)\nentity1(yare vividialysis)\nentity2(overvaluing)\nentity3(baling unrapturous)\nentity4(angiostomy meach)\nentity0 -..-> entity3\nentity0 --> entity2\nentity1 ==> entity2\nentity1 --> entity4\n```"
+    },
+    "8593.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(metapostscutellar)\nentity1(disfigurement)\nentity2(undereating detenus)\nentity3(araneidan)\nentity4(talcchlorite)\nentity0 -.-> entity1\nentity1 --> entity2\nentity3 -.-> entity4\nentity4 -.-> entity0\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(araneidan)\nentity1(talcochlorite)\nentity2(metapostscutellar)\nentity3(disfigurement)\nentity4(undereating detenus)\nentity0 ==> entity1\nentity0 ==> entity2\nentity0 -..-> entity3\nentity1 ==> entity2\nentity1 -..-> entity4\n```"
+    },
+    "9523.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nA[polyanthus] --> B[puppetize]\nB --> C[throwback]\nC --> D[nitpicks]\nA --> E[fanaticise sepiae]\nE --> B\nE --> F[homeomorphic welshy]\nF --> C\nF --> G[hv cryptocarpous]\nG --> H[autovalet]\nG --> I[voodooship]\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(homeomorphic welshry)\nentity1(voivodeship)\nentity2(hv cryptocarpous)\nentity3(fanaticise sepiae)\nentity4(polyanthus)\nentity5(autovalet)\nentity6(throwback)\nentity7(puppetize)\nentity8(nitpicks)\nentity0 ==> entity6\nentity1 ==> entity2\nentity1 ==> entity5\nentity2 ==> entity7\nentity2 -..-> entity8\nentity2 ==> entity1\nentity3 --> entity6\nentity3 --> entity4\nentity6 -..-> entity7\nentity7 ==> entity4\nentity8 -..-> entity7\n```"
+    },
+    "8167.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(coldfinch ectocoelic)\nentity1(merodach)\nentity2(witheredly dragbolt)\nentity3(subtill ampassy)\nentity4(timecard retroplexed)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity3\nentity2 --> entity3\nentity3 --> entity4\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(coldfinch ectocoelic)\nentity1(merodach)\nentity2(witheredly dragbolt)\nentity3(subtill ampassy)\nentity4(timecard retroplexed)\nentity0 -..-> entity1\nentity1 --> entity3\nentity1 --> entity0\nentity2 ==> entity3\nentity3 ==> entity4\n```"
+    },
+    "8515.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(cacoethes thymetic)\nentity1(myrmecophilic mavie)\nentity2(unfusible recover)\nentity3(cotylophorous)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity1 --> entity0\nentity2 --> entity0\nentity3 --> entity0\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(cacoethes thymetic)\nentity1(myrmecophytic mavie)\nentity2(unfusible recover)\nentity3(cotylophorous)\nentity0 ==> entity2\nentity1 ==> entity2\nentity1 -..-> entity3\nentity1 ==> entity0\nentity2 --> entity0\n```"
+    },
+    "9247.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(girtling)\nentity1(noninfectiously)\nentity2(miticides)\nentity3(interview)\nentity4(detox nances)\nentity5(mushroom sextans)\nentity6(precursors gibber)\nentity7(cordate pitchout)\nentity1 -.-> entity0\nentity2 -.-> entity0\nentity3 -.-> entity0\nentity4 -.-> entity0\nentity5 -.-> entity0\nentity6 -.-> entity0\nentity7 -.-> entity0\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(intervisible)\nentity1(mushrump sextans)\nentity2(noninfectiously)\nentity3(miticides)\nentity4(girling)\nentity5(detax nances)\nentity6(cordate pitchout)\nentity7(precentors glibber)\nentity0 ==> entity3\nentity0 -..-> entity5\nentity1 ==> entity7\nentity2 --> entity6\nentity2 --> entity4\nentity2 ==> entity0\nentity3 -..-> entity4\nentity4 -..-> entity6\nentity4 ==> entity1\nentity5 --> entity7\nentity5 ==> entity0\n```"
+    },
+    "8987.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(myopically)\nentity1(unmoors jerrid)\nentity2(derri)\nentity3(extremities)\nentity4(unaddicted diluters)\nentity5(millepunctate)\nentity6(traditionally)\nentity0 -.-> entity2\nentity0 -.-> entity3\nentity1 -.-> entity2\nentity1 -.-> entity3\nentity2 -.-> entity4\nentity2 -.-> entity5\nentity3 -.-> entity4\nentity3 -.-> entity5\nentity4 -.-> entity6\nentity5 -.-> entity6\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(extremities)\nentity1(myopically)\nentity2(derri)\nentity3(unaddicted dilutors)\nentity4(traditionarily)\nentity5(millepunctate)\nentity6(unmoors jerrid)\nentity0 ==> entity3\nentity0 -..-> entity2\nentity1 --> entity6\nentity2 -..-> entity6\nentity3 ==> entity2\nentity4 --> entity5\nentity5 -..-> entity6\n```"
+    },
+    "9937.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(zinebs cypraea)\nentity1(inequivalent)\nentity2(derailments simiad)\nentity3(contradance)\nentity4(abrupt krantz)\nentity5(dyingness moonmen)\nentity6(actualize material)\nentity7(unsecreted)\nentity8(tcharik advisiveness)\nentity9(composal voetsek)\nentity0 -.-> entity1\nentity0 -.-> entity2\nentity0 -.-> entity5\nentity0 -.-> entity8\nentity1 -.-> entity0\nentity2 -.-> entity0\nentity3 -.-> entity0\nentity4 -.-> entity0\nentity5 -.-> entity0\nentity6 -.-> entity0\nentity7 -.-> entity0\nentity8 -.-> entity0\nentity9 -.-> entity0\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(actualize materia)\nentity1(unsecreted)\nentity2(tcharik advisiveness)\nentity3(composal voetsek)\nentity4(contradance)\nentity5(zinebs cypraea)\nentity6(inequivalent)\nentity7(abrupt krantz)\nentity8(dyingness moonmen)\nentity9(derailments simiad)\nentity0 --> entity3\nentity1 -..-> entity3\nentity2 --> entity7\nentity2 -..-> entity3\nentity2 ==> entity8\nentity3 -..-> entity4\nentity3 ==> entity7\nentity4 --> entity5\nentity5 -..-> entity6\nentity5 -..-> entity9\nentity7 -..-> entity5\nentity8 ==> entity5\nentity9 -..-> entity6\n```"
+    },
+    "9393.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(reintend twankies)\nentity1(backboard)\nentity2(mikron polonizes)\nentity3(packcloth)\nentity4(hierurgy)\nentity5(jukes waterlily)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity2\nentity2 --> entity3\nentity2 --> entity4\nentity2 --> entity5\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(reintend twankies)\nentity1(jukes waterlily)\nentity2(packcloth)\nentity3(backboard)\nentity4(hierurgy)\nentity5(mikron polonize)\nentity0 -..-> entity5\nentity1 -..-> entity5\nentity1 ==> entity2\nentity1 --> entity4\nentity3 --> entity5\n```"
+    },
+    "9287.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(reset)\nentity1(jugs gastrin purfly)\nentity2(superelastically)\nentity3(solpugida bilder)\nentity4(roni wizened)\nentity5(nonimplicative)\nentity6(downgrowth)\nentity7(swordsmanship)\nentity8(pir hydrophobic)\nentity9(ian sobber wicker)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity0 --> entity4\nentity0 --> entity5\nentity0 --> entity6\nentity0 --> entity7\nentity0 --> entity8\nentity0 --> entity9\nentity1 --> entity0\nentity2 --> entity0\nentity3 --> entity0\nentity4 --> entity0\nentity5 --> entity0\nentity6 --> entity0\nentity7 --> entity0\nentity8 --> entity0\nentity9 --> entity0\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(pir hydrophobic)\nentity1(reset)\nentity2(superelastically)\nentity3(nonimplicative)\nentity4(ian sobber whickered)\nentity5(swordsmanship)\nentity6(solpugida bilder)\nentity7(rone wizened)\nentity8(jugs gastrin purfly)\nentity9(downgrowth)\nentity0 --> entity1\nentity0 ==> entity5\nentity0 ==> entity9\nentity1 -..-> entity3\nentity1 -..-> entity7\nentity1 -..-> entity0\nentity2 --> entity8\nentity3 -..-> entity8\nentity4 ==> entity6\nentity4 -..-> entity1\nentity6 --> entity8\n```"
+    },
+    "8681.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(erodible aleoletical)\nentity1(reshow exercise)\nentity2(staggers overstudy)\nentity3(hyobranchial)\nentity4(childing iliospinal)\nentity5(killeen erecters)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity4\nentity2 --> entity3\nentity4 --> entity5\nentity5 --> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(hyobranchial)\nentity1(killeen erecters)\nentity2(staggards overstudy)\nentity3(erodible aloetical)\nentity4(childing iliospinal)\nentity5(reshew exercite)\nentity0 ==> entity4\nentity1 --> entity3\nentity2 --> entity4\nentity2 -..-> entity3\nentity2 -..-> entity5\nentity2 ==> entity1\nentity4 --> entity1\n```"
+    },
+    "9981.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(uridlosis)\nentity1(abduce smrrebdr)\nentity2(antisophistic)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity0\nentity2 --> entity0\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(abduce smrrebrd)\nentity1(uridrosis)\nentity2(antisophistic)\nentity0 --> entity1\nentity0 ==> entity2\nentity1 ==> entity2\nentity2 ==> entity0\nentity2 ==> entity1\n```"
+    },
+    "8953.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(jostlement venada)\nentity1(twankies)\nentity2(superciliously)\nentity3(rinneite saddlewise)\nentity4(undomotic)\nentity5(trinnerve)\nentity6(integumental tutor)\nentity7(thankyou)\nentity0 -..-> entity4\nentity0 -..-> entity5\nentity1 -..-> entity2\nentity2 -..-> entity3\nentity3 -..-> entity4\nentity4 -..-> entity6\nentity4 -..-> entity7\nentity5 -..-> entity6\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(thankyou)\nentity1(integumental tutor)\nentity2(trinerve)\nentity3(undomestic)\nentity4(rinneite saddlewise)\nentity5(superciliously)\nentity6(twankies)\nentity7(jostlement venada)\nentity0 -..-> entity2\nentity1 --> entity3\nentity2 ==> entity7\nentity3 -..-> entity6\nentity3 -..-> entity7\nentity4 ==> entity5\nentity5 ==> entity6\n```"
+    },
+    "9178.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(confabulations)\nentity1(presupply upbroken)\nentity2(natch camera)\nentity3(dangerous conies)\nentity4(anisadrous)\nentity5(isolate paragological)\nentity6(nonidentities)\nentity7(pilocystic)\nentity8(meliorations)\nentity9(prepublican)\nentity10(confabulations)\nentity11(prepublican)\nentity12(pilocystic)\nentity13(nonidentities)\nentity14(isolate paragological)\nentity15(anisadrous)\nentity16(meliorations)\nentity17(prepublican)\nentity18(pilocystic)\nentity19(nonidentities)\nentity20(isolate paragological)\nentity21(anisadrous)\nentity22(meliorations)\nentity23(prepublican)\nentity24(pilocystic)\nentity25(nonidentities)\nentity26(isolate paragological)\nentity27(anisadrous)\nentity28(meliorations)\nentity29(prepublican)\nentity30(pilocystic)\nentity31(nonidentities)\nentity32(isolate paragological)\nentity33(anisadrous)\nentity34(meliorations)\nentity35(prepublican)\nentity36(pilocystic)\nentity37(nonidentities)\nentity38(isolate paragological)\nentity39(anisadrous)\nentity40(meliorations)\nentity41(prepublican)\nentity42(pilocystic)\nentity43(nonidentities)\nentity44(isolate paragological)\nentity45(anisadrous)\nentity46(meliorations)\nentity47(prepublican)\nentity48(pilocystic)\nentity49(nonidentities)\nentity50(isolate paragological)\nentity51(anisadrous)\nentity",
+        "reference": "```mermaid\nflowchart TD\nentity0(anisandrous)\nentity1(isolate paragogical)\nentity2(pilocystic)\nentity3(natch camarera)\nentity4(confabulations)\nentity5(presupply upbroken)\nentity6(dangerous conies)\nentity7(nonidentities)\nentity8(meliorations)\nentity9(prerepublican)\nentity0 -..-> entity9\nentity0 --> entity6\nentity0 ==> entity8\nentity1 -..-> entity2\nentity2 -..-> entity9\nentity2 --> entity7\nentity3 ==> entity5\nentity3 -..-> entity4\nentity6 --> entity3\nentity7 --> entity2\nentity8 --> entity9\nentity8 --> entity7\n```"
+    },
+    "8381.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(theories)\nentity1(tinned)\nentity2(vaunted)\nentity3(unfrequent morels)\nentity4(slammakin footcandle)\nentity5(glenoidlike mucormea)\nentity6(bovaccination)\nentity7(fibroblastic)\nentity0 -..-> entity3\nentity0 -..-> entity1\nentity1 --> entity2\nentity2 -..-> entity5\nentity3 -..-> entity2\nentity5 -..-> entity4\nentity6 -..-> entity0\nentity7 -..-> entity6\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(fibroplastic)\nentity1(unfrequent morels)\nentity2(bovovaccination)\nentity3(glenlike mucorrhea)\nentity4(theorizies)\nentity5(tinnen)\nentity6(slammakin footcandle)\nentity7(vaunted)\nentity0 --> entity2\nentity0 -..-> entity6\nentity1 --> entity7\nentity1 -..-> entity2\nentity2 -..-> entity4\nentity2 -..-> entity5\nentity2 -..-> entity7\nentity3 ==> entity6\nentity4 --> entity1\nentity7 -..-> entity6\n```"
+    },
+    "8142.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(superfolly norm)\nentity1(waitsmen forevert)\nentity2(tartishness)\nentity3(noncomp lanets)\nentity4(caesaropaism besem)\nentity5(antinuclear)\nentity6(endocrine bunkums)\nentity0 -..-> entity1\nentity0 -..-> entity4\nentity0 -..-> entity3\nentity0 -..-> entity2\nentity1 -..-> entity2\nentity1 -..-> entity4\nentity1 -..-> entity3\nentity2 -..-> entity4\nentity2 -..-> entity3\nentity3 -..-> entity4\nentity3 -..-> entity5\nentity4 -..-> entity5\nentity6 -..-> entity0\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(tartishness)\nentity1(waitsmen forecovert)\nentity2(endotropic bunkums)\nentity3(antejentacular)\nentity4(noncomplacent lunets)\nentity5(caesaropapism beseem)\nentity6(superfolly norm)\nentity0 ==> entity1\nentity1 --> entity6\nentity2 ==> entity6\nentity3 -..-> entity5\nentity4 --> entity5\nentity5 -..-> entity6\nentity5 --> entity2\nentity6 -..-> entity0\nentity6 --> entity2\n```"
+    },
+    "8639.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(preaccommodatingly)\nentity1(fillock humidors)\nentity2(album)\nentity3(peregrinity)\nentity4(salutary tweenies)\nentity0 --> entity1\nentity1 --> entity2\nentity3 --> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(salutarily tweenies)\nentity1(fillock humidors)\nentity2(alburnum)\nentity3(preaccommodatingly)\nentity4(peregrinity)\nentity0 ==> entity1\nentity0 ==> entity4\nentity1 ==> entity3\nentity2 --> entity3\nentity2 -..-> entity1\nentity3 --> entity0\n```"
+    },
+    "8074.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(whumps chalkstone)\nentity1(reconsecrations)\nentity2(whipcordy izzat)\nentity3(equitation)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity3\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(reconsecrations)\nentity1(whipcordy izzat)\nentity2(whumps chalkstone)\nentity3(equitation)\nentity0 -..-> entity1\nentity0 --> entity2\nentity0 -..-> entity3\nentity1 -..-> entity3\n```"
+    },
+    "9542.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(superbenign)\nentity1(scabbed)\nentity2(pearleyes)\nentity3(spied unladylike)\nentity4(palpitating)\nentity5(pyrophyllite)\nentity6(microplastometer)\nentity7(jammers decline)\nentity8(veli kerri)\nentity9(endodonist trustify)\nentity0 -.-> entity1\nentity0 -.-> entity2\nentity1 -.-> entity3\nentity2 -.-> entity3\nentity3 -.-> entity4\nentity4 -.-> entity5\nentity5 -.-> entity6\nentity4 -.-> entity7\nentity4 -.-> entity8\nentity8 -.-> entity9\nentity9 -.-> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(jammers decline)\nentity1(microplastometer)\nentity2(pyrophyllite)\nentity3(palpitating)\nentity4(endodontist trustify)\nentity5(sclaffed)\nentity6(spiled unladylike)\nentity7(pearleyes)\nentity8(superbenign)\nentity9(vlei kerri)\nentity0 -..-> entity3\nentity0 ==> entity8\nentity1 -..-> entity2\nentity2 --> entity6\nentity3 -..-> entity8\nentity3 ==> entity6\nentity4 -..-> entity7\nentity4 ==> entity9\nentity5 ==> entity8\nentity7 ==> entity8\n```"
+    },
+    "8034.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(spoliation bimethyl)\nentity1(rehardened subadars)\nentity2(seven)\nentity3(dave coapt)\nentity4(coaling)\nentity5(scob absennae)\nentity6(fixedly grapioid)\nentity7(quenal gaz tugging)\nentity8(sulpholpin)\nentity9(alimentariness)\nentity0 -.-> entity4\nentity0 -.-> entity5\nentity0 -.-> entity6\nentity0 -.-> entity3\nentity1 -.-> entity0\nentity1 -.-> entity7\nentity2 -.-> entity3\nentity3 -.-> entity2\nentity4 -.-> entity0\nentity5 -.-> entity0\nentity6 -.-> entity0\nentity7 -.-> entity0\nentity7 -.-> entity8\nentity8 -.-> entity0\nentity9 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(alimentariness)\nentity1(sulpholipin)\nentity2(coaling)\nentity3(spoilation bimethyl)\nentity4(dave coapt)\nentity5(scolb anserinae)\nentity6(rehardened subahdars)\nentity7(quienal gaz tugging)\nentity8(fixedly grapsoid)\nentity9(seven)\nentity0 ==> entity1\nentity1 -..-> entity3\nentity2 ==> entity8\nentity2 --> entity9\nentity3 ==> entity4\nentity3 --> entity8\nentity4 ==> entity8\nentity4 --> entity5\nentity6 --> entity9\nentity6 ==> entity7\nentity6 -..-> entity3\n```"
+    },
+    "8007.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(joneses)\nentity1(swimmingly melipona)\nentity2(nag freewoman claim)\nentity3(nonobstructively)\nentity0 --> entity1\nentity0 --> entity2\nentity1 --> entity3\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(nonobstructively)\nentity1(swimmingly melipona)\nentity2(joneses)\nentity3(nag freewoman claim)\nentity0 --> entity3\nentity0 ==> entity1\nentity1 ==> entity2\n```"
+    },
+    "9412.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(unmouthpieced)\nentity1(brandied semisteel)\nentity2(kissing away)\nentity3(dequantate)\nentity4(nondefeasibleness)\nentity5(barkinji thingumaree)\nentity6(evehood witnessed)\nentity7(humblesse)\nentity8(trachyglossate)\nentity0 -.-> entity6\nentity0 -.-> entity4\nentity1 -.-> entity8\nentity2 -.-> entity8\nentity3 -.-> entity8\nentity4 -.-> entity6\nentity4 -.-> entity7\nentity4 -.-> entity8\nentity5 -.-> entity4\nentity6 -.-> entity8\nentity7 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(barkinji thingumaree)\nentity1(brandied semisteel)\nentity2(humblesse)\nentity3(nondefeasibness)\nentity4(unmouthpieced)\nentity5(evehood wistened)\nentity6(dequantitate)\nentity7(kissing aweary)\nentity8(trachyglossate)\nentity0 -..-> entity3\nentity0 -..-> entity8\nentity1 --> entity2\nentity1 ==> entity7\nentity2 ==> entity8\nentity3 -..-> entity6\nentity3 ==> entity4\nentity3 -..-> entity5\nentity5 ==> entity3\nentity6 ==> entity8\n```"
+    },
+    "8711.jpeg": {
+        "prediction": "",
+        "reference": "```mermaid\nflowchart RL\nentity0(starosty)\nentity1(legitimizes puddee)\nentity2(sciaenid blackbirder)\nentity3(buphaga)\nentity4(overacceleration)\nentity0 ==> entity3\nentity1 -..-> entity3\nentity1 --> entity2\nentity1 ==> entity0\nentity2 --> entity3\nentity2 -..-> entity1\nentity3 -..-> entity4\nentity4 -..-> entity3\n```"
+    },
+    "8248.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(climbingfishes)\nentity1(parabled)\nentity2(destiny agoho wainer)\nentity3(tufttier overmerrily)\nentity4(sporangia)\nentity5(glints unwelde)\nentity6(scholialia)\nentity7(semipause aconitum)\nentity8(panic sonship)\nentity0 -.-> entity5\nentity0 -.-> entity1\nentity1 -.-> entity2\nentity2 -.-> entity3\nentity2 -.-> entity4\nentity3 -.-> entity8\nentity4 -.-> entity7\nentity5 -.-> entity6\nentity6 -.-> entity7\nentity6 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(semipause acontium)\nentity1(glints unwelde)\nentity2(sporangigia)\nentity3(scholiumlia)\nentity4(climbingfishes)\nentity5(parabled)\nentity6(destiny agoho wainer)\nentity7(tuftier overmerrily)\nentity8(phanic sonship)\nentity0 ==> entity8\nentity1 --> entity2\nentity1 --> entity3\nentity1 -..-> entity4\nentity1 -..-> entity8\nentity2 -..-> entity7\nentity4 --> entity5\nentity4 -..-> entity6\nentity6 -..-> entity7\n```"
+    },
+    "9520.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(acrospore afforest)\nentity1(granula)\nentity2(redelivering)\nentity3(inearthing ganie)\nentity4(allen unwhisperable)\nentity5(dejection turbinated)\nentity6(dusty demibite)\nentity7(introduc)\nentity8(basking ceratoblast)\nentity9(palaeolithoid)\nentity10(reliability)\nentity0 -.-> entity9\nentity0 -.-> entity8\nentity1 -.-> entity7\nentity1 -.-> entity2\nentity1 -.-> entity3\nentity2 -.-> entity4\nentity3 -.-> entity4\nentity4 -.-> entity6\nentity5 -.-> entity7\nentity5 -.-> entity10\nentity6 -.-> entity10\nentity7 -.-> entity10\nentity8 -.-> entity10\nentity9 -.-> entity10\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(dejection turbinated)\nentity1(basking ceratoblast)\nentity2(palaeolithoid)\nentity3(acrospore afforest)\nentity4(redelivering)\nentity5(dusty demibrute)\nentity6(introduct)\nentity7(inearthing ganyie)\nentity8(allen unwhisperable)\nentity9(granula)\nentity0 ==> entity1\nentity0 -..-> entity4\nentity1 ==> entity2\nentity1 ==> entity6\nentity2 --> entity3\nentity2 -..-> entity9\nentity4 -..-> entity7\nentity5 -..-> entity6\nentity7 --> entity8\nentity9 -..-> entity7\n```"
+    },
+    "9901.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(decausalization)\nentity1(plurinucleate fidget)\nentity2(keloidal)\nentity3(hyposcope vaus hugo)\nentity4(overacted)\nentity5(rewardableness)\nentity6(porzana heptads)\nentity7(hemiparaxia lair)\nentity8(chimalakwe overlarge)\nentity0 -..-> entity1\nentity0 -..-> entity3\nentity1 --> entity2\nentity2 --> entity3\nentity3 --> entity4\nentity4 --> entity5\nentity4 --> entity6\nentity4 --> entity7\nentity4 --> entity8\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(decasualization)\nentity1(keloidal)\nentity2(porzana heptads)\nentity3(hemiapraxia lair)\nentity4(rewardableness)\nentity5(chimalakwe overlarge)\nentity6(overacted)\nentity7(plurinucleate fidget)\nentity8(hyposcope vaus hugo)\nentity0 --> entity6\nentity0 --> entity1\nentity0 --> entity7\nentity0 ==> entity8\nentity2 --> entity3\nentity2 --> entity5\nentity3 ==> entity6\nentity3 ==> entity4\nentity4 ==> entity6\nentity4 -..-> entity1\nentity6 --> entity0\n```"
+    },
+    "9555.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nmacrorhamphosidae --> untorid\nmacrorhamphosidae --> cannoned\nmacrorhamphosidae --> unpatronisable\nmacrorhamphosidae --> outspoken xenophobe\nmacrorhamphosidae --> unseparateness\nmacrorhamphosidae --> nonliquid\nmacrorhamphosidae --> overcap babesi\nmacrorhamphosidae --> skatosine crashingly\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(overcape babesias)\nentity1(skatosine crashingly)\nentity2(outspoken xenophobe)\nentity3(untorrid)\nentity4(nonliquid)\nentity5(unpatronisable)\nentity6(cannoned)\nentity7(unseparateness)\nentity8(macrorhamphosidae)\nentity0 --> entity2\nentity0 ==> entity3\nentity1 --> entity8\nentity2 --> entity3\nentity2 --> entity6\nentity4 -..-> entity8\nentity4 --> entity5\nentity4 --> entity7\nentity7 -..-> entity8\n```"
+    },
+    "9259.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(complaint)\nentity1(discastel)\nentity2(archaeopteris onlook)\nentity3(tailings)\nentity4(controllership)\nentity5(chowtime piast)\nentity0 -.-> entity1\nentity0 -.-> entity3\nentity1 -.-> entity2\nentity1 -.-> entity3\nentity2 -.-> entity3\nentity3 -.-> entity4\nentity3 -.-> entity5\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(archaeopteris onlook)\nentity1(complaisant)\nentity2(tailings)\nentity3(discastle)\nentity4(chowtime piarist)\nentity5(controllership)\nentity0 ==> entity3\nentity0 --> entity2\nentity0 ==> entity5\nentity1 -..-> entity3\nentity2 -..-> entity3\nentity2 --> entity4\nentity5 ==> entity4\n```"
+    },
+    "8854.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(uneffigiated)\nentity1(nisaean bethflower)\nentity2(surdmutilism)\nentity3(biophotometer)\nentity4(hijackings bersil)\nentity5(haunting)\nentity6(proas carbadine)\nentity7(floc untypped)\nentity8(picnicker)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity0 --> entity4\nentity0 --> entity5\nentity0 --> entity6\nentity0 --> entity7\nentity0 --> entity8\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(surdimutism)\nentity1(uneffigiated)\nentity2(biophotometer)\nentity3(picnicker)\nentity4(proas carbamidine)\nentity5(nisaean bethflower)\nentity6(hijackings bersil)\nentity7(floc untyped)\nentity8(haunting)\nentity0 -..-> entity5\nentity1 ==> entity5\nentity1 ==> entity6\nentity1 ==> entity8\nentity2 -..-> entity3\nentity2 -..-> entity5\nentity2 --> entity0\nentity3 -..-> entity4\nentity7 -..-> entity8\nentity8 ==> entity1\n```"
+    },
+    "8163.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(amphigoris)\nentity1(houseowner)\nentity2(werecat testifier)\nentity3(procitic zoiaria)\nentity4(pentagamist)\nentity5(sacerdotism valley)\nentity6(repandousness)\nentity7(gnotobiology)\nentity0 -..-> entity1\nentity0 -..-> entity2\nentity1 -..-> entity3\nentity2 -..-> entity6\nentity2 -..-> entity7\nentity3 -..-> entity4\nentity3 -..-> entity5\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(amphigouris)\nentity1(werecat testifier)\nentity2(houseowner)\nentity3(proclitic zoiatria)\nentity4(pentagamist)\nentity5(gnotobiologies)\nentity6(repandousness)\nentity7(sacerdotism valley)\nentity0 ==> entity2\nentity1 ==> entity6\nentity2 --> entity6\nentity2 -..-> entity4\nentity3 ==> entity4\nentity4 ==> entity5\nentity4 --> entity7\nentity6 --> entity7\n```"
+    },
+    "8873.jpeg": {
+        "prediction": "```mermaid\ngraph LR\nA[toitoi asiita] --> B[iceblinks]\nB --> C[uncapaciousness]\nC --> D[patart tubuphone]\nD --> E[glitch]\nB --> F[unmetered perdurance]\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(toitoi asitia)\nentity1(patart tubuphone)\nentity2(uncapaciousness)\nentity3(glitch)\nentity4(iceblinks)\nentity5(unmetred perdurance)\nentity0 --> entity4\nentity1 -..-> entity4\nentity2 ==> entity5\nentity2 --> entity4\nentity3 -..-> entity4\nentity4 --> entity5\n```"
+    },
+    "9494.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(recanvas volition)\nentity1(iastic)\nentity2(inquisitive)\nentity3(amphisaeous)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(recanvas violon)\nentity1(isatic)\nentity2(inquisiturient)\nentity3(amphisbaenous)\nentity0 -..-> entity1\nentity1 -..-> entity2\nentity2 ==> entity3\n```"
+    },
+    "8449.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(noncomprehensiveness)\nentity1(unobliged grafter)\nentity2(naphtholize)\nentity3(strikebreaker rhiza)\nentity4(duosponsitic)\nentity5(enamil)\nentity6(oneirology)\nentity7(uncichotomus)\nentity0 -..-> entity1\nentity0 -..-> entity2\nentity1 --> entity7\nentity2 --> entity7\nentity3 -..-> entity4\nentity4 -..-> entity5\nentity4 -..-> entity7\nentity5 -..-> entity6\nentity6 -..-> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(duopsonistic)\nentity1(enami)\nentity2(unobliged grafter)\nentity3(strikebreaker rrhiza)\nentity4(undichotomous)\nentity5(naphtholize)\nentity6(oneirology)\nentity7(noncomprehensiveness)\nentity0 --> entity3\nentity0 -..-> entity2\nentity1 ==> entity4\nentity1 --> entity6\nentity3 ==> entity5\nentity5 -..-> entity7\nentity7 --> entity2\n```"
+    },
+    "8835.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(bebloom disproof)\nentity1(wildness)\nentity2(unpromiscuously)\nentity3(macrorhamphosidae)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity0\nentity1 --> entity3\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(bebloom disproof)\nentity1(unpromiscuously)\nentity2(vildness)\nentity3(macrorhamphosidae)\nentity0 -..-> entity3\nentity0 --> entity1\nentity0 --> entity2\n```"
+    },
+    "8630.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(pseudencephalus)\nentity1(thrimp pediculati)\nentity2(reascents)\nentity3(pterion guttule)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(pseudencephalus)\nentity1(pterion guttule)\nentity2(thrimp pediculati)\nentity3(reascents)\nentity0 --> entity2\nentity1 --> entity3\nentity1 ==> entity2\nentity2 -..-> entity3\nentity3 --> entity1\n```"
+    },
+    "9537.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(snared)\nentity1(whirlwind unwave)\nentity2(noetic focometry)\nentity3(tameless norsel)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(snared)\nentity1(lamellose norseler)\nentity2(whirlwind unwwove)\nentity3(noetic focometry)\nentity0 --> entity1\nentity0 ==> entity2\nentity2 -..-> entity3\nentity2 ==> entity0\nentity3 --> entity1\n```"
+    },
+    "9512.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(guberniya pacificity)\nentity1(effetuality)\nentity2(ungainsayably)\nentity3(linalools)\nentity4(arbutuses carnelians)\nentity0 -..-> entity1\nentity1 ==> entity2\nentity1 -..-> entity3\nentity1 -..-> entity4\nentity2 --> entity1\nentity3 --> entity1\nentity4 --> entity1\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(ungainsayably)\nentity1(guberniya pacificity)\nentity2(effectuality)\nentity3(linalools)\nentity4(arbutuses carnelians)\nentity0 -..-> entity2\nentity0 -..-> entity3\nentity1 -..-> entity4\nentity2 -..-> entity1\nentity3 --> entity4\n```"
+    },
+    "9876.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(dermoplasty)\nentity1(kowtowers swiftest)\nentity2(votress)\nentity3(lunarist flakelet)\nentity4(norridgewock)\nentity5(evisceration)\nentity6(tylostroma concetti)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\nentity2 --> entity4\nentity2 --> entity5\nentity2 --> entity6\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(lunarist flakelet)\nentity1(dermoplasty)\nentity2(norridgewock)\nentity3(kowtowers swiftest)\nentity4(evisceration)\nentity5(tylostoma concetti)\nentity6(votress)\nentity0 -..-> entity5\nentity1 --> entity3\nentity2 -..-> entity5\nentity3 --> entity6\nentity4 -..-> entity5\nentity5 -..-> entity0\nentity6 -..-> entity0\n```"
+    },
+    "9560.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(extensively yasna)\nentity1(uncaptivating just)\nentity2(improbative unchewed)\nentity3(baguio vacuum)\nentity4(aelonian sickbays)\nentity5(phoneticist)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity3\nentity1 --> entity4\nentity1 --> entity5\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(aeolian sickbays)\nentity1(phoneticist)\nentity2(uncaptivating just)\nentity3(extensivity yasna)\nentity4(improbative unchewed)\nentity5(baguio vacuum)\nentity0 ==> entity4\nentity0 -..-> entity2\nentity1 ==> entity5\nentity2 --> entity3\n```"
+    },
+    "8947.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(japishness pachadom)\nentity1(deallocation)\nentity2(truckman)\nentity0 --> entity1\nentity1 --> entity2\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(truchman)\nentity1(japishness pachadom)\nentity2(deallocation)\nentity0 ==> entity1\nentity0 --> entity2\nentity1 --> entity0\nentity2 --> entity0\nentity2 ==> entity1\n```"
+    },
+    "8973.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(anandrous battled)\nentity1(mentionability)\nentity2(scorpionfish)\nentity3(preconfession)\nentity4(sugarloaf pollan)\nentity5(heteroclinou)\nentity6(scorify flirter)\nentity7(centuplicating)\nentity8(omnigerent ouraris)\nentity0 -.-> entity2\nentity0 -.-> entity3\nentity1 -.-> entity5\nentity2 -.-> entity1\nentity3 -.-> entity1\nentity4 -.-> entity1\nentity5 -.-> entity6\nentity5 -.-> entity7\nentity5 -.-> entity8\nentity6 -.-> entity7\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(preconfession)\nentity1(omniregent ouraris)\nentity2(centuplicating)\nentity3(scorpionfish)\nentity4(heteroclinous)\nentity5(sugarloaf pollan)\nentity6(mentionability)\nentity7(anandrious batteled)\nentity8(scorify flirter)\nentity0 --> entity7\nentity1 --> entity4\nentity2 --> entity8\nentity3 --> entity7\nentity4 --> entity5\nentity4 -..-> entity6\nentity4 -..-> entity1\nentity6 ==> entity7\nentity6 -..-> entity5\nentity6 ==> entity0\n```"
+    },
+    "8454.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(clower ctr asthetics)\nentity1(bylawman sangrel)\nentity2(nonboiling haylages)\nentity3(voicelike)\nentity0 -..-> entity3\nentity0 -..-> entity1\nentity1 -..-> entity2\nentity2 -..-> entity3\nentity3 -..-> entity0\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(bylawman sangrel)\nentity1(nonboiling haylages)\nentity2(clower ctr asthenics)\nentity3(voicelike)\nentity0 --> entity2\nentity1 ==> entity3\nentity1 --> entity0\nentity2 -..-> entity3\nentity3 --> entity1\n```"
+    },
+    "9361.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(snib severian)\nentity1(tracts placebos)\nentity2(uptoses)\nentity3(quizzification)\nentity4(contemptuously)\nentity5(racemosely)\nentity6(quadrupleness)\nentity7(thresher boasting)\nentity8(leptoptilus)\nentity9(kyansing)\nentity0 -.-> entity3\nentity0 -.-> entity1\nentity1 -.-> entity3\nentity1 -.-> entity2\nentity2 -.-> entity3\nentity3 -.-> entity4\nentity3 -.-> entity5\nentity4 -.-> entity6\nentity5 -.-> entity6\nentity6 -.-> entity7\nentity6 -.-> entity8\nentity6 -.-> entity9\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(uptosses)\nentity1(quizzification)\nentity2(tracts placebos)\nentity3(racemously)\nentity4(contemplatively)\nentity5(kyanising)\nentity6(thresher boasting)\nentity7(leptoptilus)\nentity8(snib severian)\nentity9(quadrupleness)\nentity0 --> entity9\nentity0 ==> entity2\nentity1 --> entity9\nentity1 --> entity3\nentity1 ==> entity4\nentity1 -..-> entity8\nentity5 -..-> entity9\nentity6 ==> entity9\nentity7 -..-> entity9\n```"
+    },
+    "8714.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(homeowner segno)\nentity1(remand scowther)\nentity2(dreadlocks zeltinger)\nentity0 -.-> entity1\nentity0 -.-> entity2\nentity1 -.-> entity0\nentity1 -.-> entity2\nentity2 -.-> entity0\nentity2 -.-> entity1\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(homeowner segno)\nentity1(dreadlocks zeltinger)\nentity2(remand scowther)\nentity0 -..-> entity1\nentity0 ==> entity2\nentity2 -..-> entity0\nentity2 ==> entity1\n```"
+    },
+    "9764.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(fulminations measle)\nentity1(hopkinsianism)\nentity2(musterer unimposed)\nentity3(untress shinkin)\nentity4(diverts separators)\nentity5(confirms awink)\nentity6(sawlike untuness)\nentity7(premiered spasmodism)\nentity8(lollygagging)\nentity9(paravariectomy)\nentity0 --> entity1\nentity1 --> entity4\nentity1 --> entity6\nentity2 --> entity3\nentity3 --> entity1\nentity4 --> entity5\nentity5 --> entity7\nentity6 --> entity7\nentity7 --> entity8\nentity7 --> entity9\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(sawlike untautness)\nentity1(premiered spasmodism)\nentity2(lollygagging)\nentity3(confirms awink)\nentity4(diverts separators)\nentity5(untress shinkin)\nentity6(parovariotomy)\nentity7(musterer unimposed)\nentity8(hopkinsianism)\nentity9(fulminations measle)\nentity0 ==> entity8\nentity1 --> entity8\nentity2 --> entity7\nentity2 --> entity3\nentity2 -..-> entity5\nentity2 -..-> entity8\nentity3 --> entity4\nentity4 ==> entity7\nentity6 -..-> entity8\nentity8 -..-> entity9\n```"
+    },
+    "8685.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(angioid investigable)\nentity1(beyondness)\nentity2(dicophane)\nentity3(enrollment vanner)\nentity4(gainsays hocco)\nentity5(vetiven)\nentity0 -.-> entity4\nentity0 -.-> entity2\nentity1 -.-> entity5\nentity2 -.-> entity4\nentity2 -.-> entity5\nentity4 -.-> entity3\nentity4 -.-> entity5\nentity5 -.-> entity3\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(enrollment vanner)\nentity1(angioid investigable)\nentity2(dicophane)\nentity3(gainsays hocco)\nentity4(vetivene)\nentity5(beyondness)\nentity0 --> entity4\nentity0 -..-> entity3\nentity0 ==> entity5\nentity1 --> entity4\nentity1 ==> entity2\nentity4 --> entity5\n```"
+    },
+    "8484.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(concussion redfield)\nentity1(epenla reconcilers)\nentity2(itacolumite)\nentity3(subjectile inkweed)\nentity4(settings)\nentity5(desophistication)\nentity6(obmutescent oviducal)\nentity7(noisemaking)\nentity8(phylites)\nentity9(reproductions herb)\nentity0 -.-> entity4\nentity1 -.-> entity2\nentity1 -.-> entity3\nentity2 -.-> entity0\nentity2 -.-> entity4\nentity3 -.-> entity4\nentity4 -.-> entity0\nentity4 -.-> entity5\nentity4 -.-> entity6\nentity4 -.-> entity7\nentity4 -.-> entity8\nentity4 -.-> entity9\nentity5 -.-> entity6\nentity5 -.-> entity7\nentity5 -.-> entity8\nentity5 -.-> entity9\nentity6 -.-> entity7\nentity6 -.-> entity8\nentity6 -.-> entity9\nentity7 -.-> entity8\nentity7 -.-> entity9\nentity8 -.-> entity9\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(desophistication)\nentity1(subjectile inkweed)\nentity2(epenla reconcilers)\nentity3(obmutescent oviducal)\nentity4(settlings)\nentity5(phyllites)\nentity6(concursion redfield)\nentity7(reproductions herb)\nentity8(noisemaking)\nentity9(itacolumite)\nentity0 ==> entity8\nentity0 --> entity3\nentity0 ==> entity4\nentity1 --> entity9\nentity2 ==> entity4\nentity2 --> entity9\nentity3 ==> entity8\nentity4 --> entity6\nentity5 --> entity8\nentity5 ==> entity7\nentity8 ==> entity0\nentity8 --> entity5\n```"
+    },
+    "9794.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(payers obscurantist)\nentity1(wigglers effluvia)\nentity2(chirapsia notonecta)\nentity3(nicknack)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(nicknack)\nentity1(wigglers effluvia)\nentity2(chirapsia notonecta)\nentity3(payers obscurantist)\nentity0 -..-> entity1\nentity0 --> entity2\nentity1 ==> entity3\nentity2 --> entity1\nentity2 ==> entity0\n```"
+    },
+    "9532.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(genoas adulticidal)\nentity1(swinburnesque)\nentity2(koppie virtue thetas)\nentity3(gasteromycetous)\nentity0 --> entity2\nentity0 --> entity3\nentity1 --> entity2\nentity1 --> entity3\nentity2 --> entity3\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(gasteromycetous)\nentity1(koppie virtue thetas)\nentity2(genoas adulticidal)\nentity3(swinburnesque)\nentity0 -..-> entity2\nentity0 ==> entity1\nentity1 --> entity2\nentity1 ==> entity3\nentity1 --> entity0\nentity3 --> entity1\n```"
+    },
+    "8216.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(appendicocaecotomy)\nentity1(anvilled oestrosis)\nentity2(teng nominatively)\nentity3(croupiers stupidest)\nentity4(coshed misgotten)\nentity5(puquina)\nentity0 -.-> entity1\nentity0 -.-> entity3\nentity0 -.-> entity4\nentity1 -.-> entity0\nentity3 -.-> entity0\nentity4 -.-> entity0\nentity4 -.-> entity5\nentity5 -.-> entity4\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(anvilled oestriasis)\nentity1(puquina)\nentity2(teng nominatively)\nentity3(croupiers stupidest)\nentity4(cowshed misgotten)\nentity5(appendicocaecostomy)\nentity0 -..-> entity5\nentity1 ==> entity4\nentity2 --> entity5\nentity2 --> entity3\nentity3 -..-> entity5\nentity4 -..-> entity5\n```"
+    },
+    "9942.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(digitized clunkers)\nentity1(ventriloquist)\nentity2(branchiostegite)\nentity3(quotingly)\nentity0 --> entity1\nentity0 --> entity3\nentity1 --> entity2\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(branchiostegite)\nentity1(quotingly)\nentity2(digitized clunkers)\nentity3(ventriloquist)\nentity0 -..-> entity2\nentity0 --> entity3\nentity1 -..-> entity2\n```"
+    },
+    "9924.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(eventuate)\nentity1(lost)\nentity2(multidisciplinary)\nentity3(misconceives)\nentity4(gamut washmaid)\nentity0 --> entity3\nentity1 --> entity2\nentity2 --> entity4\nentity3 --> entity2\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(gamut washmaid)\nentity1(misconceives)\nentity2(eventilate)\nentity3(lost)\nentity4(multidisciplinary)\nentity0 --> entity1\nentity0 --> entity3\nentity0 --> entity4\nentity1 -..-> entity2\nentity1 ==> entity0\nentity4 --> entity3\n```"
+    },
+    "8333.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(hyperploidy)\nentity1(sentencer witchbroom)\nentity2(volatility)\nentity3(eolitrhs)\nentity4(coroner)\nentity5(neomorphs manualism)\nentity6(graphological)\nentity7(idiopsychological)\nentity8(lacerna bruzz)\nentity0 --> entity5\nentity1 --> entity5\nentity2 --> entity5\nentity5 --> entity3\nentity5 --> entity4\nentity5 --> entity6\nentity3 --> entity4\nentity4 --> entity7\nentity4 --> entity8\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(volatility)\nentity1(lacerna bruzz)\nentity2(coroner)\nentity3(neomorphs manualism)\nentity4(sentencer witchbroom)\nentity5(hyperploidy)\nentity6(graphological)\nentity7(eoliths)\nentity8(idiopsychological)\nentity0 ==> entity5\nentity1 ==> entity8\nentity2 ==> entity7\nentity3 -..-> entity6\nentity4 --> entity5\nentity6 -..-> entity7\nentity6 --> entity8\nentity7 ==> entity3\nentity8 --> entity2\n```"
+    },
+    "8237.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nmultivolumed --> denierage reboil\nmultivolumed --> pseudoembryonic\ndenierage reboil --> loss harzburgite\nloss harzburgite --> sunday bespatters\nsunday bespatters --> kinderhook s emfix\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(kinderhook semiflex)\nentity1(multivolumed)\nentity2(sunday bespatters)\nentity3(loss harzburgite)\nentity4(pseudoembryonic)\nentity5(denierage reboil)\nentity0 -..-> entity2\nentity0 ==> entity1\nentity0 -..-> entity4\nentity2 --> entity3\nentity3 -..-> entity4\nentity3 -..-> entity5\nentity3 --> entity0\nentity4 --> entity1\n```"
+    },
+    "9760.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(ultion harming)\nentity1(redi disperse archfelon)\nentity2(widdiflow thrilled)\nentity3(sprechgesang)\nentity4(pianoforte)\nentity5(bromelite)\nentity6(dramatize saws)\nentity1 --> entity0\nentity2 --> entity0\nentity3 --> entity0\nentity4 --> entity0\nentity5 --> entity0\nentity6 --> entity0\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(ultion harming)\nentity1(pianoforte)\nentity2(redisperse archfelon)\nentity3(bromellite)\nentity4(sprechgesang)\nentity5(dramatizes saws)\nentity6(widdifow thralled)\nentity0 --> entity2\nentity0 --> entity6\nentity1 --> entity4\nentity1 ==> entity3\nentity3 ==> entity5\n```"
+    },
+    "8276.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(superepoch)\nentity1(reinstate aglucon)\nentity2(moustachial)\nentity3(laryngotome)\nentity4(tea prickant)\nentity5(amphanthium noctuae)\nentity6(isobath)\nentity0 -.-> entity1\nentity0 -.-> entity2\nentity1 -.-> entity3\nentity1 -.-> entity4\nentity2 -.-> entity3\nentity2 -.-> entity4\nentity3 -.-> entity5\nentity3 -.-> entity6\nentity4 -.-> entity5\nentity5 -.-> entity6\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(laryngotome)\nentity1(amphanthium noctuae)\nentity2(tea prickant)\nentity3(reinstate aglucon)\nentity4(isobathytherm)\nentity5(superepoch)\nentity6(moustachial)\nentity0 --> entity3\nentity0 ==> entity4\nentity0 ==> entity6\nentity1 ==> entity2\nentity2 -..-> entity6\nentity2 ==> entity0\nentity3 -..-> entity4\nentity3 ==> entity5\nentity5 ==> entity0\nentity6 -..-> entity3\n```"
+    },
+    "9700.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(superficially gtd)\nentity1(tournaments)\nentity2(dirtiness battering)\nentity3(thieving)\nentity4(discombulating)\nentity5(noninfaction)\nentity6(jumbals cuticulae)\nentity7(wintergreen)\nentity8(dognap)\nentity9(unnerve)\nentity0 -.-> entity3\nentity0 -.-> entity4\nentity0 -.-> entity5\nentity1 -.-> entity3\nentity1 -.-> entity4\nentity1 -.-> entity5\nentity2 -.-> entity3\nentity2 -.-> entity4\nentity2 -.-> entity5\nentity3 -.-> entity9\nentity3 -.-> entity8\nentity4 -.-> entity9\nentity4 -.-> entity8\nentity5 -.-> entity9\nentity5 -.-> entity8\nentity6 -.-> entity9\nentity6 -.-> entity8\nentity7 -.-> entity9\nentity7 -.-> entity8\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(tournaments)\nentity1(noninfraction)\nentity2(thieving)\nentity3(uninervate)\nentity4(dirtiness battering)\nentity5(superofficiously gtd)\nentity6(wintergreen)\nentity7(dognap)\nentity8(jumbals cuticulae)\nentity9(discombobulating)\nentity0 ==> entity9\nentity0 -..-> entity3\nentity0 ==> entity4\nentity1 --> entity6\nentity2 ==> entity3\nentity2 ==> entity6\nentity3 ==> entity7\nentity4 -..-> entity8\nentity4 ==> entity1\nentity5 -..-> entity9\nentity5 -..-> entity3\n```"
+    },
+    "8897.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(scye scapel)\nentity1(piafed)\nentity2(deprivations)\nentity3(unbumptious)\nentity4(promission gygis)\nentity5(eagres stockinette)\nentity6(outsad gerundum)\nentity7(woodreed fatherhood)\nentity8(railwaydom waveproof)\nentity9(lateretical)\nentity0 -..-> entity3\nentity0 -..-> entity5\nentity0 -..-> entity7\nentity1 -..-> entity3\nentity1 -..-> entity5\nentity1 -..-> entity7\nentity2 -..-> entity3\nentity2 -..-> entity5\nentity2 -..-> entity7\nentity3 ==> entity4\nentity4 -..-> entity5\nentity4 -..-> entity6\nentity4 -..-> entity7\nentity5 -..-> entity6\nentity5 -..-> entity7\nentity6 -..-> entity7\nentity6 -..-> entity8\nentity7 -..-> entity8\nentity8 -..-> entity9\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(railwaydom waveproof)\nentity1(outstaid gerendum)\nentity2(unbumptious)\nentity3(eagres stockinette)\nentity4(deprivations)\nentity5(preomission gygis)\nentity6(woodreed fatherhood)\nentity7(piaffed)\nentity8(latreutical)\nentity9(scye scapel)\nentity0 -..-> entity1\nentity1 --> entity5\nentity1 ==> entity6\nentity1 ==> entity0\nentity2 --> entity9\nentity3 --> entity5\nentity4 --> entity7\nentity6 --> entity8\nentity7 --> entity9\nentity7 --> entity5\nentity8 -..-> entity1\n```"
+    },
+    "8794.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(cockeyes)\nentity1(nephropyeloplasty)\nentity2(noselessly subimago)\nentity3(hibernism peuhl)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(noselessly subimago)\nentity1(nephropyeloplasty)\nentity2(hibernicism peuhl)\nentity3(cockeyes)\nentity0 --> entity3\nentity1 ==> entity3\nentity2 --> entity3\n```"
+    },
+    "9453.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(noninduced unrestful)\nentity1(victofishes)\nentity2(adactylous)\nentity3(sobbingly)\nentity4(tildes periostos)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity4\nentity2 --> entity3\nentity4 --> entity3\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(sobbingly)\nentity1(tildes periostosis)\nentity2(noninduced unrestful)\nentity3(victorfishes)\nentity4(adactylous)\nentity0 -..-> entity3\nentity0 ==> entity1\nentity0 -..-> entity4\nentity1 --> entity0\nentity2 --> entity3\nentity3 -..-> entity0\nentity3 ==> entity2\n```"
+    },
+    "8506.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(quickborn hdqrs)\nentity1(conquering)\nentity2(eclecticism colliers)\nentity3(unfrankness)\nentity4(obust skuse hours)\nentity5(antibenzaldoxime)\nentity6(acetylcholine)\nentity7(entropies)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\nentity3 --> entity0\nentity4 --> entity1\nentity2 --> entity4\nentity7 --> entity6\nentity6 --> entity5\nentity5 --> entity7\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(unfrankness)\nentity1(entropies)\nentity2(eclecticism colliers)\nentity3(acetylcholine)\nentity4(conquering)\nentity5(antibenzaldoxime)\nentity6(quickborn hdqrs)\nentity7(oboist skuse houris)\nentity0 ==> entity6\nentity0 -..-> entity2\nentity1 ==> entity3\nentity2 -..-> entity4\nentity3 ==> entity5\nentity4 -..-> entity7\nentity6 ==> entity4\n```"
+    },
+    "9602.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(mistouching)\nentity1(misfather)\nentity2(buckle clockcase)\nentity3(otolaryngologists)\nentity4(thiotungstic)\nentity5(miscounts gorgonia)\nentity6(biscuitry partisan)\nentity7(hydrocyanate vacuum)\nentity8(unsuriouly)\nentity0 -..-> entity1\nentity0 -..-> entity2\nentity2 -..-> entity6\nentity2 -..-> entity7\nentity3 -..-> entity2\nentity3 -..-> entity6\nentity3 -..-> entity7\nentity3 -..-> entity8\nentity4 -..-> entity6\nentity4 -..-> entity7\nentity5 -..-> entity4\nentity5 -..-> entity3\nentity5 -..-> entity6\nentity5 -..-> entity7\nentity5 -..-> entity8\nentity6 --> entity0\nentity7 --> entity0\nentity8 --> entity0\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(miscounts gorgonia)\nentity1(mistouching)\nentity2(biscuitry partisan)\nentity3(thiotungstic)\nentity4(buskle clockcase)\nentity5(hydrocyanate vacuum)\nentity6(otolaryngologists)\nentity7(unusuriously)\nentity8(misfather)\nentity0 -..-> entity7\nentity0 ==> entity3\nentity0 ==> entity5\nentity1 ==> entity4\nentity1 -..-> entity7\nentity2 ==> entity6\nentity2 ==> entity4\nentity2 -..-> entity8\nentity3 --> entity6\nentity3 ==> entity2\nentity4 -..-> entity1\nentity5 -..-> entity2\n```"
+    },
+    "9896.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\ndesktop --> reconvene\ndesktop --> tridimensional\nreinspection --> reconvene\nreinspection --> tridimensional\ntridimensional --> verism manto\ntridimensional --> transmental\nverism manto --> maneuvered\nverism manto --> topaz\ntransmental --> maneuvered\ntransmental --> topaz\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(reconvene)\nentity1(manuevered)\nentity2(verism manto)\nentity3(tridimensional)\nentity4(desktop)\nentity5(topaz)\nentity6(transmental)\nentity7(reinspection)\nentity0 --> entity7\nentity1 ==> entity6\nentity1 ==> entity5\nentity2 -..-> entity7\nentity2 ==> entity0\nentity3 --> entity7\nentity3 --> entity4\nentity5 -..-> entity0\nentity6 ==> entity7\nentity6 --> entity2\n```"
+    },
+    "8886.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(switzeress)\nentity1(planetesimal)\nentity2(soberized chocalho)\nentity3(palsy sluff)\nentity4(pseudoangular)\nentity5(cchaddoorock)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity4\nentity1 --> entity0\nentity2 --> entity3\nentity2 --> entity4\nentity3 --> entity4\nentity4 --> entity5\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(planetesimal)\nentity1(soberized chocalho)\nentity2(palsy sluff)\nentity3(switzeress)\nentity4(cchaddoorck)\nentity5(pseudoangular)\nentity0 ==> entity3\nentity0 -..-> entity2\nentity1 ==> entity5\nentity2 ==> entity5\nentity3 --> entity4\nentity3 --> entity1\nentity5 -..-> entity3\nentity5 ==> entity4\n```"
+    },
+    "8596.jpeg": {
+        "prediction": "```mermaid\ngraph TD\nA[defects] --> B[keratotic whatman]\nB --> C[resh petzite]\nC --> D[camera biodegrading]\nD --> E[negundo shoring]\nA --> F[overdazzled]\nF --> C\nF --> D\nA --> G[smithers natura]\nG --> B\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(defects)\nentity1(keratosic whatman)\nentity2(smithers natura)\nentity3(moireing)\nentity4(overdazzled)\nentity5(resh petzite)\nentity6(camera biodegrading)\nentity7(negundo shorling)\nentity0 --> entity2\nentity1 --> entity3\nentity3 ==> entity5\nentity3 -..-> entity4\nentity5 -..-> entity7\nentity5 -..-> entity6\nentity6 ==> entity7\n```"
+    },
+    "9258.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(hypo sulfurous)\nentity1(humiraceous)\nentity2(distributing)\nentity0 --> entity1\nentity1 --> entity2\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(hyposulfurous)\nentity1(humiriaceous)\nentity2(distributing)\nentity0 ==> entity1\nentity1 --> entity2\nentity1 -..-> entity0\nentity2 ==> entity1\n```"
+    },
+    "9188.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(upsettable)\nentity1(oconnor beneaped)\nentity2(camassia land)\nentity3(ropework ovenwood)\nentity0 --> entity1\nentity0 --> entity3\nentity1 --> entity3\nentity3 --> entity2\n```",
+        "reference": "```mermaid\nflowchart TB\nentity0(ropework ovenwood)\nentity1(oconnor beneaped)\nentity2(camassia land)\nentity3(upsettable)\nentity0 --> entity2\nentity0 -..-> entity3\nentity1 ==> entity3\nentity2 -..-> entity3\nentity2 ==> entity0\n```"
+    },
+    "8448.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\ncystite ==> malign\nmalign ==> reindifferent\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(cystitome)\nentity1(malign)\nentity2(reindifferent)\nentity0 -..-> entity1\nentity1 -..-> entity2\n```"
+    },
+    "9061.jpeg": {
+        "prediction": "```mermaid\nflowchart LR\nentity0(eumenid virtuosos)\nentity1(unannoyed)\nentity2(prophototropism)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity0\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(prophototropism)\nentity1(unannoyed)\nentity2(eumenid virtuosos)\nentity0 --> entity2\nentity1 ==> entity2\nentity2 -..-> entity0\n```"
+    },
+    "8242.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(disfranchise)\nentity1(tuberculatorradiate)\nentity2(crotcheness)\nentity3(dendra empowerish)\nentity4(nostax dramatics)\nentity5(tenderloins sunrises)\nentity6(groundwall gleanable)\nentity7(perispherical thirty)\nentity0 -.-> entity1\nentity0 -.-> entity6\nentity1 -.-> entity2\nentity1 -.-> entity6\nentity2 -.-> entity3\nentity2 -.-> entity4\nentity2 -.-> entity5\nentity3 -.-> entity7\nentity4 -.-> entity7\nentity5 -.-> entity7\nentity6 -.-> entity7\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(disfranchise)\nentity1(tuberculatoradiate)\nentity2(groundwall gleanable)\nentity3(dendra empoverish)\nentity4(crotchetiness)\nentity5(tenderloins sunrises)\nentity6(nosotaxy dramatics)\nentity7(perispherical thirty)\nentity0 --> entity7\nentity0 --> entity1\nentity0 -..-> entity6\nentity2 --> entity7\nentity3 --> entity6\nentity4 --> entity7\nentity4 -..-> entity5\nentity5 ==> entity7\nentity6 --> entity5\n```"
+    },
+    "8918.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\n  thrombocyt --> counterpassant\n  prankle thymoma --> placentate rab\n  phyllopodiform --> placentate rab\n  theism cineasts --> placentate rab\n  unvesseled redded --> placentate rab\n  placentate rab --> cherorgil fili\n  placentate rab --> assignment sager\n  placentate rab --> rampages calcanean\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(unvesseled redded)\nentity1(thrombocyst)\nentity2(prankle thymoma)\nentity3(theinism cineasts)\nentity4(rampages calcanean)\nentity5(phyllopodiform)\nentity6(counterpassant)\nentity7(placentate rab)\nentity8(assignation sageer)\nentity9(cherogril fili)\nentity0 ==> entity4\nentity0 --> entity8\nentity1 -..-> entity6\nentity1 --> entity2\nentity2 --> entity7\nentity3 --> entity6\nentity4 -..-> entity8\nentity5 -..-> entity6\nentity6 ==> entity7\nentity8 -..-> entity9\nentity8 --> entity4\n```"
+    },
+    "8277.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(growler moroccos)\nentity1(sciatinales)\nentity2(dunghill)\nentity3(rhapsodic)\nentity4(kaiserism)\nentity5(retoss ne)\nentity6(subnivel algeek)\nentity7(stringly catchfly)\nentity8(unextremeness)\nentity9(harmograph)\nentity0 -.-> entity3\nentity0 -.-> entity4\nentity0 -.-> entity5\nentity1 -.-> entity0\nentity2 -.-> entity0\nentity3 -.-> entity6\nentity3 -.-> entity7\nentity4 -.-> entity3\nentity5 -.-> entity3\nentity6 -.-> entity8\nentity7 -.-> entity8\nentity8 -.-> entity9\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(rhapsodic)\nentity1(dunghilly)\nentity2(stringily catchfly)\nentity3(scitaminales)\nentity4(growlier moroccos)\nentity5(harmonograph)\nentity6(unextremeness)\nentity7(kaiserism)\nentity8(subniveal aligreek)\nentity9(retoss ne)\nentity0 --> entity9\nentity1 --> entity6\nentity1 --> entity3\nentity2 ==> entity8\nentity4 ==> entity7\nentity4 ==> entity9\nentity5 --> entity8\nentity5 --> entity6\nentity6 --> entity7\nentity7 ==> entity0\nentity8 --> entity9\n```"
+    },
+    "9264.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(upholding)\nentity1(hermione screws)\nentity2(ethnologists)\nentity3(mesotoraxes)\nentity4(coper sylge)\nentity5(dissedlar)\nentity0 --> entity1\nentity1 --> entity2\nentity2 --> entity3\nentity1 --> entity4\nentity4 --> entity5\n```",
+        "reference": "```mermaid\nflowchart LR\nentity0(upboiling)\nentity1(disseizor)\nentity2(coyer sylloge)\nentity3(hemitone schwas)\nentity4(ethnologists)\nentity5(bowstaff radeaux)\nentity6(mesothoraxes)\nentity0 -..-> entity1\nentity0 -..-> entity3\nentity1 -..-> entity2\nentity2 ==> entity3\nentity3 --> entity4\nentity3 ==> entity0\nentity3 --> entity2\nentity4 -..-> entity5\nentity5 ==> entity6\n```"
+    },
+    "8069.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(pregnancy)\nentity1(petrarchize)\nentity2(pinal)\nentity3(epileptically)\nentity0 --> entity1\nentity1 --> entity2\nentity1 --> entity3\n```",
+        "reference": "```mermaid\nflowchart BT\nentity0(pregnance)\nentity1(epileptically)\nentity2(pinal)\nentity3(petrarchize)\nentity0 ==> entity3\nentity1 -..-> entity3\nentity2 --> entity3\nentity3 -..-> entity2\n```"
+    },
+    "9103.jpeg": {
+        "prediction": "```mermaid\nflowchart TD\nentity0(nondeclaration)\nentity1(gowns gangly)\nentity2(semiballistically)\nentity3(blockholder harkee)\nentity4(backcasts ironless)\nentity5(unlandmarked)\nentity6(reignore teakettle)\nentity7(paschtlide)\nentity8(briartide)\nentity9(butene prerational)\nentity10(briartide imperence)\nentity0 --> entity1\nentity0 --> entity2\nentity0 --> entity3\nentity0 --> entity4\nentity1 --> entity5\nentity2 --> entity5\nentity3 --> entity5\nentity4 --> entity5\nentity5 --> entity6\nentity5 --> entity7\nentity6 --> entity8\nentity7 --> entity8\nentity8 --> entity9\nentity9 --> entity10\n```",
+        "reference": "```mermaid\nflowchart TD\nentity0(briarberry imperence)\nentity1(paschaltide)\nentity2(reignore teakettle)\nentity3(gowns gangly)\nentity4(butene prerational)\nentity5(backcasts ironless)\nentity6(unlandmarked)\nentity7(semicabalistically)\nentity8(nondeclaration)\nentity9(blockholer harkee)\nentity0 -..-> entity4\nentity1 --> entity2\nentity1 ==> entity6\nentity1 -..-> entity8\nentity2 ==> entity6\nentity3 --> entity8\nentity4 -..-> entity7\nentity5 --> entity8\nentity6 --> entity7\nentity6 ==> entity9\nentity6 --> entity1\nentity6 ==> entity5\n```"
+    },
+    "9717.jpeg": {
+        "prediction": "```mermaid\nflowchart TB\nentity0(transpenetrable egba)\nentity1(subspecialties)\nentity2(steamerless)\nentity3(extraterritorial)\nentity4(wordiest barcelonas)\nentity5(histamine revealable)\nentity0 -..-> entity5\nentity0 -..-> entity3\nentity1 -..-> entity2\nentity1 -..-> entity3\nentity2 ==> entity4\nentity2 -..-> entity5\n```",
+        "reference": "```mermaid\nflowchart RL\nentity0(extraterritorial)\nentity1(wordiest barcelonas)\nentity2(histamine revealable)\nentity3(transpenetrable egba)\nentity4(subspecialties)\nentity5(steamerless)\nentity0 -..-> entity4\nentity0 --> entity3\nentity1 --> entity5\nentity2 -..-> entity3\nentity2 ==> entity4\n```"
+    }
+}

@@ -1,0 +1,8002 @@
+{
+    "8394.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9101.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8289.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9570.jpeg": {
+        "prediction": "6",
+        "reference": "9"
+    },
+    "8811.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9380.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9802.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9213.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9829.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8660.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9698.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9618.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8151.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8730.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9479.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9022.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9102.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8221.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9410.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9517.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9381.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8479.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8654.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9516.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9309.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8593.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9523.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8167.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8515.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9247.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8987.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9937.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9393.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9287.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8681.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9981.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8953.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9178.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8381.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8142.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8639.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8074.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9542.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8034.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8007.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9412.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8711.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8248.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9520.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9901.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9555.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9259.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8854.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8163.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8873.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9494.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8449.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8835.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8630.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9537.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9512.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9876.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9560.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8947.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8973.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8454.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9361.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8714.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9764.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8685.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8484.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9794.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9532.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8216.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9942.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9924.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8333.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8237.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9760.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8276.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9700.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8897.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8794.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9453.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8506.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9602.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9896.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8886.jpeg": {
+        "prediction": "7",
+        "reference": "6"
+    },
+    "8596.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9258.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9188.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8448.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9061.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8242.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8918.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8277.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9264.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8069.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9103.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9717.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8597.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9934.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9756.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8538.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9205.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "8110.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8975.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9154.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8527.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9136.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9567.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9456.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9796.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8380.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8128.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8391.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9574.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8513.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8512.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8451.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8648.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8161.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9199.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8821.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9481.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8160.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9388.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8848.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9725.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8252.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8038.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8682.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8103.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9663.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9534.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8469.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8020.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9598.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9569.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9182.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9562.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8035.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9957.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8785.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8581.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8940.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8836.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8634.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8025.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9751.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8808.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8743.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8486.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8418.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8827.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8982.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9737.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9043.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9151.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8872.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9666.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9413.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8968.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9160.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9320.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9646.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8467.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9748.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9146.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8767.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8544.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9652.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8803.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9449.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8358.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9710.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9468.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9255.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9003.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8174.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9403.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9632.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8054.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8924.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8588.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9077.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8349.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8656.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9995.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9513.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8661.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9378.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9872.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8729.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9623.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9688.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9949.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8398.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9818.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8426.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8175.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8784.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9622.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9148.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8732.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9903.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9900.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9846.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9889.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8779.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9015.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9331.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9492.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9474.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8812.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8264.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8780.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9209.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9014.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8907.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9349.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8362.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8432.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8824.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8078.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9713.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8545.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8145.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8946.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9455.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9817.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9162.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9179.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "9812.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8189.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9193.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8772.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9529.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9085.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9755.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9882.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8860.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9736.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9067.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8050.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8962.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9419.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9350.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8905.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8114.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8001.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8786.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9862.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9999.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8720.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9186.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9891.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8339.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9490.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8153.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9670.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8613.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9803.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9583.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8097.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8314.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8509.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9831.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8071.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8346.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8326.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9965.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9458.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8107.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9874.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8561.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8015.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8344.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9434.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9498.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8443.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9724.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9593.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8949.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9627.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8162.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8797.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9464.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9110.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9233.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8998.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8412.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8263.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8368.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9708.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8993.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8861.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8647.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8147.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8795.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9120.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9921.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8084.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8447.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8096.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9505.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8699.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9790.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8108.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9867.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8324.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8083.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9336.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9356.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8999.jpeg": {
+        "prediction": "4",
+        "reference": "7"
+    },
+    "8194.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9275.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9198.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8424.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8560.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8331.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8938.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9607.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8547.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9086.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9243.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9798.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8955.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9152.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8259.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9854.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8972.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8895.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8348.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8819.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9486.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9239.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8182.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8582.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9118.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8700.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9991.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9730.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8744.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9502.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8579.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8688.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8939.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8183.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9216.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8768.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8945.jpeg": {
+        "prediction": "7",
+        "reference": "7"
+    },
+    "8019.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8644.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8155.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9734.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8425.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8646.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8181.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9473.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8297.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8717.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8209.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8253.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8116.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9554.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8866.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9325.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9691.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9143.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8004.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9877.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9301.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9810.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8143.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9953.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8232.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9738.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9246.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9203.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8816.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9427.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9584.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9616.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9515.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8213.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8874.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9286.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9436.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9318.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9878.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9254.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9018.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9825.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9035.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9634.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9359.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8350.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8820.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8420.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8294.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9020.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9656.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9692.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9056.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8121.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9594.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9840.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9697.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9150.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9392.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8943.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9208.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8687.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9604.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8859.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9194.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8165.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8944.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8542.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9946.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8838.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8791.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9028.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9487.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9306.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8775.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9704.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8482.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9137.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8485.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9827.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8359.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8063.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9206.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "9800.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8480.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8909.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9032.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9302.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9185.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8590.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8638.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8220.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8889.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9982.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9271.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8759.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8293.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8733.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8623.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9346.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9218.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9122.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8030.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8057.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9733.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9409.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9778.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8048.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9454.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8300.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8002.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8204.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9416.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9467.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9857.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8941.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8737.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8304.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8022.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8250.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9706.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8963.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8023.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "8134.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8663.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9859.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9832.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8416.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8683.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9483.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9389.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9121.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8178.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9611.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8037.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8055.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9295.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8442.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9062.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8028.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8180.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9992.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9046.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9415.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9041.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9551.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8295.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8008.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8342.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9245.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8355.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9986.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9187.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8005.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8378.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8755.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9845.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9581.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9092.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8813.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9012.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9374.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8525.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9281.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8839.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8911.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9466.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9941.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8392.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8614.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8024.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9975.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9452.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9312.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8764.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9637.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8051.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9345.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8249.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8680.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9290.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8360.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8781.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9079.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9424.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9647.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8455.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8269.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8937.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8489.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9360.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8569.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9133.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9428.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9023.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8410.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9315.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8857.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8188.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9752.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8439.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9470.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8954.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9758.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8504.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9541.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9268.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9285.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8935.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9171.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8530.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9172.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9933.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9960.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9890.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9235.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9065.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9002.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8516.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8997.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8979.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9539.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8801.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9169.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9405.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9836.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8703.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8649.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9369.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9488.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8651.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9408.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8776.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8466.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8382.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8164.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8773.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8559.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8191.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9480.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9808.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9288.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9705.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9519.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8399.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8389.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9326.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9792.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8992.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8094.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8332.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8330.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8105.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9793.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9610.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9721.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9762.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9131.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9144.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8125.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9625.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9090.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8541.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9460.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9108.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9223.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8665.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9945.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8018.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9404.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9833.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8281.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8184.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8325.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8532.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9070.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9822.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9153.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9477.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9837.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9191.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9322.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8265.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9735.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8200.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9976.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8372.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8307.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9963.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8336.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8782.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9964.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8586.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9875.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9892.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8312.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9595.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8208.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9821.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9653.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8440.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9439.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9572.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9902.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8465.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9441.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8574.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8793.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8306.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9078.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8384.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8260.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9807.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9621.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8852.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9864.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8576.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8617.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8131.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9332.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8408.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8510.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9241.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8641.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9719.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8787.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9687.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8309.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9099.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9811.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8543.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8496.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8871.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9716.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9357.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8122.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8930.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9390.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9414.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8853.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8766.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8546.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9366.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8716.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8894.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9117.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8354.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8902.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8337.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8950.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8585.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9328.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8535.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9635.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9149.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9659.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8279.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8257.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8523.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9083.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8419.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9667.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8166.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9128.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8446.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8555.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9249.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9980.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9552.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8138.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8669.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9071.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9164.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9658.jpeg": {
+        "prediction": "5",
+        "reference": "10"
+    },
+    "9750.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8040.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9068.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8340.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9531.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9116.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9348.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9564.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9124.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8014.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9573.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9234.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9450.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9396.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8240.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8611.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9138.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9884.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9779.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9842.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9489.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9944.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8539.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8450.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9919.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9680.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9308.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8704.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9081.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9021.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8742.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8564.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8715.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9533.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9038.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9140.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8219.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9010.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9422.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8283.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8721.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8961.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9741.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9674.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8235.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9754.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9525.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9718.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8091.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9344.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8225.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9342.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8197.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9163.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8210.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9159.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8965.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9386.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8758.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9352.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9215.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8286.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9123.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9731.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9197.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9782.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9968.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8652.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8761.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9327.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9026.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8488.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8127.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9556.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9880.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9499.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9630.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8753.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9745.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9681.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8177.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9879.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8328.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8299.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9774.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9013.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9276.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8640.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9291.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8650.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9227.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8364.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8796.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8888.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9668.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8978.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9696.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9640.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9339.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9082.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8969.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9358.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8877.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9955.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9947.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8932.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9973.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8809.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8322.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9180.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9347.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9145.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8898.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9303.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9503.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8431.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8557.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9784.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9262.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9319.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8831.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8064.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8896.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9471.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8920.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9662.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8029.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9190.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9967.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8505.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9074.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9334.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8887.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8192.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9280.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8664.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8323.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9006.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8196.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8694.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9544.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9585.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8298.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8411.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9008.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9184.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8740.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9211.jpeg": {
+        "prediction": "6",
+        "reference": "9"
+    },
+    "9936.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8643.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8172.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9712.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8603.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8840.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8229.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8834.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9641.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9672.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8065.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8724.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8536.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9284.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8106.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8491.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9476.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8926.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9323.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8798.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8713.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8140.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9469.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8199.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9094.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8572.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9711.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8375.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9297.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9040.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9011.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9139.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8908.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9491.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8709.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9626.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8844.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8016.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9113.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9938.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9024.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8565.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8829.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8792.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9601.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8604.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9970.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9465.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9546.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9898.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8271.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9432.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8846.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9759.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9814.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8308.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8601.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8645.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8397.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9107.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "9173.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8154.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9299.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9776.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9757.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9329.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9905.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8678.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8881.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8316.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9049.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9343.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9294.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8598.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8627.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8087.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8045.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8864.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8017.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9579.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9440.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8422.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8363.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8849.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8056.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8670.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9863.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8478.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9590.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9726.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9052.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9606.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8041.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8302.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9983.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9132.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8198.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9620.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8910.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8428.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8272.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8395.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9279.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9777.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8256.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8406.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9608.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8043.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9165.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8676.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8475.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9272.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8833.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8462.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9007.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9096.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8606.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8011.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9952.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9437.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9438.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8980.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8605.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9801.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9775.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9158.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9671.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9019.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9804.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8942.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8959.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9459.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8374.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9974.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9994.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8206.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8692.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9765.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8789.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9993.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8981.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8168.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9839.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8287.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8741.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8068.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8171.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8701.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9894.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9972.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9951.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9229.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9230.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9843.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9493.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8726.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8393.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8705.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8869.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8631.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8788.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8247.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9816.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9749.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9907.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9009.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8602.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8548.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8387.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9553.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8430.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8674.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8080.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9638.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9200.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8497.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8100.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8246.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9683.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8915.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9559.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8429.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9514.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9485.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8985.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8085.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9283.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8347.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9511.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8870.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8086.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9300.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9548.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9521.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9075.jpeg": {
+        "prediction": "5",
+        "reference": "10"
+    },
+    "9547.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9212.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9576.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9997.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9977.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9059.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8533.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8123.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8158.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8734.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9353.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8587.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9869.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9423.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8228.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8288.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9273.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8931.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9296.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8977.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9340.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9985.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9648.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9987.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9669.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9100.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8503.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9054.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9962.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9500.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8402.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8067.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9558.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9225.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9351.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8139.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8058.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8379.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8689.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8817.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9231.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8464.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9242.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9787.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9788.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9510.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8851.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9596.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9210.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8303.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8600.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8778.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9550.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8653.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9689.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8971.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8202.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9571.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9518.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8076.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9838.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9906.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8472.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8958.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9809.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9887.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8371.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9256.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9679.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8423.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8211.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9289.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8983.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8356.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9904.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9613.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9314.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8343.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9908.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9238.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9495.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9654.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9084.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8130.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8790.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9446.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9675.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8549.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9958.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8568.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9104.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9739.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8518.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9870.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8921.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8725.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8595.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9643.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8261.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8441.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9226.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8234.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8537.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9222.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9844.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9928.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8769.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9447.jpeg": {
+        "prediction": "6",
+        "reference": "10"
+    },
+    "9324.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8301.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8856.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9387.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8520.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8966.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9033.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8026.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9156.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8499.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8115.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8799.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9747.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9780.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8003.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8850.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9053.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8089.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8770.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8320.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8457.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8843.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9799.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8841.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9545.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9954.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9767.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9475.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8752.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8749.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8073.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9282.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8117.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8502.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9761.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8554.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8136.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8490.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9699.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9047.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9425.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8062.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9651.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8135.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8148.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9990.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9561.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9114.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9431.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9261.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9384.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8745.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9563.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9429.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8748.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9037.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8036.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8739.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9530.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9773.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9617.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9820.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9923.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9540.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8847.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8893.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9266.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9170.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8964.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8967.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8580.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9557.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9005.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8217.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8970.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8092.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9695.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8173.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9650.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8088.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9526.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9577.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8291.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9979.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9207.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9373.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8365.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8842.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8501.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9686.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9240.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9237.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9897.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8994.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8621.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8031.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8814.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9795.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8657.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8521.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8483.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9852.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9274.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9202.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8563.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9535.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8021.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9996.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9631.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9060.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9030.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9411.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8400.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9591.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9744.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8906.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9959.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9753.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9253.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8668.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9805.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9873.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9166.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9835.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8383.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8149.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9248.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8592.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9400.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9236.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9087.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8917.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8444.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9088.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9771.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8922.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9785.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8571.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8903.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9017.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9204.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "8578.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8830.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9115.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8735.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8119.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9051.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9860.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8529.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8883.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8948.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9073.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8607.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8746.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8452.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8519.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8187.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8863.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9039.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8933.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9770.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8762.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8112.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8710.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9354.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8677.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8273.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8815.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8231.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9723.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8238.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8522.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8201.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8133.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8137.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9472.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8702.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9935.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9375.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9883.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9093.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8241.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8925.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8991.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8738.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8463.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9042.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8698.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8845.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9599.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9355.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8407.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8461.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9063.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9050.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8047.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9220.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9865.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9886.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8267.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9362.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9417.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8691.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8583.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8066.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9722.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9507.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8212.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9034.jpeg": {
+        "prediction": "10",
+        "reference": "6"
+    },
+    "9442.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8251.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8255.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8882.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8373.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9112.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9742.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9058.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9109.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9578.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9363.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9304.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9657.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9929.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9819.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8227.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8169.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9214.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8113.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9847.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8913.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9849.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9048.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8727.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8010.jpeg": {
+        "prediction": "6",
+        "reference": "9"
+    },
+    "8855.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8988.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8996.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9463.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8377.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9228.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8712.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8756.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8885.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9443.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8081.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8728.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9181.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9016.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8315.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9885.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9918.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9673.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9316.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9167.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8205.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9766.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8774.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9642.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8305.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8919.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9636.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8679.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8936.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8707.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8672.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9665.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8690.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9644.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8471.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8722.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9948.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8751.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9614.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8934.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8783.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9834.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9684.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9045.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9940.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9397.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8659.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8875.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9850.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8111.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9196.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8619.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8551.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8405.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8771.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8570.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8723.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9025.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8039.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8409.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8810.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9655.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8818.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9597.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8878.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8500.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8366.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8437.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9781.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8880.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8865.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8498.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8494.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8090.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9106.jpeg": {
+        "prediction": "4",
+        "reference": "7"
+    },
+    "8262.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9956.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9080.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8401.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8345.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9277.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8807.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9293.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9044.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8319.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8427.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8901.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9267.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9848.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8456.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9069.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8434.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8329.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8736.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8313.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9714.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9978.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8176.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9097.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8763.jpeg": {
+        "prediction": "5",
+        "reference": "9"
+    },
+    "9376.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9917.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8636.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8102.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8079.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8805.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9367.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9727.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8511.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9565.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8226.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9639.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9600.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9732.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9129.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9031.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9391.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9922.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8243.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9909.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9612.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8190.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9769.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8438.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9868.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9269.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8477.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8697.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8956.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8923.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8667.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8695.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8075.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8637.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8804.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8474.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8270.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9707.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9881.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9394.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9435.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9823.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8662.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8207.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9461.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8892.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9824.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8396.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9509.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8493.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8584.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8706.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8233.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9457.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9899.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8222.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8823.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9677.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9915.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9895.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8534.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9853.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9478.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9588.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8468.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8278.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8124.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9426.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9004.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8214.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9930.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8436.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9402.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9783.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9589.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9786.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9575.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9221.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8367.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9398.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9189.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8129.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8524.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9709.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8957.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8044.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8671.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9851.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9649.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9543.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9147.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9244.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8612.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8012.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8552.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9057.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9830.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9111.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9746.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9609.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8282.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8899.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8867.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9504.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8254.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8876.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8351.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8126.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8719.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9305.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9772.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9444.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9858.jpeg": {
+        "prediction": "6",
+        "reference": "9"
+    },
+    "9370.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9195.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8236.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9183.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8098.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9219.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8170.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9217.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8517.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8338.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8904.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9871.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9232.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9270.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8460.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9806.jpeg": {
+        "prediction": "6",
+        "reference": "10"
+    },
+    "9406.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8203.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8070.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8186.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9943.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8052.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8914.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9828.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8296.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9931.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8765.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9001.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8675.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9055.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9988.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9524.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9866.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9330.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8929.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8599.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8951.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8473.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9155.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9451.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8610.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9715.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9418.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9341.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9265.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8916.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9522.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9628.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8421.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9566.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8403.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9338.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9263.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8952.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8828.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8321.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8413.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8492.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9298.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9497.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9536.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9496.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8275.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9091.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8558.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9321.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8556.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9125.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8573.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8891.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8625.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8152.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8577.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9335.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9310.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9789.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9311.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8317.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8879.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8696.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9527.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8626.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "8693.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8495.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8318.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8417.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8292.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8806.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8414.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8632.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8868.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9633.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9888.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9661.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8042.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9910.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9224.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9950.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8361.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8053.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9337.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8655.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8032.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8341.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8266.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9385.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9856.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9095.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9251.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9912.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9382.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8000.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9142.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9815.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8327.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8150.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9592.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9926.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9076.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9660.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9250.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9484.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9615.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9703.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9433.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9134.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "9401.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8616.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9168.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8589.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9664.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9252.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8760.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8285.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8141.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9763.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9797.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8334.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9257.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8567.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9920.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9893.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8061.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9969.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9177.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8984.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8059.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8628.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8013.jpeg": {
+        "prediction": "4",
+        "reference": "7"
+    },
+    "8476.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8622.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8526.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9313.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "8280.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9371.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8566.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9130.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8370.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8239.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9728.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9701.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8458.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8802.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9399.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9430.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8223.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8284.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9506.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8540.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8986.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9379.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9939.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9448.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8072.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9913.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9066.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9064.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8514.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8927.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9678.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8615.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8244.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8218.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9036.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "8777.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9927.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9676.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9685.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9693.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8224.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9743.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8487.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9587.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9702.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8633.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9072.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8900.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9395.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9192.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8507.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8594.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9176.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9582.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8369.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8890.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8445.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9989.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8960.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8990.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8390.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9841.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9682.jpeg": {
+        "prediction": "5",
+        "reference": "4"
+    },
+    "9813.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8609.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8118.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8082.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8591.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8754.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9278.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8976.jpeg": {
+        "prediction": "6",
+        "reference": "5"
+    },
+    "8230.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8033.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8157.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8747.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8822.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9645.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8666.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8750.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8928.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8415.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9932.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9861.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8608.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9690.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9508.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8215.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8658.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9372.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8385.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9624.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8060.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9729.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8825.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8912.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9580.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8386.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8624.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8353.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8757.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8159.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9445.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8562.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8376.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8708.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9175.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8046.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8099.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "8290.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9333.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8642.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8453.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8862.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8837.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9694.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9135.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8575.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9307.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8146.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9364.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9161.jpeg": {
+        "prediction": "4",
+        "reference": "3"
+    },
+    "8731.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8120.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8673.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9538.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8553.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8800.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9157.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9914.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8686.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8858.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8635.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8528.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8104.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9586.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8101.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9911.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9568.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9201.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8404.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "9619.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8095.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8435.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8470.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9826.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "8618.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "8185.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8718.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9127.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8989.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8077.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8481.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8258.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9027.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9768.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9629.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8684.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "8009.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9105.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9549.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9720.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9603.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8629.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8508.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9365.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9605.jpeg": {
+        "prediction": "6",
+        "reference": "6"
+    },
+    "9925.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8974.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9089.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "9000.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8884.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "9998.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "8388.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9462.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9126.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8179.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "9971.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9916.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8311.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8433.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9098.jpeg": {
+        "prediction": "6",
+        "reference": "8"
+    },
+    "9383.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8144.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "8459.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8193.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9740.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8156.jpeg": {
+        "prediction": "5",
+        "reference": "7"
+    },
+    "9421.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9317.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8826.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9174.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8245.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "8109.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8274.jpeg": {
+        "prediction": "5",
+        "reference": "8"
+    },
+    "9961.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9377.jpeg": {
+        "prediction": "5",
+        "reference": "10"
+    },
+    "8049.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8620.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8310.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9528.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8027.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "8335.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8132.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9292.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "9407.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8357.jpeg": {
+        "prediction": "5",
+        "reference": "5"
+    },
+    "8832.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8195.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9420.jpeg": {
+        "prediction": "4",
+        "reference": "4"
+    },
+    "9966.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "9368.jpeg": {
+        "prediction": "4",
+        "reference": "6"
+    },
+    "8550.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8093.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9482.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9260.jpeg": {
+        "prediction": "3",
+        "reference": "3"
+    },
+    "8352.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "8006.jpeg": {
+        "prediction": "5",
+        "reference": "6"
+    },
+    "9119.jpeg": {
+        "prediction": "3",
+        "reference": "4"
+    },
+    "8268.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9855.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    },
+    "9141.jpeg": {
+        "prediction": "10",
+        "reference": "8"
+    },
+    "8531.jpeg": {
+        "prediction": "4",
+        "reference": "5"
+    },
+    "8995.jpeg": {
+        "prediction": "10",
+        "reference": "7"
+    },
+    "9029.jpeg": {
+        "prediction": "6",
+        "reference": "7"
+    },
+    "9791.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9501.jpeg": {
+        "prediction": "10",
+        "reference": "9"
+    },
+    "9984.jpeg": {
+        "prediction": "10",
+        "reference": "10"
+    }
+}

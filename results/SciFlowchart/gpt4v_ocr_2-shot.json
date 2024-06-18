@@ -1,0 +1,402 @@
+{
+    "2204.00424v1-Figure6-1.png": {
+        "prediction": "Loss/Metrics",
+        "reference": "Loss/Metrics"
+    },
+    "2202.03651v2-Figure1-1.png": {
+        "prediction": "Interventional discovery of consistent failure 'cause' which forms a challenging group",
+        "reference": "Perception Model"
+    },
+    "2011.15102v2-Figure1-1.png": {
+        "prediction": "Better solutions",
+        "reference": "Better solutions"
+    },
+    "14078997-Figure2-1.png": {
+        "prediction": "MSE",
+        "reference": "t+1"
+    },
+    "14078997-Figure3-1.png": {
+        "prediction": "A_i",
+        "reference": "A1"
+    },
+    "2204.10509v1-Figure2-1.png": {
+        "prediction": "positive",
+        "reference": "context"
+    },
+    "2202.05735v2-Figure1-1.png": {
+        "prediction": "Feature Engineering (FE)",
+        "reference": "Photoplethysmography"
+    },
+    "2101.02429v1-Figure6-1.png": {
+        "prediction": "q1",
+        "reference": "P1"
+    },
+    "1246860-Figure1-1.png": {
+        "prediction": "sentence",
+        "reference": "sentence"
+    },
+    "2102.10828v2-Figure7-1.png": {
+        "prediction": "m-1",
+        "reference": "m+1"
+    },
+    "1022460-Figure1-1.png": {
+        "prediction": "wheeled vehicle",
+        "reference": "wheeled vehicle"
+    },
+    "2110.03031v3-Figure1-1.png": {
+        "prediction": "Z",
+        "reference": "Z"
+    },
+    "2101.11189v1-Figure2-1.png": {
+        "prediction": "(xc, yc)",
+        "reference": "Head Point estimation"
+    },
+    "2204.01715v1-Figure7-1.png": {
+        "prediction": "data",
+        "reference": "Ray"
+    },
+    "2202.07508v3-Figure3-1.png": {
+        "prediction": "DDLK",
+        "reference": "Global"
+    },
+    "2202.11824v1-Figure1-1.png": {
+        "prediction": "BioCybernetic Hacking Alert",
+        "reference": "5"
+    },
+    "2011.04105v1-Figure3.5-1.png": {
+        "prediction": "Dissemination Plane",
+        "reference": "Plane"
+    },
+    "2202.01326v1-Figure5-1.png": {
+        "prediction": "No",
+        "reference": "Yes"
+    },
+    "2204.08696v2-Figure1-1.png": {
+        "prediction": "Transform & concat",
+        "reference": "M"
+    },
+    "2101.08366v2-Figure2-1.png": {
+        "prediction": "W\u2081",
+        "reference": "W1"
+    },
+    "2205.09510v2-Figure6.4-1.png": {
+        "prediction": "classical optimizer",
+        "reference": "classical"
+    },
+    "2205.09510v2-Figure6.11-1.png": {
+        "prediction": "classical optimizer",
+        "reference": "optimizer"
+    },
+    "2206.05240v1-Figure2-1.png": {
+        "prediction": "Posterior Sampling",
+        "reference": "Posterior Sampling"
+    },
+    "2210.02172v1-Figure2-1.png": {
+        "prediction": "Approximation error",
+        "reference": "Environment"
+    },
+    "14844989-Figure2-1.png": {
+        "prediction": "512x13x13",
+        "reference": "512"
+    },
+    "2205.03661v1-Figure1-1.png": {
+        "prediction": "Determine the number of blocks",
+        "reference": "Determine the"
+    },
+    "162169-Figure3-1.png": {
+        "prediction": "CAUSE TO MAKE_NOISE",
+        "reference": "CAUSE_TO_MAKE_NOISE"
+    },
+    "2202.03344v2-Figure2-1.png": {
+        "prediction": "Converged?",
+        "reference": "Candidate degrees: P"
+    },
+    "2207.12764v1-Figure1-1.png": {
+        "prediction": "Select the desired object type for clustering",
+        "reference": "Select the"
+    },
+    "2103.13446v3-Figure2-1.png": {
+        "prediction": "f^(l)_com",
+        "reference": "com"
+    },
+    "2107.06007v1-Figure14-1.png": {
+        "prediction": "Transfer PC 1",
+        "reference": "A"
+    },
+    "2107.12859v2-Figure3-1.png": {
+        "prediction": "Reverse Sequential Encoding",
+        "reference": "PointNet"
+    },
+    "2012.00248v1-Figure1-1.png": {
+        "prediction": "Objects",
+        "reference": "iects"
+    },
+    "2010.06310v1-Figure2-1.png": {
+        "prediction": "The Cross-Supervised Mechanism",
+        "reference": "The Cross-Supervised Mechanism"
+    },
+    "2202.05336v1-Figure1-1.png": {
+        "prediction": "Motion Estimation",
+        "reference": "Motion"
+    },
+    "2107.03026v1-Figure7-1.png": {
+        "prediction": "Influence on",
+        "reference": "Influence on"
+    },
+    "1381187-Figure1-1.png": {
+        "prediction": "",
+        "reference": "upsampling + conv + BN + ReLU"
+    },
+    "13567899-Figure3-1.png": {
+        "prediction": "Conv4b",
+        "reference": "Conv4b"
+    },
+    "2204.10374v1-Figure1-1.png": {
+        "prediction": "pixel obs, reward",
+        "reference": "pixel obs, reward"
+    },
+    "2010.00041v1-Figure3-1.png": {
+        "prediction": "Stopping criteria",
+        "reference": "Stopping"
+    },
+    "2103.14005v2-Figure9-1.png": {
+        "prediction": "7x7x64",
+        "reference": "n x 64 x h/2 x w/2"
+    },
+    "2110.14764v2-Figure1-1.png": {
+        "prediction": "Feature Encoding",
+        "reference": "TFIDF"
+    },
+    "1422748-Figure1-1.png": {
+        "prediction": "Entity Disambiguation and Linking",
+        "reference": "and Linking"
+    },
+    "2101.07004v1-Figure2-1.png": {
+        "prediction": "Downlink data transmission",
+        "reference": "Downlink data transmission"
+    },
+    "1061647-Figure5-1.png": {
+        "prediction": "1x1 Convolution",
+        "reference": "1x1"
+    },
+    "2103.06081v1-Figure2-1.png": {
+        "prediction": "Sample plane",
+        "reference": "Sample plane"
+    },
+    "2202.03373v1-Figure5-1.png": {
+        "prediction": "C_e1(X)",
+        "reference": "1"
+    },
+    "2207.07828v1-Figure2-1.png": {
+        "prediction": "Sx2",
+        "reference": "SPGM"
+    },
+    "2102.08827v1-Figure3-1.png": {
+        "prediction": "skill",
+        "reference": "skill"
+    },
+    "2204.08805v1-Figure5-1.png": {
+        "prediction": "comparison",
+        "reference": "comparison"
+    },
+    "2207.13865v1-Figure3-1.png": {
+        "prediction": "Batches inside sampled domains",
+        "reference": "Batches inside sampled"
+    },
+    "1828713-Figure2-1.png": {
+        "prediction": "Lookup",
+        "reference": "Lookup"
+    },
+    "53776814-Figure4-1.png": {
+        "prediction": "Level 2",
+        "reference": "Deconvolution"
+    },
+    "2107.01209v1-Figure5-1.png": {
+        "prediction": "Earth",
+        "reference": "Earth"
+    },
+    "2110.14160v2-Figure2-1.png": {
+        "prediction": "Composition of DA selection",
+        "reference": "Composition of DA selection"
+    },
+    "2205.12022v1-Figure1-1.png": {
+        "prediction": "Per-region Normalization",
+        "reference": "Lcor"
+    },
+    "2207.06080v2-Figure2-1.png": {
+        "prediction": "Cat",
+        "reference": "Real Space to Feature"
+    },
+    "2204.09225v1-Figure1-1.png": {
+        "prediction": "Spatial Transformer",
+        "reference": "Temporal Fea_1Temporal Fea_2Temporal Fea_T"
+    },
+    "2102.09837v1-Figure2-1.png": {
+        "prediction": "Init",
+        "reference": "Init"
+    },
+    "2202.01032v2-Figure5-1.png": {
+        "prediction": "Subscription Management",
+        "reference": "Subscription"
+    },
+    "2202.01032v2-Figure6-1.png": {
+        "prediction": "AI termination",
+        "reference": "A1 termination"
+    },
+    "2202.02070v2-Figure2-1.png": {
+        "prediction": "Meta-DAL Layer",
+        "reference": "Intra-Norm"
+    },
+    "1319230-Figure1-1.png": {
+        "prediction": "Document Summary (d\u0302)",
+        "reference": "Document Summary (d"
+    },
+    "210713891-Figure1-1.png": {
+        "prediction": "Qlast",
+        "reference": "Qlast"
+    },
+    "2206.00726v1-Figure1-1.png": {
+        "prediction": "Vehicles 1&N Collision Classifier",
+        "reference": "Vehicles 1&N"
+    },
+    "2101.09353v2-Figure1-1.png": {
+        "prediction": "Radio link",
+        "reference": "Radio link"
+    },
+    "2101.01418v1-Figure2-1.png": {
+        "prediction": "Threshold Based",
+        "reference": "Threshold Based"
+    },
+    "2101.05151v2-Figure5-1.png": {
+        "prediction": "steps of prediction",
+        "reference": "k steps of prediction"
+    },
+    "1482745-Figure1-1.png": {
+        "prediction": "Input Layer",
+        "reference": "Input Layer"
+    },
+    "2210.08812v1-Figure2-1.png": {
+        "prediction": "Aggregation",
+        "reference": "Content"
+    },
+    "2101.07910v1-Figure2-1.png": {
+        "prediction": "Refactor the Input, with a Mutation Rate",
+        "reference": "Yes"
+    },
+    "2012.06182v1-Figure1-1.png": {
+        "prediction": "Aeronautical Layer",
+        "reference": "Layer"
+    },
+    "2012.06182v1-Figure8-1.png": {
+        "prediction": "Stand-alone HAP",
+        "reference": "Stand-alone"
+    },
+    "2103.04910v1-Figure6-1.png": {
+        "prediction": "Recursive Identifier \\( \\hat{\\theta}(t) \\)",
+        "reference": "System"
+    },
+    "2202.06208v1-Figure1-1.png": {
+        "prediction": "negative",
+        "reference": "negative"
+    },
+    "2107.01104v1-Figure1-1.png": {
+        "prediction": "The image does not contain any text within a red box to provide a transcription for. If you are requesting information about another element in the image or a different image entirely, please provide further details or the correct image.",
+        "reference": "X3"
+    },
+    "51865-Figure3-1.png": {
+        "prediction": "Pooling",
+        "reference": "Pooling"
+    },
+    "2012.02113v1-Figure8.1-1.png": {
+        "prediction": "H(X)",
+        "reference": "H(X)"
+    },
+    "2012.02113v1-Figure7.4-1.png": {
+        "prediction": "p'",
+        "reference": "p"
+    },
+    "2204.12696v1-Figure2-1.png": {
+        "prediction": "Latent V",
+        "reference": "Latent V"
+    },
+    "206593096-Figure3-1.png": {
+        "prediction": "conv5-3",
+        "reference": "image-wise"
+    },
+    "2101.10868v1-Figure1-1.png": {
+        "prediction": "Changing Users' Behaviors",
+        "reference": "Changing Users' Behaviors"
+    },
+    "2102.04539v2-Figure10-1.png": {
+        "prediction": "x",
+        "reference": "F"
+    },
+    "2102.04539v2-Figure6-1.png": {
+        "prediction": "\\(e_{V_I}\\)",
+        "reference": "E V1"
+    },
+    "2102.04539v2-Figure4-1.png": {
+        "prediction": "opt",
+        "reference": "out"
+    },
+    "2110.06487v1-Figure5-1.png": {
+        "prediction": "Online sale",
+        "reference": "Claim Site"
+    },
+    "2103.00907v1-Figure4-1.png": {
+        "prediction": "output",
+        "reference": "Output"
+    },
+    "2206.00162v2-Figure2-1.png": {
+        "prediction": "DC",
+        "reference": "Embedding"
+    },
+    "2011.03148v2-Figure4-1.png": {
+        "prediction": "Focal Similarity Loss",
+        "reference": "Similarity"
+    },
+    "2110.09749v2-Figure1-1.png": {
+        "prediction": "Information Saliency",
+        "reference": "W"
+    },
+    "2103.07592v2-Figure1-1.png": {
+        "prediction": "SM",
+        "reference": "DM"
+    },
+    "2107.05680v1-Figure2-1.png": {
+        "prediction": "",
+        "reference": "W2"
+    },
+    "2107.05214v2-Figure6-1.png": {
+        "prediction": "E",
+        "reference": "E"
+    },
+    "2102.12058v2-Figure17-1.png": {
+        "prediction": "uncommitted",
+        "reference": "uncommitted"
+    },
+    "2103.05447v1-Figure2-1.png": {
+        "prediction": "Test Section",
+        "reference": "Test Section"
+    },
+    "2010.00041v3-Figure2-1.png": {
+        "prediction": "Evaluation calculating fitness of population",
+        "reference": "New"
+    },
+    "2202.00846v1-Figure2-1.png": {
+        "prediction": "Group n",
+        "reference": "Group n"
+    },
+    "2101.07424v2-Figure1-1.png": {
+        "prediction": "Scene",
+        "reference": "Scene"
+    },
+    "2204.03873v1-Figure2-1.png": {
+        "prediction": "ST",
+        "reference": "embedding"
+    },
+    "2204.10426v1-Figure1-1.png": {
+        "prediction": "Cognitive Impairment (State 1)",
+        "reference": "impairment"
+    }
+}
