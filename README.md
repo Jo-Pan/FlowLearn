@@ -1,15 +1,17 @@
 # FlowLearn
+
+[[Webpage]](https://github.com/Jo-Pan/FlowLearn)[[Paper]](.) [[Data]](https://huggingface.co/datasets/jopan/FlowLearn)
+
 FlowLearn: Evaluating Large Vision-Language Models on Flowchart Understanding
 
-## Data Preparation [To-be-updated]
-We host the our dataset at HuggingFace [here](https://huggingface.co/datasets/ys-zong/VL-ICL).
+## Data Preparation
+We host the our dataset at HuggingFace [here](https://huggingface.co/datasets/jopan/FlowLearn).
 ```bash
 git lfs install
-git clone https://huggingface.co/datasets/ys-zong/VL-ICL
-cd VL-ICL
-bash unzip.sh
-cd ..
+git clone https://huggingface.co/datasets/jopan/FlowLearn
 ```
+The paths for each data subset can be seen in consts_dataset.py
+To generate custom Mermaid Flowcharts, you can first use get_mermaid.py and then parse_mermaid.py
 
 ## Environment
 Different conda environments may be needed for different models.
@@ -21,7 +23,7 @@ conda activate {env_name}
 ```
 Replace `{model.txt}` with corresponding file.
 
-Most of the models can be automatically downloaded from Huggingface. For Text-to-image models (Emu1, Emu2, GILL, SEED-LLaMA), please see here for detailed instructions.
+Most of the models can be automatically downloaded from Huggingface. 
 
 ## Inference
 I2T_inference.sh

@@ -28,3 +28,5 @@ CLAUDE_API_KEYs = [
 ]
 
 STEP_API_KEY = ""
+
+HF_API_KEY = "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"
